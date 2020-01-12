@@ -71,10 +71,12 @@ for dl in soup.find_all("dl"):
         information.append(paper_info)
 
 
-print(count)
 
 with open("%s/paper_info.json" % info_folder, "w") as fp:
     json.dump(information, fp, indent=2)
 
 with open("%s/paper_counts.txt" % info_folder, "w") as fp:
     fp.write(str(count))
+
+print(count)
+print(information[:3])
