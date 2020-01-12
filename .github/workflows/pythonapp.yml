@@ -32,3 +32,8 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.action }}
+    - name: Notify Telegram
+      run: |
+        pip install echoo
+        paper_count=$(cat paper_counts.txt)
+        echoo "arXiv has $paper_count papers on (date)" -t ${{ secrets.tg_token }} -id ${{ secrets.tg_chat_id }}
