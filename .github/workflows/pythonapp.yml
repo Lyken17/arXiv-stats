@@ -1,7 +1,6 @@
 name: Collect arXiv daily information
 
 on: 
-  push:
   schedule:
     - cron:  '1 */1 * * *'
 
