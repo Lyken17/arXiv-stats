@@ -27,7 +27,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git commit -m "Add changes" -a
+        git commit -m "Github action automatic update." -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
@@ -35,5 +35,6 @@ jobs:
     - name: Notify Telegram
       run: |
         pip install echoo
-        paper_count=$(cat paper_counts.txt)
+        date_format=$(date +"%y-%b/%d")
+        paper_count=$(cat $date_format/paper_counts.txt)
         echoo "arXiv has $paper_count papers on (date)" -t ${{ secrets.tg_token }} -id ${{ secrets.tg_chat_id }}
