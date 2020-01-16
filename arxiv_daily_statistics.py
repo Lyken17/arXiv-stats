@@ -27,7 +27,7 @@ soup = BeautifulSoup(html, 'html.parser')
 
 s = soup.find(class_="list-dateline").text.split("announced")[-1].strip()
 day, month, year = [_.strip() for _ in s.split(",")[-1].split()]
-info_folder = "info/%s-%s/%02s" % (year, month, day)
+info_folder = "info/%s-%s/%s" % (year, month, day)
 os.makedirs(info_folder, exist_ok=True)
 
 
