@@ -36,5 +36,5 @@ jobs:
       run: |
         pip install echoo
         date_format=$(date +"%y-%b/%d")
-        paper_count=$(cat $date_format/paper_counts.txt)
+        paper_count=$(cat info/$date_format/paper_counts.txt)
         echoo "arXiv has $paper_count papers on (date)" -t ${{ secrets.tg_token }} -id ${{ secrets.tg_chat_id }}
