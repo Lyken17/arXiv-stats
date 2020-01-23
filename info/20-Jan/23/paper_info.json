@@ -54,9 +54,9 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
-      "Neural and Evolutionary Computing (cs.NE)"
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -104,7 +104,7 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
+      "Human-Computer Interaction (cs.HC)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -210,7 +210,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -235,8 +236,9 @@
       "Xiaolin Wu"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -400,7 +402,8 @@
       "Daniel Acuna"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -483,7 +486,7 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -497,8 +500,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
-      "Information Theory (cs.IT)",
+      "Quantitative Methods (q-bio.QM)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -575,6 +577,7 @@
       "Abdulaziz Albahlal"
     ],
     "subjectives": [
+      "Social and Information Networks (cs.SI)",
       "Artificial Intelligence (cs.AI)"
     ]
   },
@@ -589,8 +592,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Networking and Internet Architecture (cs.NI)",
+      "Signal Processing (eess.SP)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -803,7 +806,8 @@
       "Beh\u00e7et A\u00e7\u0131kme\u015fe"
     ],
     "subjectives": [
-      "Computer Science and Game Theory (cs.GT)"
+      "Computer Science and Game Theory (cs.GT)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -884,7 +888,8 @@
       "Mich\u00e8le Sebag"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -895,8 +900,8 @@
       "Roland H.C. Yap"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)",
-      "Software Engineering (cs.SE)"
+      "Software Engineering (cs.SE)",
+      "Logic in Computer Science (cs.LO)"
     ]
   },
   {
@@ -922,8 +927,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
-      "Information Theory (cs.IT)",
       "Neural and Evolutionary Computing (cs.NE)",
       "Machine Learning (stat.ML)"
     ]
@@ -1054,7 +1057,8 @@
       "Gy\u00f6rgy D\u00e1n"
     ],
     "subjectives": [
-      "Computer Science and Game Theory (cs.GT)"
+      "Networking and Internet Architecture (cs.NI)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -1257,7 +1261,9 @@
       "Berthold Reinwald"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
+      "Information Retrieval (cs.IR)"
     ]
   },
   {
@@ -1459,7 +1465,7 @@
       "Adam S. Jermyn"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)",
+      "Neural and Evolutionary Computing (cs.NE)",
       "Numerical Analysis (math.NA)",
       "Computational Physics (physics.comp-ph)",
       "Quantum Physics (quant-ph)"
@@ -1606,9 +1612,8 @@
       "Tatiana Kalganova"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)",
-      "Distributed, Parallel, and Cluster Computing (cs.DC)",
-      "Neural and Evolutionary Computing (cs.NE)"
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
     ]
   },
   {
@@ -1622,7 +1627,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Image and Video Processing (eess.IV)",
       "Machine Learning (stat.ML)"
     ]
@@ -1809,7 +1813,8 @@
       "Erik G. Larsson"
     ],
     "subjectives": [
-      "Networking and Internet Architecture (cs.NI)"
+      "Networking and Internet Architecture (cs.NI)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -1874,7 +1879,8 @@
       "Aruna Seneviratne"
     ],
     "subjectives": [
-      "Networking and Internet Architecture (cs.NI)"
+      "Networking and Internet Architecture (cs.NI)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -1960,7 +1966,7 @@
   },
   {
     "id": "arXiv:2001.08173",
-    "title": "Causality based Feature Fusion for Brain NeuroDevelopmental Analysis",
+    "title": "Causality based Feature Fusion for Brain Neuro-Developmental Analysis",
     "authors": [
       "Peyman Hosseinzadeh Kassani",
       "Li Xiao",
@@ -1972,7 +1978,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Image and Video Processing (eess.IV)",
+      "Neurons and Cognition (q-bio.NC)"
     ]
   },
   {
@@ -2058,8 +2065,8 @@
       "Ehsan Samei"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Neural and Evolutionary Computing (cs.NE)",
       "Medical Physics (physics.med-ph)"
@@ -2100,6 +2107,7 @@
       "Koji Yatani"
     ],
     "subjectives": [
+      "Computers and Society (cs.CY)",
       "Human-Computer Interaction (cs.HC)"
     ]
   },
@@ -2153,6 +2161,7 @@
       "John Paul Walters"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
       "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
@@ -2260,7 +2269,6 @@
     ],
     "subjectives": [
       "Statistics Theory (math.ST)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Signal Processing (eess.SP)",
       "Machine Learning (stat.ML)"
