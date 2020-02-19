@@ -181,7 +181,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -369,7 +368,9 @@
       "Vladimir Stojanovic"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -544,7 +545,7 @@
   },
   {
     "id": "arXiv:2002.07289",
-    "title": "A Depth-Aware Swap Insertion Schemefor the Qubit Mapping Problem",
+    "title": "A Depth-Aware Swap Insertion Scheme for the Qubit Mapping Problem",
     "authors": [
       "Chi Zhang",
       "Yanhao Chen",
@@ -781,9 +782,9 @@
       "Byeungwoo Jeon"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)",
-      "Computational Complexity (cs.CC)",
-      "Cryptography and Security (cs.CR)"
+      "Signal Processing (eess.SP)",
+      "Cryptography and Security (cs.CR)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -813,7 +814,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -1122,6 +1122,7 @@
       "Dimitri Bertsekas"
     ],
     "subjectives": [
+      "Optimization and Control (math.OC)",
       "Artificial Intelligence (cs.AI)"
     ]
   },
@@ -1231,8 +1232,9 @@
       "Dawei Song"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)",
+      "Neural and Evolutionary Computing (cs.NE)"
     ]
   },
   {
@@ -1244,7 +1246,9 @@
       "Wei Fan"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -1393,6 +1397,7 @@
       "Warasinee Chaisangmongkon"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
       "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
@@ -1469,6 +1474,7 @@
       "Emanuel Marom"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
       "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
@@ -1481,6 +1487,7 @@
       "Maxime Pelcat"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
       "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
@@ -1781,7 +1788,7 @@
     ],
     "subjectives": [
       "Robotics (cs.RO)",
-      "Artificial Intelligence (cs.AI)",
+      "Human-Computer Interaction (cs.HC)",
       "Neural and Evolutionary Computing (cs.NE)",
       "Neurons and Cognition (q-bio.NC)"
     ]
@@ -1813,7 +1820,10 @@
       "Zhe Wang"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)",
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -1874,9 +1884,8 @@
       "Mohammad-Ali Balafar"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)",
-      "Computation and Language (cs.CL)",
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -1898,6 +1907,7 @@
       "Roger Wattenhofer"
     ],
     "subjectives": [
+      "Risk Management (q-fin.RM)",
       "Computer Science and Game Theory (cs.GT)"
     ]
   },
@@ -1982,7 +1992,6 @@
     ],
     "subjectives": [
       "Distributed, Parallel, and Cluster Computing (cs.DC)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Networking and Internet Architecture (cs.NI)"
     ]
@@ -1991,12 +2000,13 @@
     "id": "arXiv:2002.07591",
     "title": "Text Classification with Lexicon from PreAttention Mechanism",
     "authors": [
-      "QINGBIAO LI",
-      "CHUNHUA WU",
-      "KANGFENG ZHENG"
+      "QingBiao LI",
+      "Chunhua Wu",
+      "Kangfeng Zheng"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2158,7 +2168,6 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Image and Video Processing (eess.IV)",
       "Machine Learning (stat.ML)"
@@ -2563,7 +2572,7 @@
     ],
     "subjectives": [
       "Emerging Technologies (cs.ET)",
-      "Materials Science (cond-mat.mtrl-sci)"
+      "Applied Physics (physics.app-ph)"
     ]
   },
   {
@@ -3178,7 +3187,6 @@
     ],
     "subjectives": [
       "Machine Learning (stat.ML)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -3315,9 +3323,7 @@
     ],
     "subjectives": [
       "Machine Learning (stat.ML)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
-      "Applications (stat.AP)",
       "Computation (stat.CO)"
     ]
   },
@@ -3473,7 +3479,6 @@
     ],
     "subjectives": [
       "Machine Learning (stat.ML)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -3560,7 +3565,7 @@
     ],
     "subjectives": [
       "Signal Processing (eess.SP)",
-      "Artificial Intelligence (cs.AI)"
+      "Information Theory (cs.IT)"
     ]
   },
   {
