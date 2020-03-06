@@ -22,7 +22,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Computer Science and Game Theory (cs.GT)",
       "Machine Learning (stat.ML)"
     ]
@@ -48,7 +47,8 @@
       "Suat Gumussoy"
     ],
     "subjectives": [
-      "Systems and Control (eess.SY)"
+      "Systems and Control (eess.SY)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -248,7 +248,7 @@
       "Antoine Zimmermann"
     ],
     "subjectives": [
-      "Social and Information Networks (cs.SI)",
+      "Artificial Intelligence (cs.AI)",
       "Databases (cs.DB)",
       "Machine Learning (cs.LG)"
     ]
@@ -441,7 +441,8 @@
       "Ariel Orda"
     ],
     "subjectives": [
-      "Networking and Internet Architecture (cs.NI)"
+      "Networking and Internet Architecture (cs.NI)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
     ]
   },
   {
@@ -482,7 +483,8 @@
       "Hui Li"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -689,7 +691,9 @@
       "Enrico Bertini"
     ],
     "subjectives": [
-      "Human-Computer Interaction (cs.HC)"
+      "Human-Computer Interaction (cs.HC)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -772,7 +776,7 @@
     ],
     "subjectives": [
       "Databases (cs.DB)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -786,7 +790,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1058,7 +1063,8 @@
       "Yinyu Ye"
     ],
     "subjectives": [
-      "Data Structures and Algorithms (cs.DS)"
+      "Data Structures and Algorithms (cs.DS)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -1121,7 +1127,8 @@
     ],
     "subjectives": [
       "Robotics (cs.RO)",
-      "Systems and Control (eess.SY)"
+      "Systems and Control (eess.SY)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -1189,7 +1196,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -1390,8 +1396,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1539,8 +1545,8 @@
     ],
     "subjectives": [
       "Information Theory (cs.IT)",
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -1657,7 +1663,7 @@
     ],
     "subjectives": [
       "Emerging Technologies (cs.ET)",
-      "Artificial Intelligence (cs.AI)"
+      "Neural and Evolutionary Computing (cs.NE)"
     ]
   },
   {
@@ -1670,7 +1676,6 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Machine Learning (stat.ML)"
     ]
@@ -1763,7 +1768,8 @@
       "Stephen Kobourov"
     ],
     "subjectives": [
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Physics and Society (physics.soc-ph)"
     ]
   },
   {
@@ -1775,7 +1781,8 @@
       "Nicola Marchetti"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -1867,7 +1874,8 @@
       "Ji Xu"
     ],
     "subjectives": [
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Physics and Society (physics.soc-ph)"
     ]
   },
   {
@@ -2030,8 +2038,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -2045,7 +2053,8 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2085,6 +2094,8 @@
       "Christian Curriden"
     ],
     "subjectives": [
+      "Digital Libraries (cs.DL)",
+      "Artificial Intelligence (cs.AI)",
       "Computers and Society (cs.CY)"
     ]
   },
@@ -2099,7 +2110,7 @@
     ],
     "subjectives": [
       "Robotics (cs.RO)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2335,7 +2346,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Databases (cs.DB)",
       "Social and Information Networks (cs.SI)",
       "Machine Learning (stat.ML)"
