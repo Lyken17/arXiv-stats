@@ -94,7 +94,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Software Engineering (cs.SE)",
       "Machine Learning (stat.ML)"
     ]
@@ -569,7 +568,8 @@
       "Chengkai Li"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -615,7 +615,8 @@
       "Xiangang Li"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -667,8 +668,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)",
       "High Energy Physics - Experiment (hep-ex)"
     ]
   },
@@ -706,7 +707,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -801,7 +803,8 @@
       "H. Eric Tseng"
     ],
     "subjectives": [
-      "Systems and Control (eess.SY)"
+      "Systems and Control (eess.SY)",
+      "Robotics (cs.RO)"
     ]
   },
   {
@@ -832,8 +835,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -915,8 +918,9 @@
       "Ranjitha Kumar"
     ],
     "subjectives": [
-      "Human-Computer Interaction (cs.HC)",
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Information Retrieval (cs.IR)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Human-Computer Interaction (cs.HC)"
     ]
   },
   {
@@ -1241,8 +1245,8 @@
       "M. Jorge Cardoso"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)",
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computers and Society (cs.CY)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1306,9 +1310,8 @@
     ],
     "subjectives": [
       "Social and Information Networks (cs.SI)",
-      "Artificial Intelligence (cs.AI)",
-      "Information Theory (cs.IT)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Statistical Finance (q-fin.ST)"
     ]
   },
   {
@@ -1566,7 +1569,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -1774,7 +1778,7 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2256,7 +2260,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)",
       "Quantitative Methods (q-bio.QM)"
     ]
   },
@@ -2332,7 +2337,7 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2469,8 +2474,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -2522,12 +2527,8 @@
       "Gabor Vattay"
     ],
     "subjectives": [
-      "Physics and Society (physics.soc-ph)",
-      "Disordered Systems and Neural Networks (cond-mat.dis-nn)",
-      "Statistical Mechanics (cond-mat.stat-mech)",
-      "Computational Engineering, Finance, and Science (cs.CE)",
-      "Adaptation and Self-Organizing Systems (nlin.AO)",
-      "Populations and Evolution (q-bio.PE)"
+      "Populations and Evolution (q-bio.PE)",
+      "Physics and Society (physics.soc-ph)"
     ]
   },
   {
