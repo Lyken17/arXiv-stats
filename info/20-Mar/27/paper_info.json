@@ -57,7 +57,10 @@
     "id": "arXiv:2003.11562",
     "title": "Finnish Language Modeling with Deep Transformer Models",
     "authors": [
-      "Abhilash Jain"
+      "Abhilash Jain",
+      "Aku Ruohe",
+      "Stig-Arne Gr\u00f6nroos",
+      "Mikko Kurimo"
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
@@ -1490,7 +1493,7 @@
       "Sebastian Palacio",
       "Joachim Folz",
       "Federico Raue",
-      "Jorn Hees",
+      "Joern Hees",
       "Andreas Dengel"
     ],
     "subjectives": [
@@ -1860,7 +1863,7 @@
       "Weijia Zhang",
       "Lin Liu",
       "Kui Yu",
-      "Thuc Le",
+      "Thuc Duy Le",
       "Jixue Liu"
     ],
     "subjectives": [
@@ -1938,7 +1941,7 @@
   },
   {
     "id": "arXiv:2003.11954",
-    "title": "Bounded state Estimation over Finite-State Channels: Relating  Topological Entropy and Zero-Error Capacity",
+    "title": "Bounded State Estimation over Finite-State Channels: Relating  Topological Entropy and Zero-Error Capacity",
     "authors": [
       "Amir Saberi",
       "Farhad Farokhi",
@@ -1982,7 +1985,9 @@
     ],
     "subjectives": [
       "Robotics (cs.RO)",
+      "Computer Science and Game Theory (cs.GT)",
       "Human-Computer Interaction (cs.HC)",
+      "Machine Learning (cs.LG)",
       "Systems and Control (eess.SY)"
     ]
   },
