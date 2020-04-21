@@ -1723,7 +1723,7 @@
     ],
     "subjectives": [
       "Cryptography and Security (cs.CR)",
-      "Artificial Intelligence (cs.AI)",
+      "Networking and Internet Architecture (cs.NI)",
       "Signal Processing (eess.SP)"
     ]
   },
@@ -1998,7 +1998,7 @@
       "Karl-Heinz Zimmermann"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)",
+      "Formal Languages and Automata Theory (cs.FL)",
       "Discrete Mathematics (cs.DM)"
     ]
   },
@@ -2423,6 +2423,7 @@
     ],
     "subjectives": [
       "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Image and Video Processing (eess.IV)",
       "Optimization and Control (math.OC)"
     ]
   },
@@ -3724,6 +3725,7 @@
       "Amir Javadpour"
     ],
     "subjectives": [
+      "Networking and Internet Architecture (cs.NI)",
       "Systems and Control (eess.SY)"
     ]
   },
@@ -4344,9 +4346,7 @@
       "Andres Rekker"
     ],
     "subjectives": [
-      "General Literature (cs.GL)",
-      "Distributed, Parallel, and Cluster Computing (cs.DC)",
-      "Computer Science and Game Theory (cs.GT)",
+      "Computers and Society (cs.CY)",
       "Multiagent Systems (cs.MA)"
     ]
   },
@@ -4370,7 +4370,9 @@
       "Joseph Euzebe Tate"
     ],
     "subjectives": [
-      "Systems and Control (eess.SY)"
+      "Systems and Control (eess.SY)",
+      "Machine Learning (cs.LG)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -5517,8 +5519,7 @@
       "Erik Bollt"
     ],
     "subjectives": [
-      "Dynamical Systems (math.DS)",
-      "Information Theory (cs.IT)",
+      "Populations and Evolution (q-bio.PE)",
       "Applications (stat.AP)"
     ]
   },
