@@ -1817,7 +1817,7 @@
   },
   {
     "id": "arXiv:2004.11184",
-    "title": "Constrained Physics-Informed Deep Learning for Stable System  Identification and Control of Linear Systems",
+    "title": "Constrained Physics-Informed Deep Learning for Stable System  Identification and Control of Unknown Linear Systems",
     "authors": [
       "Jan Drgona",
       "Aaron Tuor",
@@ -1981,7 +1981,8 @@
       "Ghislain Fourny"
     ],
     "subjectives": [
-      "Computer Science and Game Theory (cs.GT)"
+      "Computer Science and Game Theory (cs.GT)",
+      "Classical Physics (physics.class-ph)"
     ]
   },
   {
@@ -2447,7 +2448,7 @@
   },
   {
     "id": "arXiv:2004.11356",
-    "title": "From Physics-based models to Predictive Digital Twins via Interpretable  Machine Learning",
+    "title": "From Physics-Based Models to Predictive Digital Twins via Interpretable  Machine Learning",
     "authors": [
       "MIchael G. Kapteyn",
       "Karen E. Willcox"
@@ -4498,9 +4499,9 @@
     "title": "Fairway: SE Principles for Building Fairer Software",
     "authors": [
       "Joymallya Chakraborty",
-      "Suvodeep Majumdar",
-      "Zhe Wu",
-      "Tim Menziess"
+      "Suvodeep Majumder",
+      "Zhe Yu",
+      "Tim Menzies"
     ],
     "subjectives": [
       "Software Engineering (cs.SE)"
@@ -4944,6 +4945,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -4999,7 +5001,8 @@
     "title": "Deep Learning for Screening COVID-19 using Chest X-Ray Images",
     "authors": [
       "Sanhita Basu",
-      "Sushmita Mitra"
+      "Sushmita Mitra",
+      "Nilanjan Saha"
     ],
     "subjectives": [
       "Image and Video Processing (eess.IV)",
