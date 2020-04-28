@@ -158,7 +158,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
+      "Neural and Evolutionary Computing (cs.NE)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -215,7 +215,10 @@
       "Awais Khan"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -483,7 +486,9 @@
       "Federico Tombari"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1012,7 +1017,8 @@
       "Yu Zheng"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Social and Information Networks (cs.SI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1023,7 +1029,8 @@
       "Ying-Chang Liang"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -1115,7 +1122,8 @@
     ],
     "subjectives": [
       "Neural and Evolutionary Computing (cs.NE)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1220,14 +1228,15 @@
   },
   {
     "id": "arXiv:2004.12152",
-    "title": "Semi-Lexical Languages -- A Formal Basis for Unifying Machine Learning  andSymbolic Reasoning in Computer Vision",
+    "title": "Semi-Lexical Languages -- A Formal Basis for Unifying Machine Learning  and Symbolic Reasoning in Computer Vision",
     "authors": [
       "Briti Gangopadhyay",
       "Somnath Hazra",
       "Pallab Dasgupta"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
@@ -1456,7 +1465,8 @@
       "Michael Zadok"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Neural and Evolutionary Computing (cs.NE)"
     ]
   },
   {
@@ -1536,8 +1546,9 @@
       "Franziska Heine"
     ],
     "subjectives": [
+      "Digital Libraries (cs.DL)",
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Human-Computer Interaction (cs.HC)"
     ]
   },
   {
@@ -1654,7 +1665,8 @@
       "Simaan M. AbouRizk"
     ],
     "subjectives": [
-      "Information Retrieval (cs.IR)"
+      "Information Retrieval (cs.IR)",
+      "Software Engineering (cs.SE)"
     ]
   },
   {
@@ -1772,7 +1784,9 @@
       "K. Madhava Krishna"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Robotics (cs.RO)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1808,7 +1822,9 @@
       "Kayhan Zrar Ghafoor"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Social and Information Networks (cs.SI)",
+      "Computers and Society (cs.CY)",
+      "Human-Computer Interaction (cs.HC)"
     ]
   },
   {
@@ -1822,8 +1838,8 @@
       "Song-Chun Zhu"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)",
-      "Human-Computer Interaction (cs.HC)"
+      "Human-Computer Interaction (cs.HC)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
@@ -1990,7 +2006,9 @@
       "Eric Xing"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -2036,7 +2054,9 @@
       "Wei Fan"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
@@ -2177,7 +2197,8 @@
       "Zhongchao Shi"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -2361,7 +2382,9 @@
       "Haiyang Xu"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Computation and Language (cs.CL)",
+      "Information Retrieval (cs.IR)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2469,7 +2492,9 @@
       "Lior Wolf"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -2948,7 +2973,8 @@
       "Usman Sani Sharif"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Computers and Society (cs.CY)",
+      "Populations and Evolution (q-bio.PE)"
     ]
   },
   {
@@ -3554,7 +3580,7 @@
       "Iman Naderi"
     ],
     "subjectives": [
-      "Cryptography and Security (cs.CR)",
+      "Multimedia (cs.MM)",
       "Sound (cs.SD)",
       "Audio and Speech Processing (eess.AS)"
     ]
@@ -3750,7 +3776,8 @@
       "Chan-Byoung Chae"
     ],
     "subjectives": [
-      "Networking and Internet Architecture (cs.NI)"
+      "Networking and Internet Architecture (cs.NI)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -4165,8 +4192,8 @@
       "Sajib Mistry"
     ],
     "subjectives": [
-      "Distributed, Parallel, and Cluster Computing (cs.DC)",
-      "Artificial Intelligence (cs.AI)"
+      "Computers and Society (cs.CY)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
     ]
   },
   {
@@ -4309,7 +4336,9 @@
       "Marco F. Huber"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Robotics (cs.RO)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -4450,7 +4479,9 @@
       "Peter Nielsen"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -4487,7 +4518,7 @@
       "Markus Wagner"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Neural and Evolutionary Computing (cs.NE)"
     ]
   },
   {
@@ -4554,7 +4585,8 @@
       "Alvaro Soto"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -4653,7 +4685,7 @@
     ],
     "subjectives": [
       "Multiagent Systems (cs.MA)",
-      "Artificial Intelligence (cs.AI)"
+      "Social and Information Networks (cs.SI)"
     ]
   },
   {
@@ -4794,7 +4826,8 @@
       "Dieter Pfoser"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Social and Information Networks (cs.SI)"
     ]
   },
   {
@@ -4925,7 +4958,8 @@
       "Xinglei Dou"
     ],
     "subjectives": [
-      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Quantum Physics (quant-ph)"
     ]
   },
   {
@@ -5161,6 +5195,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -5222,6 +5257,7 @@
       "Amir Ghalamzan E"
     ],
     "subjectives": [
+      "Robotics (cs.RO)",
       "Artificial Intelligence (cs.AI)"
     ]
   },
@@ -5360,7 +5396,8 @@
       "Mohamed Cheriet"
     ],
     "subjectives": [
-      "Software Engineering (cs.SE)"
+      "Software Engineering (cs.SE)",
+      "Computers and Society (cs.CY)"
     ]
   },
   {
@@ -5632,7 +5669,8 @@
       "Jimmy Lin"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
