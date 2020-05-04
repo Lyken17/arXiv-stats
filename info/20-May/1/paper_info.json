@@ -1312,7 +1312,7 @@
     "authors": [
       "Tomasz Limisiewicz",
       "Rudolf Rosa",
-      "David Mare\\v{cek}"
+      "David Mare\u010dek"
     ],
     "subjectives": [
       "Computation and Language (cs.CL)"
@@ -4473,7 +4473,9 @@
       "Yair Zick"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computer Science and Game Theory (cs.GT)",
+      "Theoretical Economics (econ.TH)"
     ]
   },
   {
