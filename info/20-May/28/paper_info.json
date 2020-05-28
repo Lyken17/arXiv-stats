@@ -103,9 +103,7 @@
     ],
     "subjectives": [
       "Information Retrieval (cs.IR)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
-      "Multimedia (cs.MM)",
       "Social and Information Networks (cs.SI)",
       "Machine Learning (stat.ML)"
     ]
@@ -159,7 +157,6 @@
     ],
     "subjectives": [
       "Information Retrieval (cs.IR)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Machine Learning (stat.ML)"
     ]
@@ -255,7 +252,8 @@
     ],
     "subjectives": [
       "Information Retrieval (cs.IR)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -351,7 +349,8 @@
       "Shreyas Sen"
     ],
     "subjectives": [
-      "Networking and Internet Architecture (cs.NI)"
+      "Networking and Internet Architecture (cs.NI)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -459,7 +458,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (stat.ML)"
     ]
@@ -498,7 +496,7 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Social and Information Networks (cs.SI)"
     ]
   },
   {
@@ -609,7 +607,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -745,7 +743,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Computation and Language (cs.CL)",
       "Machine Learning (stat.ML)"
     ]
@@ -893,8 +890,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -910,7 +907,7 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)",
       "Robotics (cs.RO)"
     ]
   },
@@ -925,7 +922,8 @@
       "Geoffrey Ye Li"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -939,7 +937,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1101,7 +1100,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Cryptography and Security (cs.CR)",
       "Machine Learning (stat.ML)"
     ]
@@ -1159,7 +1157,9 @@
       "Maryam Taghizadeh"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1517,7 +1517,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1601,7 +1602,7 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1724,7 +1725,7 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1768,7 +1769,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Sound (cs.SD)",
       "Audio and Speech Processing (eess.AS)",
       "Machine Learning (stat.ML)"
@@ -2351,7 +2351,8 @@
       "Mohamed-Slim Alouini"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -2549,7 +2550,7 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2561,7 +2562,8 @@
       "Deyu Zhou"
     ],
     "subjectives": [
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -2682,7 +2684,7 @@
     ],
     "subjectives": [
       "Audio and Speech Processing (eess.AS)",
-      "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
       "Sound (cs.SD)"
     ]
   },
@@ -2871,8 +2873,8 @@
       "Venkat R. Dasari"
     ],
     "subjectives": [
-      "Optimization and Control (math.OC)",
-      "Networking and Internet Architecture (cs.NI)"
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -2909,8 +2911,8 @@
       "Paulo J. M. Monteiro"
     ],
     "subjectives": [
+      "Applied Physics (physics.app-ph)",
       "Materials Science (cond-mat.mtrl-sci)",
-      "Computer Vision and Pattern Recognition (cs.CV)",
       "Geophysics (physics.geo-ph)"
     ]
   },
@@ -3303,7 +3305,7 @@
   },
   {
     "id": "arXiv:2005.13471",
-    "title": "gram filtering and sinogram interpolation for pixel-basis in  parallel-beam x-ray ct reconstruction",
+    "title": "Gram filtering and sinogram interpolation for pixel-basis in  parallel-beam X-ray CT reconstruction",
     "authors": [
       "Ziyu Shu",
       "Alireza Entezari"
