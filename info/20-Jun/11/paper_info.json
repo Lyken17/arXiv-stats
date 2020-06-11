@@ -60,7 +60,6 @@
     ],
     "subjectives": [
       "Information Retrieval (cs.IR)",
-      "Artificial Intelligence (cs.AI)",
       "Computers and Society (cs.CY)",
       "Machine Learning (cs.LG)",
       "Multiagent Systems (cs.MA)"
@@ -103,7 +102,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -183,7 +181,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -251,6 +248,7 @@
       "H\u00e5vard D. Johansen"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
       "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
@@ -497,7 +495,8 @@
       "Swagat Kumar"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -580,7 +579,6 @@
     ],
     "subjectives": [
       "Computers and Society (cs.CY)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Machine Learning (stat.ML)"
     ]
@@ -1119,7 +1117,8 @@
       "Yang Liu"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -1234,8 +1233,9 @@
       "Amber Jaycocks"
     ],
     "subjectives": [
+      "Machine Learning (cs.LG)",
       "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Multiagent Systems (cs.MA)"
     ]
   },
   {
@@ -1312,7 +1312,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -1447,7 +1446,9 @@
       "Fei Wu"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -1602,7 +1603,8 @@
       "Hui Xue"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1751,7 +1753,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1998,7 +2001,8 @@
       "Babak Sadeghiyan"
     ],
     "subjectives": [
-      "Cryptography and Security (cs.CR)"
+      "Cryptography and Security (cs.CR)",
+      "Networking and Internet Architecture (cs.NI)"
     ]
   },
   {
@@ -2085,6 +2089,7 @@
       "Yitian Zhao"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
       "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
@@ -2158,7 +2163,8 @@
       "Rui Zhang"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -2243,7 +2249,8 @@
       "Xu Zhang"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -2784,6 +2791,7 @@
       "Gerardo Hermosillo Valadez"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
       "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
@@ -2896,7 +2904,8 @@
       "Daphne Kyriaki-Manessi"
     ],
     "subjectives": [
-      "Digital Libraries (cs.DL)"
+      "Digital Libraries (cs.DL)",
+      "Physics and Society (physics.soc-ph)"
     ]
   },
   {
@@ -6295,7 +6304,6 @@
     ],
     "subjectives": [
       "Machine Learning (stat.ML)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -6369,7 +6377,7 @@
     ],
     "subjectives": [
       "Methodology (stat.ME)",
-      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)",
       "Computation (stat.CO)"
     ]
   },
