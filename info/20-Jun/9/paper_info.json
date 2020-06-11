@@ -3410,6 +3410,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -3588,7 +3589,8 @@
     "subjectives": [
       "Information Theory (cs.IT)",
       "Machine Learning (cs.LG)",
-      "Optimization and Control (math.OC)"
+      "Optimization and Control (math.OC)",
+      "Probability (math.PR)"
     ]
   },
   {
@@ -5298,7 +5300,7 @@
     "title": "WaveNODE: A Continuous Normalizing Flow for Speech Synthesis",
     "authors": [
       "Hyeongju Kim",
-      "Hyeongseung Lee",
+      "Hyeonseung Lee",
       "Woo Hyun Kang",
       "Sung Jun Cheon",
       "Byoung Jin Choi",
@@ -6334,7 +6336,7 @@
     "title": "Linformer: Self-Attention with Linear Complexity",
     "authors": [
       "Sinong Wang",
-      "Belinda Li",
+      "Belinda Z. Li",
       "Madian Khabsa",
       "Han Fang",
       "Hao Ma"
@@ -6463,6 +6465,7 @@
       "Machine Learning (cs.LG)",
       "Disordered Systems and Neural Networks (cond-mat.dis-nn)",
       "Neural and Evolutionary Computing (cs.NE)",
+      "High Energy Physics - Theory (hep-th)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -6834,8 +6837,8 @@
     "id": "arXiv:2006.04001",
     "title": "Real-Time Model Calibration with Deep Reinforcement Learning",
     "authors": [
-      "Manuel Arias Chao",
       "Yuan Tian",
+      "Manuel Arias Chao",
       "Chetan Kulkarni",
       "Kai Goebel",
       "Olga Fink"
@@ -7518,10 +7521,11 @@
   },
   {
     "id": "arXiv:2006.04558",
-    "title": "FastSpeech 2: Fast and High-Quality End-to-End Text-to-Speech",
+    "title": "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech",
     "authors": [
       "Yi Ren",
       "Chenxu Hu",
+      "Xu Tan",
       "Tao Qin",
       "Sheng Zhao",
       "Zhou Zhao",
@@ -10010,7 +10014,7 @@
   },
   {
     "id": "arXiv:2002.06856",
-    "title": "Data and Model Dependencies of Membership Inference Attacks",
+    "title": "Data and Model Dependencies of Membership Inference Attack",
     "authors": [
       "Shakila Mahjabin Tonni",
       "Dinusha Vatsalan Farhad Farokhi",
@@ -10963,7 +10967,7 @@
     "authors": [
       "Ram G Athreya",
       "Srividya Bansal",
-      "Axel-Cyrille Ngonga-Ngomo",
+      "Axel-Cyrille Ngonga Ngomo",
       "Ricardo Usbeck"
     ],
     "subjectives": [
