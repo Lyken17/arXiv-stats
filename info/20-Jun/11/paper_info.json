@@ -628,12 +628,13 @@
       "Hui-Hui Dai"
     ],
     "subjectives": [
-      "Computational Engineering, Finance, and Science (cs.CE)"
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      "Biological Physics (physics.bio-ph)"
     ]
   },
   {
     "id": "arXiv:2006.04950",
-    "title": "Machine Learning Systems for Smart Services in the Internet of Things",
+    "title": "Machine Learning Systems for Intelligent Services in the IoT: A Survey",
     "authors": [
       "Wiebke Toussaint",
       "Aaron Yi Ding"
@@ -1244,14 +1245,8 @@
     "authors": [
       "Bo Pang",
       "Deming Zhai",
-      "Member",
-      "IEEE",
       "Junjun Jiang",
-      "Member",
-      "IEEE",
-      "Xianming Liu",
-      "Member",
-      "IEEE"
+      "Xianming Liu"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)"
@@ -1799,7 +1794,7 @@
   },
   {
     "id": "arXiv:2006.05138",
-    "title": "Sparse Dynamic Distribution Decomposition: Efficient Integration of  Trajectory and SnapshotTime Series Data",
+    "title": "Sparse Dynamic Distribution Decomposition: Efficient Integration of  Trajectory and Snapshot Time Series Data",
     "authors": [
       "Jake P. Taylor-King",
       "Cristian Regep",
@@ -2578,7 +2573,7 @@
   },
   {
     "id": "arXiv:2006.05275",
-    "title": "On the complexity of the universality and inclusion problems for  unambiguous context-free grammars (Invited Paper)",
+    "title": "On the complexity of the universality and inclusion problems for  unambiguous context-free grammars (technical report)",
     "authors": [
       "Lorenzo Clemente"
     ],
@@ -5094,7 +5089,7 @@
   },
   {
     "id": "arXiv:2006.05779",
-    "title": "Self-Supervised Reinforcement Learning forRecommender Systems",
+    "title": "Self-Supervised Reinforcement Learning for Recommender Systems",
     "authors": [
       "Xin Xin",
       "Alexandros Karatzoglou",
@@ -5165,11 +5160,11 @@
     "id": "arXiv:2006.05805",
     "title": "Distribution Regression for Continuous-Time Processes via the Expected  Signature",
     "authors": [
-      "M. Lemercier",
-      "C. Salvi",
-      "T. Damoulas",
-      "E. V. Bonilla",
-      "T. Lyons"
+      "Maud Lemercier",
+      "Cristopher Salvi",
+      "Theodoros Damoulas",
+      "Edwin V. Bonilla",
+      "Terry Lyons"
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
@@ -6509,27 +6504,23 @@
   },
   {
     "id": "arXiv:2006.04998",
-    "title": "Automated Quantification of CT Patterns Associated with COVID-19 from  Chest CT",
+    "title": "Machine Learning Automatically Detects COVID-19 using Chest CTs in a  Large Multicenter Cohort",
     "authors": [
-      "Shikha Chaganti",
-      "Abishek Balachandran",
-      "Guillaume Chabin",
-      "Stuart Cohen",
-      "Thomas Flohr",
-      "apl. Prof.",
       "Bogdan Georgescu",
+      "Shikha Chaganti",
+      "Gorka Bastarrika Aleman",
+      "Eduardo Jose Mortani Barbosa Jr.",
+      "Jordi Broncano Cabrero",
+      "Guillaume Chabin",
+      "Thomas Flohr",
       "Philippe Grenier",
-      "Prof.",
       "Sasa Grbic",
-      "Siqi Liu",
+      "Nakul Gupta",
       "Fran\u00e7ois Mellot",
-      "Nicolas Murray",
       "Savvas Nicolaou",
-      "William Parker",
       "Thomas Re",
       "Pina Sanelli",
       "Alexander W. Sauter",
-      "Zhoubing Xu",
       "Youngjin Yoo",
       "Valentin Ziebandt",
       "Dorin Comaniciu"
@@ -7047,7 +7038,7 @@
   },
   {
     "id": "arXiv:2006.05389",
-    "title": "A t-distribution based operator for enhancing \\\\ out of distribution  robustness of neural network classifiers",
+    "title": "A t-distribution based operator for enhancing out of distribution  robustness of neural network classifiers",
     "authors": [
       "Niccol\u00f2 Antonello",
       "Philip N. Garner"
@@ -7598,8 +7589,8 @@
     "title": "Learning the geometry of wave-based imaging",
     "authors": [
       "Konik Kothari",
-      "Ivan Dokmani\u0107",
-      "Maarten de Hoop"
+      "Maarten de Hoop",
+      "Ivan Dokmani\u0107"
     ],
     "subjectives": [
       "Image and Video Processing (eess.IV)",
@@ -9688,7 +9679,8 @@
     "title": "Data and Model Dependencies of Membership Inference Attack",
     "authors": [
       "Shakila Mahjabin Tonni",
-      "Dinusha Vatsalan Farhad Farokhi",
+      "Dinusha Vatsalan",
+      "Farhad Farokhi",
       "Dali Kaafar",
       "Zhigang Lu",
       "Gioacchino Tangari"
@@ -11411,9 +11403,9 @@
     "id": "arXiv:2006.03651",
     "title": "Provably Stable Interpretable Encodings of Context Free Grammars in RNNs  with a Differentiable Stack",
     "authors": [
-      "Dr. John Stogin",
+      "John Stogin",
       "Ankur Mali",
-      "Dr. Lee Giles"
+      "C Lee Giles"
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
