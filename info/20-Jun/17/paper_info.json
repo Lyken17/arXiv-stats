@@ -595,7 +595,7 @@
   },
   {
     "id": "arXiv:2006.08750",
-    "title": "A two-level shifted Laplace Preconditioner for Helmholtz Problems:  Field-of-values analysis and wavenumber-independent convergence",
+    "title": "A two-level shifted Laplace preconditioner for Helmholtz problems:  Field-of-values analysis and wavenumber-independent convergence",
     "authors": [
       "Luis Garc\u00eda Ramos",
       "Reinhard Nabben"
@@ -928,7 +928,7 @@
     "id": "arXiv:2006.08798",
     "title": "Equilibrium Propagation for Complete Directed Neural Networks",
     "authors": [
-      "Matilde Tristany",
+      "Matilde Tristany Farinha",
       "S\u00e9rgio Pequito",
       "Pedro A. Santos",
       "M\u00e1rio A. T. Figueiredo"
@@ -2284,12 +2284,13 @@
       "Christos-Savvas Bouganis"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
     "id": "arXiv:2006.09073",
-    "title": "Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based  VisualQuestion Answering",
+    "title": "Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual  Question Answering",
     "authors": [
       "Zihao Zhu",
       "Jing Yu",
@@ -2496,6 +2497,7 @@
     ],
     "subjectives": [
       "Cryptography and Security (cs.CR)",
+      "Software Engineering (cs.SE)",
       "Systems and Control (eess.SY)"
     ]
   },
@@ -5429,7 +5431,7 @@
       "Kaidi Xu",
       "Abdullah Al-Dujaili",
       "Minyi Hong",
-      "Una-May Obelilly"
+      "Una-May O'Reilly"
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
