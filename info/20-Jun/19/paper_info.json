@@ -10,9 +10,9 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
       "Computation and Language (cs.CL)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -39,8 +39,8 @@
     ],
     "subjectives": [
       "Distributed, Parallel, and Cluster Computing (cs.DC)",
-      "Artificial Intelligence (cs.AI)",
-      "Cryptography and Security (cs.CR)"
+      "Cryptography and Security (cs.CR)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -92,7 +92,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -108,7 +107,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -125,7 +123,7 @@
     ],
     "subjectives": [
       "Distributed, Parallel, and Cluster Computing (cs.DC)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -137,7 +135,8 @@
       "Nicolas Kourtellis"
     ],
     "subjectives": [
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Information Retrieval (cs.IR)"
     ]
   },
   {
@@ -287,8 +286,9 @@
       "Ling Shao"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -303,9 +303,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Applications (stat.AP)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -335,7 +333,7 @@
     ],
     "subjectives": [
       "Social and Information Networks (cs.SI)",
-      "Artificial Intelligence (cs.AI)"
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -470,9 +468,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (stat.ML)",
-      "Other Statistics (stat.OT)"
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -584,7 +580,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -833,6 +830,7 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
+      "Computers and Society (cs.CY)",
       "Human-Computer Interaction (cs.HC)"
     ]
   },
@@ -2215,6 +2213,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -2421,7 +2420,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (stat.ML)"
     ]
