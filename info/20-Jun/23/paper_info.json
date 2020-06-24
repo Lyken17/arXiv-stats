@@ -1078,6 +1078,7 @@
     "subjectives": [
       "Machine Learning (cs.LG)",
       "Neural and Evolutionary Computing (cs.NE)",
+      "Classical Analysis and ODEs (math.CA)",
       "Differential Geometry (math.DG)",
       "Machine Learning (stat.ML)"
     ]
@@ -1347,7 +1348,7 @@
       "Rajat Raina",
       "Daniel Sun",
       "Revati Mahajan",
-      "Jure Lescovec"
+      "Jure Leskovec"
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
@@ -1861,7 +1862,7 @@
   },
   {
     "id": "arXiv:2006.11608",
-    "title": "Robust Reinforcement Learning using Least Squares Policy Iteration",
+    "title": "Model-Free Robust Reinforcement Learning with Linear Function  Approximation",
     "authors": [
       "Kishan Panaganti",
       "Dileep Kalathil"
@@ -5179,7 +5180,7 @@
       "Minhao Yang",
       "Joao Pedro Cerqueira",
       "Joonsung Kang",
-      "Seunchul Jung",
+      "Seungchul Jung",
       "Sangjoon Kim",
       "Mingoo Seok"
     ],
@@ -6900,6 +6901,8 @@
       "Ziwen Ke",
       "Wenqi Huang",
       "Jing Cheng",
+      "Sen Jia",
+      "Haifeng Wang",
       "Xin Liu",
       "Hairong Zheng",
       "Leslie Ying",
@@ -7304,7 +7307,7 @@
   },
   {
     "id": "arXiv:2006.12386",
-    "title": "Spatio-temporal evolution of global surfacetemperature distributions",
+    "title": "Spatio-temporal evolution of global surface temperature distributions",
     "authors": [
       "Federico Amato",
       "Fabian Guignard",
@@ -7645,7 +7648,8 @@
     ],
     "subjectives": [
       "Information Theory (cs.IT)",
-      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
