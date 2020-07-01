@@ -44,6 +44,7 @@
     "subjectives": [
       "Machine Learning (cs.LG)",
       "Data Structures and Algorithms (cs.DS)",
+      "Optimization and Control (math.OC)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -310,6 +311,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -350,9 +352,9 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Computation and Language (cs.CL)",
-      "Neural and Evolutionary Computing (cs.NE)"
+      "Image and Video Processing (eess.IV)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -496,6 +498,7 @@
     ],
     "subjectives": [
       "Databases (cs.DB)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -534,7 +537,7 @@
     ],
     "subjectives": [
       "Systems and Control (eess.SY)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -679,7 +682,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (stat.ML)"
     ]
@@ -839,6 +841,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -1292,6 +1295,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Neural and Evolutionary Computing (cs.NE)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -1407,7 +1411,8 @@
       "Andrea Fioraldi"
     ],
     "subjectives": [
-      "Cryptography and Security (cs.CR)"
+      "Cryptography and Security (cs.CR)",
+      "Programming Languages (cs.PL)"
     ]
   },
   {
@@ -1535,6 +1540,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Neural and Evolutionary Computing (cs.NE)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -1957,6 +1963,7 @@
       "Huanhuan Chen"
     ],
     "subjectives": [
+      "Computation and Language (cs.CL)",
       "Artificial Intelligence (cs.AI)"
     ]
   },
@@ -2252,7 +2259,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -2484,7 +2492,8 @@
     "subjectives": [
       "Computers and Society (cs.CY)",
       "Cryptography and Security (cs.CR)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Social and Information Networks (cs.SI)"
     ]
   },
   {
@@ -2621,6 +2630,7 @@
     ],
     "subjectives": [
       "Robotics (cs.RO)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -3088,7 +3098,8 @@
       "Joseph Y. Halpern"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -3311,6 +3322,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Neural and Evolutionary Computing (cs.NE)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -3325,7 +3337,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Databases (cs.DB)",
       "Machine Learning (stat.ML)"
     ]
@@ -3931,8 +3942,8 @@
       "Marianne M. Francois"
     ],
     "subjectives": [
-      "Materials Science (cond-mat.mtrl-sci)",
-      "Computational Engineering, Finance, and Science (cs.CE)"
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      "Materials Science (cond-mat.mtrl-sci)"
     ]
   },
   {
