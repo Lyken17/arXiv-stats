@@ -1635,7 +1635,8 @@
       "Xi Li"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1740,8 +1741,10 @@
     "title": "SAR Image Despeckling by Deep Neural Networks: from a pre-trained model  to an end-to-end training strategy",
     "authors": [
       "Emanuele Dalsasso",
+      "Xiangli Yang",
       "Lo\u00efc Denis",
-      "Florence Tupin"
+      "Florence Tupin",
+      "Wen Yang"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
@@ -1837,7 +1840,7 @@
   },
   {
     "id": "arXiv:2006.15579",
-    "title": "Lifting Body Design for Multicopters for Long Flight Ranges",
+    "title": "A Lifting Wing Fixed on Multirotor UAVs for Long Flight Ranges",
     "authors": [
       "Kun Xiao",
       "Yao Meng",
@@ -1915,7 +1918,7 @@
   },
   {
     "id": "arXiv:2006.15595",
-    "title": "Rethinking the Positional Encoding in Language Pre-training",
+    "title": "Rethinking Positional Encoding in Language Pre-training",
     "authors": [
       "Guolin Ke",
       "Di He",
@@ -4135,7 +4138,7 @@
     "authors": [
       "Tiziano Portenier",
       "Siavash Bigdeli",
-      "Or\u00e7un G\u00f6ksel"
+      "Orcun Goksel"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
@@ -4319,7 +4322,7 @@
     "authors": [
       "Yulong Gu",
       "Yu Guan",
-      "Paolo Missior"
+      "Paolo Missier"
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
@@ -5121,7 +5124,7 @@
       "Peter B. Greer",
       "Stuart Crozier",
       "Jason A. Dowling",
-      "Shekhar S Chandra"
+      "Shekhar S. Chandra"
     ],
     "subjectives": [
       "Image and Video Processing (eess.IV)",
@@ -5609,8 +5612,8 @@
     "id": "arXiv:2006.16148",
     "title": "Large Deformation Diffeomorphic Image Registration with Laplacian  Pyramid Networks",
     "authors": [
-      "Tony C.W. Mok",
-      "Albert C.S. Chung"
+      "Tony C. W. Mok",
+      "Albert C. S. Chung"
     ],
     "subjectives": [
       "Image and Video Processing (eess.IV)",
