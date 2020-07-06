@@ -1,0 +1,5319 @@
+[
+  {
+    "id": "arXiv:2007.01299",
+    "title": "Generating Adversarial Examples withControllable Non-transferability",
+    "authors": [
+      "Renzhi Wang",
+      "Tianwei Zhang",
+      "Xiaofei Xie",
+      "Lei Ma",
+      "Cong Tian",
+      "Felix Juefei-Xu",
+      "Yang Liu"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01327",
+    "title": "Debiasing Distributed Second Order Optimization with Surrogate Sketching  and Scaled Regularization",
+    "authors": [
+      "Micha\u0142 Derezi\u0144ski",
+      "Burak Bartan",
+      "Mert Pilanci",
+      "Michael W. Mahoney"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Optimization and Control (math.OC)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01330",
+    "title": "A priori and a posteriori error estimates for the quad-curl eigenvalue  problem",
+    "authors": [
+      "Lixiu Wang",
+      "Qian Zhang",
+      "Jiguang Sun",
+      "Zhimin Zhang"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01346",
+    "title": "Spectral Methods for Ranking with Scarce Data",
+    "authors": [
+      "Umang Varma",
+      "Lalit Jain",
+      "Anna C. Gilbert"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01348",
+    "title": "Efficient Neural Network Deployment for Microcontroller",
+    "authors": [
+      "Hasan Unlu"
+    ],
+    "subjectives": [
+      "Hardware Architecture (cs.AR)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01350",
+    "title": "Uncertainty Prediction for Deep Sequential Regression Using Meta Models",
+    "authors": [
+      "Jiri Navratil",
+      "Matthew Arnold",
+      "Benjamin Elder"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01359",
+    "title": "Bayesian multilingual topic model for zero-shot cross-lingual topic  identification",
+    "authors": [
+      "Santosh Kesiraju",
+      "Sangeet Sagar",
+      "Ond\u0159ej Glembek",
+      "Luk\u00e1\u0161 Burget",
+      "Suryakanth V Gangashetty"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01369",
+    "title": "Low-Power Object Counting with Hierarchical Neural Networks",
+    "authors": [
+      "Abhinav Goel",
+      "Caleb Tung",
+      "Sara Aghajanzadeh",
+      "Isha Ghodgaonkar",
+      "Shreya Ghosh",
+      "George K. Thiruvathukal",
+      "Yung-Hsiang Lu"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01374",
+    "title": "Smt-Switch: a solver-agnostic C++ API for SMT Solving",
+    "authors": [
+      "Makai Mann",
+      "Amalee Wilson",
+      "Cesare Tinelli",
+      "Clark Barrett"
+    ],
+    "subjectives": [
+      "Logic in Computer Science (cs.LO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01375",
+    "title": "LSTFCoDel: CoDel with LSTF-Style Priority Queuing",
+    "authors": [
+      "Christen Ford"
+    ],
+    "subjectives": [
+      "Networking and Internet Architecture (cs.NI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01376",
+    "title": "Improved bounds for noisy group testing with constant tests per item",
+    "authors": [
+      "Oliver Gebhard",
+      "Oliver Johnson",
+      "Philipp Loick",
+      "Maurice Rolvien"
+    ],
+    "subjectives": [
+      "Information Theory (cs.IT)",
+      "Discrete Mathematics (cs.DM)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01377",
+    "title": "DATE: Defense Against TEmperature Side-Channel Attacks in DVFS Enabled  MPSoCs",
+    "authors": [
+      "Somdip Dey",
+      "Amit Kumar Singh",
+      "Xiaohang Wang",
+      "Klaus Dieter McDonald-Maier"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)",
+      "Hardware Architecture (cs.AR)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01379",
+    "title": "Improving Event Detection using Contextual Word and Sentence Embeddings",
+    "authors": [
+      "Mariano Maisonnave",
+      "Fernando Delbianco",
+      "Fernando Tohm\u00e9",
+      "Ana Maguitman",
+      "Evangelos Milios"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01380",
+    "title": "Deep reinforcement learning driven inspection and maintenance planning  under incomplete information and constraints",
+    "authors": [
+      "C.P. Andriotis",
+      "K.G. Papakonstantinou"
+    ],
+    "subjectives": [
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)",
+      "Optimization and Control (math.OC)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01381",
+    "title": "D-NetPAD: An Explainable and Interpretable Iris Presentation Attack  Detector",
+    "authors": [
+      "Renu Sharma",
+      "Arun Ross"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01382",
+    "title": "WattScale: A Data-driven Approach for Energy Efficiency Analytics of  Buildings at Scale",
+    "authors": [
+      "Srinivasan Iyengar",
+      "Stephen Lee",
+      "David Irwin",
+      "Prashant Shenoy",
+      "Benjamin Weil"
+    ],
+    "subjectives": [
+      "Computers and Society (cs.CY)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01386",
+    "title": "Posterior Model Adaptation With Updated Priors",
+    "authors": [
+      "Jim Davis"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01387",
+    "title": "An Algebraic Approach for the Stability Analysis of BLDC Motor  Controllers",
+    "authors": [
+      "Emad Gad",
+      "Julio Pimentel"
+    ],
+    "subjectives": [
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01388",
+    "title": "Learn Faster and Forget Slower via Fast and Stable Task Adaptation",
+    "authors": [
+      "Farshid Varno",
+      "Lucas May Petry",
+      "Lisa Di Jorio",
+      "Stan Matwin"
+    ],
+    "subjectives": [
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01391",
+    "title": "Secure Beamforming and Ergodic Secrecy Rate Analysis for  Amplify-and-Forward Relay Networks with Wireless Powered Jammer",
+    "authors": [
+      "Omer Waqar",
+      "Hina Tabassum",
+      "Raviraj Adve"
+    ],
+    "subjectives": [
+      "Information Theory (cs.IT)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01395",
+    "title": "Scalable Comparative Visualization of Ensembles of Call Graphs",
+    "authors": [
+      "Suraj P.Kesavan",
+      "Harsh Bhatia",
+      "Abhinav Bhatele",
+      "Todd Gamblin",
+      "Peer-Timo Bremer",
+      "Kwan-Liu Ma"
+    ],
+    "subjectives": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Performance (cs.PF)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01397",
+    "title": "Adaptive Braking for Mitigating Gradient Delay",
+    "authors": [
+      "Abhinav Venigalla",
+      "Atli Kosson",
+      "Vitaliy Chiley",
+      "Urs K\u00f6ster"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Optimization and Control (math.OC)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01404",
+    "title": "Crowdfunding for Design Innovation: Prediction Model with Critical  Factors",
+    "authors": [
+      "Chaoyang Song",
+      "Jianxi Luo",
+      "Katja H\u00f6ltt\u00e4-Otto",
+      "Warren Seering",
+      "Kevin Otto"
+    ],
+    "subjectives": [
+      "Computers and Society (cs.CY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01408",
+    "title": "Creating a content delivery network for general science on the internet  backbone using XCaches",
+    "authors": [
+      "Edgar Fajardo",
+      "Marian Zvada",
+      "Derek Weitzel",
+      "Mats Rynge",
+      "John Hicks",
+      "Mat Selmeci",
+      "Brian Lin",
+      "Pascal Paschos",
+      "Brian Bockelman",
+      "Igor Sfiligoi",
+      "Andrew Hanushevsky",
+      "Frank W\u00fcrthwein"
+    ],
+    "subjectives": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01409",
+    "title": "A (Slightly) Improved Approximation Algorithm for Metric TSP",
+    "authors": [
+      "Anna R. Karlin",
+      "Nathan Klein",
+      "Shayan Oveis Gharan"
+    ],
+    "subjectives": [
+      "Data Structures and Algorithms (cs.DS)",
+      "Combinatorics (math.CO)",
+      "Probability (math.PR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01410",
+    "title": "Weighted estimates of the Cayley transform method for boundary value  problems in a Banach space",
+    "authors": [
+      "V. L. Makarov",
+      "N. V. Mayko"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01416",
+    "title": "An order-adaptive compact approximation Taylor method for systems of  conservation laws",
+    "authors": [
+      "H. Carrillo",
+      "E. Macca",
+      "G. Russo",
+      "C. Par\u00e9s",
+      "D. Zor\u00edo"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01418",
+    "title": "Learning Orientation Distributions for Object Pose Estimation",
+    "authors": [
+      "Brian Okorn",
+      "Mengyun Xu",
+      "Martial Hebert",
+      "David Held"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Robotics (cs.RO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01419",
+    "title": "Persistent Neurons",
+    "authors": [
+      "Yimeng Min"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01420",
+    "title": "Learning Neural Networks with Competing Physics Objectives: An  Application in Quantum Mechanics",
+    "authors": [
+      "Jie Bu",
+      "Mohannad Elhamod",
+      "Christopher Singh",
+      "Matthew Redell",
+      "Wei-Cheng Lee",
+      "Anuj Karpatne"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computational Physics (physics.comp-ph)",
+      "Quantum Physics (quant-ph)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01423",
+    "title": "Maximizing Cohesion and Separation in Graph Representation Learning: A  Distance-aware Negative Sampling Approach",
+    "authors": [
+      "M. Maruf",
+      "Anuj Karpatne"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Social and Information Networks (cs.SI)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01428",
+    "title": "Medial Axis Isoperimetric Profiles",
+    "authors": [
+      "Paul Zhang",
+      "Daryl Deford",
+      "Justin Solomon"
+    ],
+    "subjectives": [
+      "Computational Geometry (cs.CG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01429",
+    "title": "The Global Landscape of Neural Networks: An Overview",
+    "authors": [
+      "Ruoyu Sun",
+      "Dawei Li",
+      "Shiyu Liang",
+      "Tian Ding",
+      "R Srikant"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Optimization and Control (math.OC)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01431",
+    "title": "Graphs without gap-vertex-labellings: families and bounds",
+    "authors": [
+      "C. A. Weffort-Santos",
+      "R. C. S. Schouery"
+    ],
+    "subjectives": [
+      "Discrete Mathematics (cs.DM)",
+      "Combinatorics (math.CO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01434",
+    "title": "In Search of Lost Domain Generalization",
+    "authors": [
+      "Ishaan Gulrajani",
+      "David Lopez-Paz"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01435",
+    "title": "A variational formulation for motion design of adaptive compliant  structures",
+    "authors": [
+      "Renate Sachse",
+      "Manfred Bischoff"
+    ],
+    "subjectives": [
+      "Computational Engineering, Finance, and Science (cs.CE)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01441",
+    "title": "Joint Frequency- and Image-Space Learning for Fourier Imaging",
+    "authors": [
+      "Nalini M. Singh",
+      "Juan Eugenio Iglesias",
+      "Elfar Adalsteinsson",
+      "Adrian V. Dalca",
+      "Polina Golland"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01442",
+    "title": "Multi-Agent Low-Dimensional Linear Bandits",
+    "authors": [
+      "Ronshee Chawla",
+      "Abishek Sankararaman",
+      "Sanjay Shakkottai"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Social and Information Networks (cs.SI)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01445",
+    "title": "Minimizing Convex Functions with Integral Minimizers",
+    "authors": [
+      "Haotian Jiang"
+    ],
+    "subjectives": [
+      "Data Structures and Algorithms (cs.DS)",
+      "Discrete Mathematics (cs.DM)",
+      "Information Theory (cs.IT)",
+      "Optimization and Control (math.OC)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01447",
+    "title": "Improved Preterm Prediction Based on Optimized Synthetic Sampling of EHG  Signal",
+    "authors": [
+      "Jinshan Xu",
+      "Zhenqin Chen",
+      "Yanpei Lu",
+      "Xi Yang",
+      "Alain Pumir"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Signal Processing (eess.SP)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01455",
+    "title": "Text-based Emotion Aware Recommender",
+    "authors": [
+      "John Kalung Leung",
+      "Igor Griva",
+      "William G. Kennedy"
+    ],
+    "subjectives": [
+      "Information Retrieval (cs.IR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01458",
+    "title": "Confidence-Aware Learning for Deep Neural Networks",
+    "authors": [
+      "Jooyoung Moon",
+      "Jihyo Kim",
+      "Younghak Shin",
+      "Sangheum Hwang"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01459",
+    "title": "A New Theoretical Framework of Pyramid Markov Processes for Blockchain  Selfish Mining",
+    "authors": [
+      "Quan-Lin Li",
+      "Yan-Xia Chang",
+      "Xiaole Wu",
+      "Guoqing Zhang"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Performance (cs.PF)",
+      "Dynamical Systems (math.DS)",
+      "Probability (math.PR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01462",
+    "title": "Rigorous Quantum Formulation of Parity-Time Symmetric Coupled Resonators",
+    "authors": [
+      "Shaolin Liao",
+      "Lu Ou"
+    ],
+    "subjectives": [
+      "Systems and Control (eess.SY)",
+      "Applied Physics (physics.app-ph)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01463",
+    "title": "The prolonged service time at non-dedicated servers in a pooling system",
+    "authors": [
+      "Yanting Chen",
+      "Jingui Xie",
+      "Taozeng Zhu"
+    ],
+    "subjectives": [
+      "Performance (cs.PF)",
+      "Optimization and Control (math.OC)",
+      "Probability (math.PR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01464",
+    "title": "Anatomy-Aware Siamese Network: Exploiting Semantic Asymmetry for  Accurate Pelvic Fracture Detection in X-ray Images",
+    "authors": [
+      "Haomin Chen",
+      "Yirui Wang",
+      "Kang Zheng",
+      "Weijian Li",
+      "Chi-Tung Cheng",
+      "Adam P. Harrison",
+      "Jing Xiao",
+      "Gregory D. Hager",
+      "Le Lu",
+      "Chien-Hung Liao",
+      "Shun Miao"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01465",
+    "title": "Deep-PowerX: A Deep Learning-Based Framework for Low-Power Approximate  Logic Synthesis",
+    "authors": [
+      "Ghasem Pasandi",
+      "Mackenzie Peterson",
+      "Moises Herrera",
+      "Shahin Nazarian",
+      "Massoud Pedram"
+    ],
+    "subjectives": [
+      "Hardware Architecture (cs.AR)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01466",
+    "title": "Task-agnostic Temporally Consistent Facial Video Editing",
+    "authors": [
+      "Meng Cao",
+      "Haozhi Huang",
+      "Hao Wang",
+      "Xuan Wang",
+      "Li Shen",
+      "Sheng Wang",
+      "Linchao Bao",
+      "Zhifeng Li",
+      "Jiebo Luo"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01471",
+    "title": "An adaptive multiresolution ultra-weak discontinuous Galerkin method for  nonlinear Schrodinger equations",
+    "authors": [
+      "Zhanjing Tao",
+      "Juntao Huang",
+      "Yuan Liu",
+      "Wei Guo",
+      "Yingda Cheng"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01472",
+    "title": "Increasing Trustworthiness of Deep Neural Networks via Accuracy  Monitoring",
+    "authors": [
+      "Zhihui Shao",
+      "Jianyi Yang",
+      "Shaolei Ren"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01475",
+    "title": "ODE-CNN: Omnidirectional Depth Extension Networks",
+    "authors": [
+      "Xinjing Cheng",
+      "Peng Wang",
+      "Yanqi Zhou",
+      "Chenye Guan",
+      "Ruigang Yang"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01476",
+    "title": "Interactive Knowledge Distillation",
+    "authors": [
+      "Shipeng Fu",
+      "Zhen Li",
+      "Jun Xu",
+      "Ming-Ming Cheng",
+      "Gwanggil Jeon",
+      "Xiaomin Yang"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01480",
+    "title": "RSAC: Regularized Subspace Approximation Classifier for Lightweight  Continuous Learning",
+    "authors": [
+      "Chih-Hsing Ho",
+      "Shang-Ho",
+      "Tsai"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01481",
+    "title": "Ordinary Facet Angles of a Stroked Path Tessellated by Uniform Tangent  Angle Steps Are Bounded by Twice the Step Angle",
+    "authors": [
+      "Mark J. Kilgard"
+    ],
+    "subjectives": [
+      "Graphics (cs.GR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01483",
+    "title": "A decentralized framework for simultaneous calibration, localization and  mapping with multiple LiDARs",
+    "authors": [
+      "Jiarong Lin",
+      "Xiyuan Liu",
+      "Fu Zhang"
+    ],
+    "subjectives": [
+      "Robotics (cs.RO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01486",
+    "title": "Learning to Prune in Training via Dynamic Channel Propagation",
+    "authors": [
+      "Shibo Shen",
+      "Rongpeng Li",
+      "Zhifeng Zhao",
+      "Honggang Zhang",
+      "Yugeng Zhou"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01488",
+    "title": "On the Relation between Quality-Diversity Evaluation and  Distribution-Fitting Goal in Text Generation",
+    "authors": [
+      "Jianing Li",
+      "Yanyan Lan",
+      "Jiafeng Guo",
+      "Xueqi Cheng"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01491",
+    "title": "Self-Supervised GAN Compression",
+    "authors": [
+      "Chong Yu",
+      "Jeff Pool"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01493",
+    "title": "On Symbolically Encoding the Behavior of Random Forests",
+    "authors": [
+      "Arthur Choi",
+      "Andy Shih",
+      "Anchal Goyanka",
+      "Adnan Darwiche"
+    ],
+    "subjectives": [
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01496",
+    "title": "Few-Shot Semantic Segmentation Augmented with Image-Level Weak  Annotations",
+    "authors": [
+      "Shuo Lei",
+      "Xuchao Zhang",
+      "Jianfeng He",
+      "Fanglan Chen",
+      "Chang-Tien Lu"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01498",
+    "title": "Temporal-Logic-Based Reward Shaping for Continuing Learning Tasks",
+    "authors": [
+      "Yuqian Jiang",
+      "Sudarshanan Bharadwaj",
+      "Bo Wu",
+      "Rishi Shah",
+      "Ufuk Topcu",
+      "Peter Stone"
+    ],
+    "subjectives": [
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01499",
+    "title": "A Competence-aware Curriculum for Visual Concepts Learning via Question  Answering",
+    "authors": [
+      "Qing Li",
+      "Siyuan Huang",
+      "Yining Hong",
+      "Song-Chun Zhu"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01500",
+    "title": "Self-supervised Neural Architecture Search",
+    "authors": [
+      "Sapir Kaplan",
+      "Raja Giryes"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01502",
+    "title": "DICE: Automatic Emulation of DMA Input Channels for Dynamic Firmware  Analysis",
+    "authors": [
+      "Alejandro Mera",
+      "Bo Feng",
+      "Long Lu",
+      "Engin Kirda",
+      "William Robertson"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01503",
+    "title": "Mathematical Perspective of Machine Learning",
+    "authors": [
+      "Yarema Boryshchak"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01504",
+    "title": "A Similarity Inference Metric for RGB-Infrared Cross-Modality Person  Re-identification",
+    "authors": [
+      "Mengxi Jia",
+      "Yunpeng Zhai",
+      "Shijian Lu",
+      "Siwei Ma",
+      "Jian Zhang"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01507",
+    "title": "Towards Robust Deep Learning with Ensemble Networks and Noisy Layers",
+    "authors": [
+      "Yuting Liang",
+      "Reza Samavi"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Cryptography and Security (cs.CR)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01510",
+    "title": "MIRA: Leveraging Multi-Intention Co-click Information in Web-scale  Document Retrieval using Deep Neural Networks",
+    "authors": [
+      "Yusi Zhang",
+      "Chuanjie Liu",
+      "Angen Luo",
+      "Hui Xue",
+      "Xuan Shan",
+      "Yuxiang Luo",
+      "Yiqian Xia",
+      "Yuanchi Yan",
+      "Haidong Wang"
+    ],
+    "subjectives": [
+      "Information Retrieval (cs.IR)",
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01513",
+    "title": "Joint Beam Training and Data Transmission Design for Covert  Millimeter-Wave Communication",
+    "authors": [
+      "Jiayu Zhang",
+      "Min Li",
+      "Shihao Yan",
+      "Chunshan Liu",
+      "Xihan Chen",
+      "Minjian Zhao",
+      "Philip Whiting"
+    ],
+    "subjectives": [
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01514",
+    "title": "Three-dimensional Human Tracking of a Mobile Robot by Fusion of Tracking  Results of Two Cameras",
+    "authors": [
+      "Shinya Matsubara",
+      "Akihiko Honda",
+      "Yonghoon Ji",
+      "Kazunori Umeda"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Robotics (cs.RO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01516",
+    "title": "Deep interpretability for GWAS",
+    "authors": [
+      "Deepak Sharma",
+      "Audrey Durand",
+      "Marc-Andr\u00e9 Legault",
+      "Louis-Philippe Lemieux Perreault",
+      "Audrey Lema\u00e7on",
+      "Marie-Pierre Dub\u00e9",
+      "Joelle Pineau"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Genomics (q-bio.GN)",
+      "Applications (stat.AP)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01519",
+    "title": "Overall Evaluations on Benefits of Influence When Disturbed by Rivals",
+    "authors": [
+      "Jianxiong Guo",
+      "Yapu Zhang",
+      "Weili Wu"
+    ],
+    "subjectives": [
+      "Social and Information Networks (cs.SI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01520",
+    "title": "First Steps: Latent-Space Control with Semantic Constraints for  Quadruped Locomotion",
+    "authors": [
+      "Alexander L. Mitchell",
+      "Martin Engelcke",
+      "Oiwi Parker Jones",
+      "David Surovik",
+      "Ioannis Havoutis",
+      "Ingmar Posner"
+    ],
+    "subjectives": [
+      "Robotics (cs.RO)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01522",
+    "title": "Dueling Deep Q-Network for Unsupervised Inter-frame Eye Movement  Correction in Optical Coherence Tomography Volumes",
+    "authors": [
+      "Yasmeen M. George",
+      "Suman Sedai",
+      "Bhavna J. Antony",
+      "Hiroshi Ishikawa",
+      "Gadi Wollstein",
+      "Joel S. Schuman",
+      "Rahil Garnavi"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01524",
+    "title": "Domain Adaptation without Source Data",
+    "authors": [
+      "Youngeun Kim",
+      "Sungeun Hong",
+      "Donghyeon Cho",
+      "Hyoungseob Park",
+      "Priyadarshini Panda"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01528",
+    "title": "On-The-Fly Information Retrieval Augmentation for Language Models",
+    "authors": [
+      "Hai Wang",
+      "David McAllester"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01530",
+    "title": "FPnew: An Open-Source Multi-Format Floating-Point Unit Architecture for  Energy-Proportional Transprecision Computing",
+    "authors": [
+      "Stefan Mach",
+      "Fabian Schuiki",
+      "Florian Zaruba",
+      "Luca Benini"
+    ],
+    "subjectives": [
+      "Hardware Architecture (cs.AR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01533",
+    "title": "Finding Densest $k$-Connected Subgraphs",
+    "authors": [
+      "Francesco Bonchi",
+      "David Garc\u00eda-Soriano",
+      "Atsushi Miyauchi",
+      "Charalampos E. Tsourakakis"
+    ],
+    "subjectives": [
+      "Data Structures and Algorithms (cs.DS)",
+      "Discrete Mathematics (cs.DM)",
+      "Social and Information Networks (cs.SI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01536",
+    "title": "Cross-layer Path Selection in Multi-path Transport Protocol for Mobile  Devices",
+    "authors": [
+      "Binbin Liao",
+      "Guangxing Zhang",
+      "Qinghua Wu",
+      "Zhenyu Li",
+      "Gaogang Xie"
+    ],
+    "subjectives": [
+      "Networking and Internet Architecture (cs.NI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01541",
+    "title": "A fast direct solver for nonlocal operators in wavelet coordinates",
+    "authors": [
+      "Helmut Harbrecht",
+      "Michael Multerer"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01542",
+    "title": "Strategies for Using Proximal Policy Optimization in Mobile Puzzle Games",
+    "authors": [
+      "Jeppe Theiss Kristensen",
+      "Paolo Burelli"
+    ],
+    "subjectives": [
+      "Artificial Intelligence (cs.AI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01544",
+    "title": "A Conceptual Framework for Externally-influenced Agents: An Assisted  Reinforcement Learning Review",
+    "authors": [
+      "Adam Bignold",
+      "Francisco Cruz",
+      "Matthew E. Taylor",
+      "Tim Brys",
+      "Richard Dazeley",
+      "Peter Vamplew",
+      "Cameron Foale"
+    ],
+    "subjectives": [
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)",
+      "Multiagent Systems (cs.MA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01546",
+    "title": "Multiple Expert Brainstorming for Domain Adaptive Person  Re-identification",
+    "authors": [
+      "Yunpeng Zhai",
+      "Qixiang Ye",
+      "Shijian Lu",
+      "Mengxi Jia",
+      "Rongrong Ji",
+      "Yonghong Tian"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01547",
+    "title": "Descending through a Crowded Valley -- Benchmarking Deep Learning  Optimizers",
+    "authors": [
+      "Robin M. Schmidt",
+      "Frank Schneider",
+      "Philipp Hennig"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01548",
+    "title": "Multiple Instance-Based Video Anomaly Detection using Deep Temporal  Encoding-Decoding",
+    "authors": [
+      "Ammar Mansoor Kamoona",
+      "Amirali Khodadadian Gosta",
+      "Alireza Bab-Hadiashar",
+      "Reza Hoseinnezhad"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01549",
+    "title": "PointTrack++ for Effective Online Multi-Object Tracking and Segmentation",
+    "authors": [
+      "Zhenbo Xu",
+      "Wei Zhang",
+      "Xiao Tan",
+      "Wei Yang",
+      "Xiangbo Su",
+      "Yuchen Yuan",
+      "Hongwu Zhang",
+      "Shilei Wen",
+      "Errui Ding",
+      "Liusheng Huang"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01550",
+    "title": "Segment as Points for Efficient Online Multi-Object Tracking and  Segmentation",
+    "authors": [
+      "Zhenbo Xu",
+      "Wei Zhang",
+      "Xiao Tan",
+      "Wei Yang",
+      "Huan Huang",
+      "Shilei Wen",
+      "Errui Ding",
+      "Liusheng Huang"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01555",
+    "title": "MQT-TZ: Secure MQTT Broker for Biomedical Signal Processing on the Edge",
+    "authors": [
+      "Carlos Segarra",
+      "Ricard Delgado-Gonzalo",
+      "Valerio Schiavoni"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01556",
+    "title": "Surrogate-assisted Particle Swarm Optimisation for Evolving  Variable-length Transferable Blocks for Image Classification",
+    "authors": [
+      "Bin Wang",
+      "Bing Xue",
+      "Mengjie Zhang"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Neural and Evolutionary Computing (cs.NE)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01560",
+    "title": "GRANDPA: a Byzantine Finality Gadget",
+    "authors": [
+      "Alistair Stewart",
+      "Eleftherios Kokoris-Kogia"
+    ],
+    "subjectives": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01561",
+    "title": "Users' Concern for Privacy in Context-Aware Reasoning Systems",
+    "authors": [
+      "Matthias Forstmann",
+      "Alberto Giaretta",
+      "Jennifer Renoux"
+    ],
+    "subjectives": [
+      "Computers and Society (cs.CY)",
+      "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01562",
+    "title": "An Edge Computing-based Photo Crowdsourcing Framework for Real-time 3D  Reconstruction",
+    "authors": [
+      "Shuai Yu",
+      "Xu Chen",
+      "Shuai Wang",
+      "Lingjun Pu",
+      "Di Wu"
+    ],
+    "subjectives": [
+      "Networking and Internet Architecture (cs.NI)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Signal Processing (eess.SP)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01563",
+    "title": "Correction of BDFk for fractional Feynman-Kac equation with L\u00e9vy  flight",
+    "authors": [
+      "Jiankang Shi",
+      "Minghua Chen"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01568",
+    "title": "Identification and Remediation of Self-Admitted Technical Debt in Issue  Trackers",
+    "authors": [
+      "Yikun Li",
+      "Mohamed Soliman",
+      "Paris Avgeriou"
+    ],
+    "subjectives": [
+      "Software Engineering (cs.SE)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01570",
+    "title": "Scaling Graph Neural Networks with Approximate PageRank",
+    "authors": [
+      "Aleksandar Bojchevski",
+      "Johannes Klicpera",
+      "Bryan Perozzi",
+      "Amol Kapoor",
+      "Martin Blais",
+      "Benedek R\u00f3zemberczki",
+      "Michal Lukasik",
+      "Stephan G\u00fcnnemann"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Social and Information Networks (cs.SI)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01571",
+    "title": "Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN",
+    "authors": [
+      "Zhenwei He",
+      "Lei Zhang"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01575",
+    "title": "Ground Truth Free Denoising by Optimal Transport",
+    "authors": [
+      "S\u00f6ren Dittmer",
+      "Carola-Bibiane Sch\u00f6nlieb",
+      "Peter Maass"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Functional Analysis (math.FA)",
+      "Optimization and Control (math.OC)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01580",
+    "title": "On the Similarity between the Laplace and Neural Tangent Kernels",
+    "authors": [
+      "Amnon Geifman",
+      "Abhay Yadav",
+      "Yoni Kasten",
+      "Meirav Galun",
+      "David Jacobs",
+      "Ronen Basri"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01587",
+    "title": "Privacy Threats Against Federated Matrix Factorization",
+    "authors": [
+      "Dashan Gao",
+      "Ben Tan",
+      "Ce Ju",
+      "Vincent W. Zheng",
+      "Qiang Yang"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)",
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01594",
+    "title": "Adaptive Graph Encoder for Attributed Graph Embedding",
+    "authors": [
+      "Ganqu Cui",
+      "Jie Zhou",
+      "Cheng Yang",
+      "Zhiyuan Liu"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01595",
+    "title": "LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps",
+    "authors": [
+      "David Rozenberszki",
+      "Andras Majdik"
+    ],
+    "subjectives": [
+      "Robotics (cs.RO)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01597",
+    "title": "Living without Beth and Craig: Explicit Definitions and Interpolants in  the Guarded Fragment",
+    "authors": [
+      "Jean Christoph Jung",
+      "Frank Wolter"
+    ],
+    "subjectives": [
+      "Logic in Computer Science (cs.LO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01598",
+    "title": "Weakly Supervised Temporal Action Localization with Segment-Level Labels",
+    "authors": [
+      "Xinpeng Ding",
+      "Nannan Wang",
+      "Xinbo Gao",
+      "Jie Li",
+      "Xiaoyu Wang",
+      "Tongliang Liu"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01599",
+    "title": "An Autonomous Free Airspace En-route Controller using Deep Reinforcement  Learning Techniques",
+    "authors": [
+      "Joris Mollinga",
+      "Herke van Hoof"
+    ],
+    "subjectives": [
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01601",
+    "title": "Scalar auxiliary variable finite element scheme for the  parabolic-parabolic Keller-Segel model",
+    "authors": [
+      "Alexandre Poulain"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01605",
+    "title": "Regulation conform DLT-operable payment adapter based on trustless -  justified trust combined generalized state channels",
+    "authors": [
+      "Ricky Lamberty",
+      "Alexander Poddey"
+    ],
+    "subjectives": [
+      "Computers and Society (cs.CY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01610",
+    "title": "Logical Separability of Incomplete Data under Ontologies",
+    "authors": [
+      "Jean Christoph Jung",
+      "Carsten Lutz",
+      "Hadrien Pulcini",
+      "Frank Wolter"
+    ],
+    "subjectives": [
+      "Logic in Computer Science (cs.LO)",
+      "Artificial Intelligence (cs.AI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01612",
+    "title": "Online learning in MDPs with linear function approximation and bandit  feedback",
+    "authors": [
+      "Gergely Neu",
+      "Julia Olkhovskaya"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01618",
+    "title": "Balanced Symmetric Cross Entropy for Large Scale Imbalanced and Noisy  Data",
+    "authors": [
+      "Feifei Huang",
+      "Jie Li",
+      "Xuelin Zhu"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01620",
+    "title": "Team voyTECH: User Activity Modeling with Boosting Trees",
+    "authors": [
+      "Immanuel Bayer",
+      "Anastasios Zouzias"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01623",
+    "title": "Hedging using reinforcement learning: Contextual $k$-Armed Bandit versus  $Q$-learning",
+    "authors": [
+      "Loris Cannelli",
+      "Giuseppe Nuti",
+      "Marzio Sala",
+      "Oleg Szehr"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computational Finance (q-fin.CP)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01625",
+    "title": "Complex Network Construction for Interactive Image Segmentation using  Particle Competition and Cooperation: A New Approach",
+    "authors": [
+      "Jefferson Antonio Ribeiro Passerini",
+      "Fabricio Aparecido Breve"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01627",
+    "title": "Neumann networks: differential programming for supervised learning with  missing values",
+    "authors": [
+      "Marine Le Morvan",
+      "Julie Josse",
+      "Thomas Moreau",
+      "Erwan Scornet",
+      "Ga\u00ebl Varoquaux"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01629",
+    "title": "A Discrete Probabilistic Approach to Dense Flow Visualization",
+    "authors": [
+      "Daniel Preu\u00df",
+      "Tino Weinkauf",
+      "Jens Kr\u00fcger"
+    ],
+    "subjectives": [
+      "Graphics (cs.GR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01634",
+    "title": "Social distancing with the Optimal Steps Model",
+    "authors": [
+      "Christina Maria Mayr",
+      "Gerta K\u00f6ster"
+    ],
+    "subjectives": [
+      "Multiagent Systems (cs.MA)",
+      "Physics and Society (physics.soc-ph)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01637",
+    "title": "Active learning of timed automata with unobservable resets",
+    "authors": [
+      "L\u00e9o Henry",
+      "Nicolas Markey",
+      "Thierry J\u00e9ron"
+    ],
+    "subjectives": [
+      "Logic in Computer Science (cs.LO)",
+      "Formal Languages and Automata Theory (cs.FL)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01647",
+    "title": "Learning intuitive physics and one-shot imitation using  state-action-prediction self-organizing maps",
+    "authors": [
+      "Martin Stetter",
+      "Elmar W. Lang"
+    ],
+    "subjectives": [
+      "Artificial Intelligence (cs.AI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01648",
+    "title": "Fast Arithmetic Hardware Library For RLWE-Based Homomorphic Encryption",
+    "authors": [
+      "Rashmi Agrawal",
+      "Lake Bu",
+      "Alan Ehret",
+      "Michel A. Kinsy"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01649",
+    "title": "Stabilizing of a Class of Underactuated Euler Lagrange System Using an  Approximate Model",
+    "authors": [
+      "Huseyin Alpaslan Yildiz",
+      "Leyla Goren-Sumer"
+    ],
+    "subjectives": [
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01652",
+    "title": "Generating Informative Dialogue Responses with Keywords-Guided Networks",
+    "authors": [
+      "Heng-Da Xu",
+      "Xian-Ling Mao",
+      "Zewen Chi",
+      "Jing-Jing Zhu",
+      "Fanshu Sun",
+      "Heyan Huang"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01653",
+    "title": "Analytic solution of system of singular nonlinear differential equations  with Neumann-Robin boundary conditions arising in astrophysics",
+    "authors": [
+      "Randhir Singh"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01658",
+    "title": "Playing with Words at the National Library of Sweden -- Making a Swedish  BERT",
+    "authors": [
+      "Martin Malmsten",
+      "Love B\u00f6rjeson",
+      "Chris Haffenden"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01666",
+    "title": "Mapping Flows in Bipartite Networks",
+    "authors": [
+      "Christopher Bl\u00f6cker",
+      "Martin Rosvall"
+    ],
+    "subjectives": [
+      "Social and Information Networks (cs.SI)",
+      "Physics and Society (physics.soc-ph)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01667",
+    "title": "Reading Comprehension in Czech via Machine Translation and Cross-lingual  Transfer",
+    "authors": [
+      "Kate\u0159ina Mackov\u00e1",
+      "Milan Straka"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01669",
+    "title": "Gaussian Process Regression with Local Explanation",
+    "authors": [
+      "Yuya Yoshikawa",
+      "Tomoharu Iwata"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Methodology (stat.ME)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01671",
+    "title": "Few-Shot Microscopy Image Cell Segmentation",
+    "authors": [
+      "Youssef Dawoud",
+      "Julia Hornauer",
+      "Gustavo Carneiro",
+      "Vasileios Belagiannis"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01673",
+    "title": "On girth and the parameterized complexity of token sliding and token  jumping",
+    "authors": [
+      "Valentin Bartier",
+      "Nicolas Bousquet",
+      "Cl\u00e9ment Dallard",
+      "Kyle Lomer",
+      "Amer E. Mouawad"
+    ],
+    "subjectives": [
+      "Computational Complexity (cs.CC)",
+      "Data Structures and Algorithms (cs.DS)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01682",
+    "title": "Improving auto-encoder novelty detection using channel attention and  entropy minimization",
+    "authors": [
+      "Dongyan Guo",
+      "Miao Tian",
+      "Ying Cui",
+      "Xiang Pan",
+      "Shengyong Chen"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01686",
+    "title": "Sublinear Explicit Incremental Planar Voronoi Diagrams",
+    "authors": [
+      "Elena Arseneva",
+      "John Iacono",
+      "Grigorios Koumoutsos",
+      "Stefan Langerman",
+      "Boris Zolotov"
+    ],
+    "subjectives": [
+      "Computational Geometry (cs.CG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01688",
+    "title": "Online publication of court records: circumventing the  privacy-transparency trade-off",
+    "authors": [
+      "Tristan Allard",
+      "Louis B\u00e9ziaud",
+      "S\u00e9bastien Gambs"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)",
+      "Computers and Society (cs.CY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01691",
+    "title": "The Review Unmanned Surface Vehicle Path Planning: Based on  Multi-modality Constraint",
+    "authors": [
+      "Chunhui Zhou",
+      "Shangding Gu",
+      "Yuanqiao Wen",
+      "Zhe Du",
+      "Changshi Xiao",
+      "Liang Huang",
+      "Man Zhu"
+    ],
+    "subjectives": [
+      "Robotics (cs.RO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01696",
+    "title": "Channel Compression: Rethinking Information Redundancy among Channels in  CNN Architecture",
+    "authors": [
+      "Jinhua Liang",
+      "Tao Zhang",
+      "Guoqing Feng"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01698",
+    "title": "Safe Reinforcement Learning with Mixture Density Network: A Case Study  in Autonomous Highway Driving",
+    "authors": [
+      "Ali Baheri"
+    ],
+    "subjectives": [
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01704",
+    "title": "Passive Quadrupedal Gait Synchronization for Extra Robotic Legs Using a  Dynamically Coupled Double Rimless Wheel Model",
+    "authors": [
+      "Daniel J. Gonzalez",
+      "H. Harry Asada"
+    ],
+    "subjectives": [
+      "Robotics (cs.RO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01705",
+    "title": "Hybrid Open-Loop Closed-Loop Control of Coupled Human-Robot Balance  During Assisted Stance Transition with Extra Robotic Legs",
+    "authors": [
+      "Daniel J. Gonzalez",
+      "H. Harry Asada"
+    ],
+    "subjectives": [
+      "Robotics (cs.RO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01708",
+    "title": "Fault Diagnosis of the 10MW Floating Offshore Wind Turbine Benchmark: a  Mixed Model and Signal-based Approach",
+    "authors": [
+      "Yichao Liu",
+      "Riccardo Ferrari",
+      "Ping Wu",
+      "Xiaoli Jiang",
+      "Sunwei Li",
+      "Jan-Willem van Wingerden"
+    ],
+    "subjectives": [
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01709",
+    "title": "Many-Sorted Hybrid Modal Languages",
+    "authors": [
+      "Ioana Leu\u015ftean",
+      "Natalia Moang\u0103",
+      "Traian Florin \u015eerb\u0103nu\u0163\u0103"
+    ],
+    "subjectives": [
+      "Logic in Computer Science (cs.LO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01711",
+    "title": "Synergistic saliency and depth prediction for RGB-D saliency detection",
+    "authors": [
+      "Yue Wang",
+      "Yuke Li",
+      "James H Elder",
+      "Huchuan Lu",
+      "Runmin Wu"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01713",
+    "title": "Towards the Adoption of OMG Standards in the Development of SOA-Based  IoT Systems",
+    "authors": [
+      "Bruno Costa",
+      "Paulo F. Pires",
+      "Flavia C. Delicato"
+    ],
+    "subjectives": [
+      "Software Engineering (cs.SE)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01719",
+    "title": "Ensemble Regression Models for Software Development Effort Estimation: A  Comparative Study",
+    "authors": [
+      "Halcyon D. P. Carvalho",
+      "Mar\u00edlia N. C. A. Lima",
+      "Wylliams B. Santos",
+      "Roberta A. de A.Fagunde"
+    ],
+    "subjectives": [
+      "Software Engineering (cs.SE)",
+      "Artificial Intelligence (cs.AI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01721",
+    "title": "Smartphone Security Behavioral Scale: A NewPsychometric Measurement for  Smartphone Security",
+    "authors": [
+      "Hsiao-Ying Huang",
+      "Soteris Demetriou",
+      "Rini Banerjee",
+      "G\u00fcliz Seray Tuncay",
+      "Carl A. Gunter",
+      "Masooda Bashir"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)",
+      "Human-Computer Interaction (cs.HC)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01722",
+    "title": "Learning Utilities and Equilibria in Non-Truthful Auctions",
+    "authors": [
+      "Hu Fu",
+      "Tao Lin"
+    ],
+    "subjectives": [
+      "Computer Science and Game Theory (cs.GT)",
+      "Machine Learning (cs.LG)",
+      "Theoretical Economics (econ.TH)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01724",
+    "title": "Deep Fence Estimation using Stereo Guidance and Adversarial Learning",
+    "authors": [
+      "Paritosh Mittal",
+      "Shankar M Venkatesan",
+      "Viswanath Veera",
+      "Aloknath De"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01733",
+    "title": "Probabilistic Soft Type Assignment",
+    "authors": [
+      "Gianluca Curzi",
+      "Luca Roversi"
+    ],
+    "subjectives": [
+      "Logic in Computer Science (cs.LO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01736",
+    "title": "A global-in-time domain decomposition method for the coupled nonlinear  Stokes and Darcy flows",
+    "authors": [
+      "Thi-Thao-Phuong Hoang",
+      "Hyesuk Lee"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01738",
+    "title": "Video Prediction via Example Guidance",
+    "authors": [
+      "Jingwei Xu",
+      "Huazhe Xu",
+      "Bingbing Ni",
+      "Xiaokang Yang",
+      "Trevor Darrell"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01751",
+    "title": "Assessing and Improving Cybersecurity Maturity for SMEs: Standardization  aspects",
+    "authors": [
+      "Bilge Yigit Ozkan",
+      "Marco Spruit"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01753",
+    "title": "A Complete List of All Convex Polyhedra Made by Gluing Regular Pentagons",
+    "authors": [
+      "Elena Arseneva",
+      "Stefan Langerman",
+      "Boris Zolotov"
+    ],
+    "subjectives": [
+      "Computational Geometry (cs.CG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01754",
+    "title": "Differentiable Causal Discovery from Interventional Data",
+    "authors": [
+      "Philippe Brouillard",
+      "S\u00e9bastien Lachapelle",
+      "Alexandre Lacoste",
+      "Simon Lacoste-Julien",
+      "Alexandre Drouin"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01755",
+    "title": "Multi-Label Image Recognition with Multi-Class Attentional Regions",
+    "authors": [
+      "Bin-Bin Gao",
+      "Hong-Yu Zhou"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01758",
+    "title": "Collaborative Learning for Faster StyleGAN Embedding",
+    "authors": [
+      "Shanyan Guan",
+      "Ying Tai",
+      "Bingbing Ni",
+      "Feida Zhu",
+      "Feiyue Huang",
+      "Xiaokang Yang"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01760",
+    "title": "Explainable Deep One-Class Classification",
+    "authors": [
+      "Philipp Liznerski",
+      "Lukas Ruff",
+      "Robert A. Vandermeulen",
+      "Billy Joe Franks",
+      "Marius Kloft",
+      "Klaus-Robert M\u00fcller"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01761",
+    "title": "The Lack of Shared Understanding of Non-Functional Requirements in  Continuous Software Engineering: Accidental or Essential?",
+    "authors": [
+      "Colin Werner",
+      "Ze Shi Li",
+      "Neil Ernst",
+      "Daniela Damian"
+    ],
+    "subjectives": [
+      "Software Engineering (cs.SE)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01764",
+    "title": "Disentangled Graph Collaborative Filtering",
+    "authors": [
+      "Xiang Wang",
+      "Hongye Jin",
+      "An Zhang",
+      "Xiangnan He",
+      "Tong Xu",
+      "Tat-Seng Chua"
+    ],
+    "subjectives": [
+      "Information Retrieval (cs.IR)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01769",
+    "title": "End-to-end Interpretable Learning of Non-blind Image Deblurring",
+    "authors": [
+      "Thomas Eboli",
+      "Jian Sun",
+      "Jean Ponce"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01771",
+    "title": "Learning Expectation of Label Distribution for Facial Age and  Attractiveness Estimation",
+    "authors": [
+      "Bin-Bin Gao",
+      "Xin-Xin Liu",
+      "Hong-Yu Zhou",
+      "Jianxin Wu",
+      "Xin Geng"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01773",
+    "title": "Supervisory Controller Synthesis for Non-terminating Processes is an  Obliging Game",
+    "authors": [
+      "Rupak Majumdar",
+      "Anne-Kathrin Schmuck"
+    ],
+    "subjectives": [
+      "Logic in Computer Science (cs.LO)",
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01777",
+    "title": "Interpretable Sequence Classification Via Prototype Trajectory",
+    "authors": [
+      "Dat Hong",
+      "Stephen S. Baek",
+      "Tong Wang"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01779",
+    "title": "The combined basic LP and affine IP relaxation for promise VCSPs on  infinite domains",
+    "authors": [
+      "Caterina Viola",
+      "Stanislav Zivny"
+    ],
+    "subjectives": [
+      "Computational Complexity (cs.CC)",
+      "Discrete Mathematics (cs.DM)",
+      "Data Structures and Algorithms (cs.DS)",
+      "Logic in Computer Science (cs.LO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01780",
+    "title": "Visual Question Answering as a Multi-Task Problem",
+    "authors": [
+      "Amelia Elizabeth Pollard",
+      "Jonathan L. Shapiro"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01787",
+    "title": "Evaluating Uncertainty Estimation Methods on 3D Semantic Segmentation of  Point Clouds",
+    "authors": [
+      "Swaroop Bhandary K",
+      "Nico Hochgeschwender",
+      "Paul Pl\u00f6ger",
+      "Frank Kirchner",
+      "Matias Valdenegro-Toro"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Robotics (cs.RO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01788",
+    "title": "TICO-19: the Translation Initiative for Covid-19",
+    "authors": [
+      "Antonios Anastasopoulos",
+      "Alessandro Cattelan",
+      "Zi-Yi Dou",
+      "Marcello Federico",
+      "Christian Federman",
+      "Dmitriy Genzel",
+      "Francisco Guzm\u00e1n",
+      "Junjie Hu",
+      "Macduff Hughes",
+      "Philipp Koehn",
+      "Rosie Lazar",
+      "Will Lewis",
+      "Graham Neubig",
+      "Mengmeng Niu",
+      "Alp \u00d6ktem",
+      "Eric Paquin",
+      "Grace Tang",
+      "Sylwia Tur"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)",
+      "Digital Libraries (cs.DL)",
+      "Information Retrieval (cs.IR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01789",
+    "title": "Mapping Datasets to Object Storage System",
+    "authors": [
+      "Xiaowei",
+      "Jeff LeFevre",
+      "Aldrin Montana",
+      "Dana Robinson",
+      "Quincey Koziol",
+      "Peter Alvaro",
+      "Carlos Maltzahn"
+    ],
+    "subjectives": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01790",
+    "title": "Harnessing Wireless Channels for Scalable and Privacy-Preserving  Federated Learning",
+    "authors": [
+      "Anis Elgabli",
+      "Jihong Park",
+      "Chaouki Ben Issaid",
+      "Mehdi Bennis"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Information Theory (cs.IT)",
+      "Networking and Internet Architecture (cs.NI)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01791",
+    "title": "Towards an Intelligent Data Delivery Service",
+    "authors": [
+      "Wen Guan",
+      "Tadashi Maeno",
+      "Gancho Dimitrov",
+      "Brian Paul Bockelman",
+      "Torre Wenaus",
+      "Vakhtang Tsulaia",
+      "Nicolo Magini"
+    ],
+    "subjectives": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "High Energy Physics - Experiment (hep-ex)",
+      "Instrumentation and Detectors (physics.ins-det)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01793",
+    "title": "CacheNet: A Model Caching Framework for Deep Learning Inference on the  Edge",
+    "authors": [
+      "Yihao Fang",
+      "Shervin Manzuri Shalmani",
+      "Rong Zheng"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Signal Processing (eess.SP)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01795",
+    "title": "Approval-Based Committee Voting: Axioms, Algorithms, and Applications",
+    "authors": [
+      "Martin Lackner",
+      "Piotr Skowron"
+    ],
+    "subjectives": [
+      "Computer Science and Game Theory (cs.GT)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01799",
+    "title": "Transfer Function Models for Cylindrical MC Channels with Diffusion and  Laminar Flow",
+    "authors": [
+      "Maximilian Sch\u00e4fer",
+      "Wayan Wicke",
+      "Lukas Brand",
+      "Rudolf Rabenstein",
+      "Robert Schober"
+    ],
+    "subjectives": [
+      "Emerging Technologies (cs.ET)",
+      "Computational Physics (physics.comp-ph)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01800",
+    "title": "Exploration and Discovery of the COVID-19 Literature through Semantic  Visualization",
+    "authors": [
+      "Jingxuan Tu",
+      "Marc Verhagen",
+      "Brent Cochran",
+      "James Pustejovsky"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)",
+      "Human-Computer Interaction (cs.HC)",
+      "Information Retrieval (cs.IR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01806",
+    "title": "Deep learning for scene recognition from visual data: a survey",
+    "authors": [
+      "Alina Matei",
+      "Andreea Glavan",
+      "Estefania Talavera"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01807",
+    "title": "Continuously Indexed Domain Adaptation",
+    "authors": [
+      "Hao Wang",
+      "Hao He",
+      "Dina Katabi"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01811",
+    "title": "JAMPI: efficient matrix multiplication in Spark using Barrier Execution  Mode",
+    "authors": [
+      "Tamas Foldi",
+      "Chris von Csefalvay",
+      "Nicolas A. Perez"
+    ],
+    "subjectives": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01813",
+    "title": "AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous  Vehicles in the Parking Lot",
+    "authors": [
+      "Tong Qin",
+      "Tongqing Chen",
+      "Yilun Chen",
+      "Qing Su"
+    ],
+    "subjectives": [
+      "Robotics (cs.RO)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01814",
+    "title": "DynNet: Physics-based neural architecture design for linear and  nonlinear structural response modeling and prediction",
+    "authors": [
+      "Soheil Sadeghi Eshkevari",
+      "Martin Tak\u00e1\u010d",
+      "Shamim N. Pakzad",
+      "Majid Jahani"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01815",
+    "title": "Computing maximally-permissive strategies in acyclic timed automata",
+    "authors": [
+      "Emily Clement",
+      "Thierry J\u00e9ron",
+      "Nicolas Markey",
+      "David Mentr\u00e9"
+    ],
+    "subjectives": [
+      "Formal Languages and Automata Theory (cs.FL)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01816",
+    "title": "Sherman-Morrison-Woodbury Identity for Tensors",
+    "authors": [
+      "Shih Yu Chang"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)",
+      "Operator Algebras (math.OA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01818",
+    "title": "Image-based Vehicle Re-identification Model with Adaptive Attention  Modules and Metadata Re-ranking",
+    "authors": [
+      "Quang Truong",
+      "Hy Dang",
+      "Zhankai Ye",
+      "Minh Nguyen",
+      "Bo Mei"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01819",
+    "title": "Addressing the interpretability problem for deep learning using many  valued quantum logic",
+    "authors": [
+      "Swapnil Nitin Shah"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01820",
+    "title": "A Machine Learning Pipeline Stage for Adaptive Frequency Adjustment",
+    "authors": [
+      "Arash Fouman Ajirlou",
+      "Inna Partin-Vaisband"
+    ],
+    "subjectives": [
+      "Hardware Architecture (cs.AR)",
+      "Performance (cs.PF)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01821",
+    "title": "Regularization of the movement of a material point along a flat  trajectory: application to robotics problems",
+    "authors": [
+      "B.G. Mukanova",
+      "M.A. Akhmetzhanov",
+      "D. N. Azimova"
+    ],
+    "subjectives": [
+      "Robotics (cs.RO)",
+      "Systems and Control (eess.SY)",
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01822",
+    "title": "Construction of weak solutions to compressible Navier--Stokes equations  with general inflow/outflow boundary conditions via a numerical approximation",
+    "authors": [
+      "Young-Sam Kwon",
+      "Antonin Novotny"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)",
+      "Analysis of PDEs (math.AP)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01823",
+    "title": "WordPress on AWS: a Communication Framework",
+    "authors": [
+      "Michael Soltys",
+      "Katharine Soltys"
+    ],
+    "subjectives": [
+      "Computers and Society (cs.CY)",
+      "Social and Information Networks (cs.SI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01830",
+    "title": "Fractional Covers of Hypergraphs with Bounded Multi-Intersection",
+    "authors": [
+      "Georg Gottlob",
+      "Matthias Lanzinger",
+      "Reinhard Pichler",
+      "Igor Razgon"
+    ],
+    "subjectives": [
+      "Discrete Mathematics (cs.DM)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01833",
+    "title": "PsychFM: Predicting your next gamble",
+    "authors": [
+      "Prakash Rajan",
+      "Krishna P. Miyapuram"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01837",
+    "title": "LOOC: Localize Overlapping Objects with Count Supervision",
+    "authors": [
+      "Issam H. Laradji",
+      "Rafael Pardinas",
+      "Pau Rodriguez",
+      "David Vazquez"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01839",
+    "title": "Expected Eligibility Traces",
+    "authors": [
+      "Hado van Hasselt",
+      "Sephora Madjiheurem",
+      "Matteo Hessel",
+      "David Silver",
+      "Andr\u00e9 Barreto",
+      "Diana Borsa"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01851",
+    "title": "Swoosh! Rattle! Thump! -- Actions that Sound",
+    "authors": [
+      "Dhiraj Gandhi",
+      "Abhinav Gupta",
+      "Lerrel Pinto"
+    ],
+    "subjectives": [
+      "Robotics (cs.RO)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01852",
+    "title": "Language-agnostic BERT Sentence Embedding",
+    "authors": [
+      "Fangxiaoyu Feng",
+      "Yinfei Yang",
+      "Daniel Cer",
+      "Naveen Arivazhagan",
+      "Wei Wang"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01855",
+    "title": "Trace-Norm Adversarial Examples",
+    "authors": [
+      "Ehsan Kazemi",
+      "Thomas Kerdreux",
+      "Liqiang Wang"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01309",
+    "title": "Learning-based Defect Recognition for Quasi-Periodic Microscope Images",
+    "authors": [
+      "Nik Dennler",
+      "Antonio Foncubierta-Rodriguez",
+      "Titus Neupert",
+      "Marilyne Sousa"
+    ],
+    "subjectives": [
+      "Materials Science (cond-mat.mtrl-sci)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01321",
+    "title": "Optimal control of mean field equations with monotone coefficients and  applications in neuroscience",
+    "authors": [
+      "Antoine Hocquet",
+      "Alexander Vogler"
+    ],
+    "subjectives": [
+      "Probability (math.PR)",
+      "Numerical Analysis (math.NA)",
+      "Optimization and Control (math.OC)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01332",
+    "title": "Meta-Learning Stationary Stochastic Process Prediction with  Convolutional Neural Processes",
+    "authors": [
+      "Andrew Y. K. Foong",
+      "Wessel P. Bruinsma",
+      "Jonathan Gordon",
+      "Yann Dubois",
+      "James Requeima",
+      "Richard E. Turner"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01334",
+    "title": "Multi-agent Planning for thermalling gliders using multi level  graph-search",
+    "authors": [
+      "Muhammad Aneeq uz Zaman",
+      "Aamer Iqbal Bhatti"
+    ],
+    "subjectives": [
+      "Optimization and Control (math.OC)",
+      "Artificial Intelligence (cs.AI)",
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01335",
+    "title": "Clustering of Electromagnetic Showers and Particle Interactions with  Graph Neural Networks in Liquid Argon Time Projection Chambers Data",
+    "authors": [
+      "Francois Drielsma",
+      "Qing Lin",
+      "Pierre C\u00f4te de Soux",
+      "Laura Domin\u00e9",
+      "Ran Itay",
+      "Dae Heun Koh",
+      "Bradley J. Nelson",
+      "Kazuhiro Terao",
+      "Ka Vang Tsang",
+      "Tracy L. Usher"
+    ],
+    "subjectives": [
+      "Instrumentation and Detectors (physics.ins-det)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01349",
+    "title": "Networks with Growth and Preferential Attachment: Modeling and  Applications",
+    "authors": [
+      "Gabriel G. Piva",
+      "Fabiano L. Ribeiro",
+      "Angelica S. Mata"
+    ],
+    "subjectives": [
+      "Physics and Society (physics.soc-ph)",
+      "Social and Information Networks (cs.SI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01356",
+    "title": "Decoder-free Robustness Disentanglement without (Additional) Supervision",
+    "authors": [
+      "Yifei Wang",
+      "Dan Peng",
+      "Furui Liu",
+      "Zhenguo Li",
+      "Zhitang Chen",
+      "Jiansheng Yang"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Neural and Evolutionary Computing (cs.NE)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01357",
+    "title": "Efficient computation and analysis of distributional Shapley values",
+    "authors": [
+      "Yongchan Kwon",
+      "Manuel A. Rivas",
+      "James Zou"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01367",
+    "title": "Lecture Notes on Control System Theory and Design",
+    "authors": [
+      "Tamer Basar",
+      "Sean Meyn",
+      "William R. Perkins"
+    ],
+    "subjectives": [
+      "Optimization and Control (math.OC)",
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01383",
+    "title": "Deep Interactive Learning: An Efficient Labeling Approach for Deep  Learning-Based Osteosarcoma Treatment Response Assessment",
+    "authors": [
+      "David Joon Ho",
+      "Narasimhan P. Agaram",
+      "Peter J. Schueffler",
+      "Chad M. Vanderbilt",
+      "Marc-Henri Jean",
+      "Meera R. Hameed",
+      "Thomas J. Fuchs"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Quantitative Methods (q-bio.QM)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01394",
+    "title": "Robust Linear Regression: Optimal Rates in Polynomial Time",
+    "authors": [
+      "Ainesh Bakshi",
+      "Adarsh Prasad"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Data Structures and Algorithms (cs.DS)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01401",
+    "title": "Hybrid deep learning architecture for general disruption prediction  across tokamaks",
+    "authors": [
+      "J.X. Zhu",
+      "C. Rea",
+      "K. Montes",
+      "R.S. Granetz",
+      "R. Sweeney",
+      "R.A. Tinguely"
+    ],
+    "subjectives": [
+      "Plasma Physics (physics.plasm-ph)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01413",
+    "title": "Wearable Respiration Monitoring: Interpretable Inference with Context  and Sensor Biomarkers",
+    "authors": [
+      "Ridwan Alam",
+      "David B. Peden",
+      "John C. Lach"
+    ],
+    "subjectives": [
+      "Signal Processing (eess.SP)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01433",
+    "title": "Two-dimensional thermal finite element model of directed energy  deposition: matching melt pool temperature profile with pyrometer measurement",
+    "authors": [
+      "Bohumir Jelinek",
+      "William J. Young",
+      "Matthew Dantin",
+      "William Furr",
+      "Haley Doude",
+      "Matthew W. Priddy"
+    ],
+    "subjectives": [
+      "Applied Physics (physics.app-ph)",
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01444",
+    "title": "Generative Modeling for Atmospheric Convection",
+    "authors": [
+      "Griffin Mooers",
+      "Jens Tuyls",
+      "Stephan Mandt",
+      "Michael Pritchard",
+      "Tom Beucler"
+    ],
+    "subjectives": [
+      "Atmospheric and Oceanic Physics (physics.ao-ph)",
+      "Machine Learning (cs.LG)",
+      "Computational Physics (physics.comp-ph)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01448",
+    "title": "From Fear to Hate: How the Covid-19 Pandemic Sparks Racial Animus in the  United States",
+    "authors": [
+      "Runjing Lu",
+      "Yanying Sheng"
+    ],
+    "subjectives": [
+      "General Economics (econ.GN)",
+      "Social and Information Networks (cs.SI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01452",
+    "title": "Modeling from Features: a Mean-field Framework for Over-parameterized  Deep Neural Networks",
+    "authors": [
+      "Cong Fang",
+      "Jason D. Lee",
+      "Pengkun Yang",
+      "Tong Zhang"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Machine Learning (cs.LG)",
+      "Optimization and Control (math.OC)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01457",
+    "title": "A generalized stochastic control problem of bounded noise process under  ambiguity arising in biological management",
+    "authors": [
+      "H. Yoshioka",
+      "M. Tsujimura"
+    ],
+    "subjectives": [
+      "Optimization and Control (math.OC)",
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01494",
+    "title": "Variance reduction for Riemannian non-convex optimization with batch  size adaptation",
+    "authors": [
+      "Andi Han",
+      "Junbin Gao"
+    ],
+    "subjectives": [
+      "Optimization and Control (math.OC)",
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01506",
+    "title": "Symbiotic Radio: Cognitive Backscattering Communications for Future  Wireless Networks",
+    "authors": [
+      "Ying-Chang Liang",
+      "Qianqian Zhang",
+      "Erik G. Larsson",
+      "Geoffrey Ye Li"
+    ],
+    "subjectives": [
+      "Signal Processing (eess.SP)",
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01525",
+    "title": "Dynamic Equilibria in Time-Varying Networks",
+    "authors": [
+      "Hoang Minh Pham",
+      "Leon Sering"
+    ],
+    "subjectives": [
+      "Optimization and Control (math.OC)",
+      "Computer Science and Game Theory (cs.GT)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01534",
+    "title": "Mode Decomposition for Homogeneous Symmetric Operators",
+    "authors": [
+      "Ido Cohen",
+      "Omri Azencot",
+      "Pavel Lifshitz",
+      "Guy Gilboa"
+    ],
+    "subjectives": [
+      "Dynamical Systems (math.DS)",
+      "Computational Engineering, Finance, and Science (cs.CE)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01543",
+    "title": "Online Supervised Acoustic System Identification exploiting Prelearned  Local Affine Subspace Models",
+    "authors": [
+      "Thomas Haubner",
+      "Andreas Brendel",
+      "Walter Kellermann"
+    ],
+    "subjectives": [
+      "Audio and Speech Processing (eess.AS)",
+      "Sound (cs.SD)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01578",
+    "title": "volesti: Volume Approximation and Sampling for Convex Polytopes in R",
+    "authors": [
+      "Apostolos Chalkis",
+      "Vissarion Fisikopoulos"
+    ],
+    "subjectives": [
+      "Computation (stat.CO)",
+      "Computational Geometry (cs.CG)",
+      "Mathematical Software (cs.MS)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01579",
+    "title": "Noise-Robust Adaptation Control for Supervised System Identification  Exploiting A Noise Dictionary",
+    "authors": [
+      "Thomas Haubner",
+      "Andreas Brendel",
+      "Mohamed Elminshawi",
+      "Walter Kellermann"
+    ],
+    "subjectives": [
+      "Audio and Speech Processing (eess.AS)",
+      "Sound (cs.SD)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01592",
+    "title": "Prediction of Spatial Point Processes: Regularized Method with  Out-of-Sample Guarantees",
+    "authors": [
+      "Muhammad Osama",
+      "Dave Zachariah",
+      "Petre Stoica"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01593",
+    "title": "Deep image prior for 3D magnetic particle imaging: A quantitative  comparison of regularization techniques on Open MPI dataset",
+    "authors": [
+      "S\u00f6ren Dittmer",
+      "Tobias Kluth",
+      "Mads Thorstein Roar Henriksen",
+      "Peter Maass"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Functional Analysis (math.FA)",
+      "Optimization and Control (math.OC)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01628",
+    "title": "HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with  Large Motions",
+    "authors": [
+      "Yuzhen Niu",
+      "Jianbin Wu",
+      "Wenxi Liu",
+      "Wenzhong Guo",
+      "Rynson W.H. Lau"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01659",
+    "title": "Diagnostic Uncertainty Calibration: Towards Reliable Machine Predictions  in Medical Domain",
+    "authors": [
+      "Takahiro Mimori",
+      "Keiko Sasada",
+      "Hirotaka Matsui",
+      "Issei Sato"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01668",
+    "title": "Security Limitations of Classical-Client Delegated Quantum Computing",
+    "authors": [
+      "Christian Badertscher",
+      "Alexandru Cojocaru",
+      "L\u00e9o Colisson",
+      "Elham Kashefi",
+      "Dominik Leichtle",
+      "Atul Mantri",
+      "Petros Wallden"
+    ],
+    "subjectives": [
+      "Quantum Physics (quant-ph)",
+      "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01684",
+    "title": "New Classes of Quantum Codes Associated with Surface Maps",
+    "authors": [
+      "Debashis Bhowmik",
+      "Dipendu Maity",
+      "Bhanu Pratap Yadav",
+      "Ashish Kumar Upadhyay"
+    ],
+    "subjectives": [
+      "Combinatorics (math.CO)",
+      "Information Theory (cs.IT)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01702",
+    "title": "Fast Computation of Electromagnetic Wave Propagation and Scattering for  Quasi-cylindrical Geometry",
+    "authors": [
+      "Shaolin Liao"
+    ],
+    "subjectives": [
+      "Signal Processing (eess.SP)",
+      "Computational Engineering, Finance, and Science (cs.CE)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01720",
+    "title": "Qualitative Analysis of Monte Carlo Dropout",
+    "authors": [
+      "Ronald Seoh"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01759",
+    "title": "Topology Optimization of Heat Exchangers",
+    "authors": [
+      "Lukas Christan H\u00f8gh\u00f8j",
+      "Daniel Ruberg N\u00f8rhave",
+      "Joe Alexandersen",
+      "Ole Sigmund",
+      "Casper Schousboe Andreasen"
+    ],
+    "subjectives": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      "Computational Engineering, Finance, and Science (cs.CE)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01792",
+    "title": "Almost Affinely Disjoint Subspaces",
+    "authors": [
+      "Hedongliang Liu",
+      "Nikita Polyanskii",
+      "Ilya Vorobyev",
+      "Antonia Wachter-Zeh"
+    ],
+    "subjectives": [
+      "Combinatorics (math.CO)",
+      "Information Theory (cs.IT)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01834",
+    "title": "Universality of the Bottleneck Distance for Extended Persistence  Diagrams",
+    "authors": [
+      "Ulrich Bauer",
+      "Magnus Bakke Botnan",
+      "Benedikt Fluhr"
+    ],
+    "subjectives": [
+      "Algebraic Topology (math.AT)",
+      "Computational Geometry (cs.CG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01836",
+    "title": "Pretrained Semantic Speech Embeddings for End-to-End Spoken Language  Understanding via Cross-Modal Teacher-Student Learning",
+    "authors": [
+      "Pavel Denisov",
+      "Ngoc Thang Vu"
+    ],
+    "subjectives": [
+      "Audio and Speech Processing (eess.AS)",
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)",
+      "Sound (cs.SD)"
+    ]
+  },
+  {
+    "id": "arXiv:1510.01595",
+    "title": "Scale-discretised ridgelet transform on the sphere",
+    "authors": [
+      "Jason D. McEwen",
+      "Matthew A. Price"
+    ],
+    "subjectives": [
+      "Information Theory (cs.IT)"
+    ]
+  },
+  {
+    "id": "arXiv:1605.01177",
+    "title": "A metric on the space of finite sets of trajectories for evaluation of  multi-target tracking algorithms",
+    "authors": [
+      "\u00c1ngel F. Garc\u00eda-Fern\u00e1ndez",
+      "Abu Sajana Rahmathullah",
+      "Lennart Svensson"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:1708.00909",
+    "title": "Machine learning for neural decoding",
+    "authors": [
+      "Joshua I. Glaser",
+      "Ari S. Benjamin",
+      "Raeed H. Chowdhury",
+      "Matthew G. Perich",
+      "Lee E. Miller",
+      "Konrad P. Kording"
+    ],
+    "subjectives": [
+      "Neurons and Cognition (q-bio.NC)",
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:1712.05538",
+    "title": "Rectilinear Link Diameter and Radius in a Rectilinear Polygonal Domain",
+    "authors": [
+      "Elena Arseneva",
+      "Man-Kwun Chiu",
+      "Matias Korman",
+      "Aleksandar Markovic",
+      "Yoshio Okamoto",
+      "Aur\u00e9lien Ooms",
+      "Andr\u00e9 van Renssen",
+      "Marcel Roeloffzen"
+    ],
+    "subjectives": [
+      "Computational Geometry (cs.CG)"
+    ]
+  },
+  {
+    "id": "arXiv:1802.00984",
+    "title": "Numerical Schubert Calculus via the Littlewood-Richardson Homotopy  Algorithm",
+    "authors": [
+      "Anton Leykin",
+      "Abraham Martin del Campo",
+      "Frank Sottile",
+      "Ravi Vakil",
+      "Jan Verschelde"
+    ],
+    "subjectives": [
+      "Algebraic Geometry (math.AG)",
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:1803.03761",
+    "title": "Quantum-secure message authentication via blind-unforgeability",
+    "authors": [
+      "Gorjan Alagic",
+      "Christian Majenz",
+      "Alexander Russell",
+      "Fang Song"
+    ],
+    "subjectives": [
+      "Quantum Physics (quant-ph)",
+      "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "arXiv:1803.10681",
+    "title": "Motion Guided LIDAR-camera Self-calibration and Accelerated Depth  Upsampling for Autonomous Vehicles",
+    "authors": [
+      "Juan Castorena",
+      "Gint Puskorius",
+      "Gaurav Pandey"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:1804.07133",
+    "title": "Don't Panic! Better, Fewer, Syntax Errors for LR Parsers",
+    "authors": [
+      "Lukas Diekmann",
+      "Laurence Tratt"
+    ],
+    "subjectives": [
+      "Programming Languages (cs.PL)"
+    ]
+  },
+  {
+    "id": "arXiv:1805.02033",
+    "title": "A Nearly Optimal Algorithm for Approximate Minimum Selection with  Unreliable Comparisons",
+    "authors": [
+      "Stefano Leucci",
+      "Chih-Hung Liu"
+    ],
+    "subjectives": [
+      "Data Structures and Algorithms (cs.DS)"
+    ]
+  },
+  {
+    "id": "arXiv:1807.03833",
+    "title": "BAD: Blockchain Anomaly Detection",
+    "authors": [
+      "Matteo Signorini",
+      "Matteo Pontecorvi",
+      "Wael Kanoun",
+      "Roberto Di Pietro"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "arXiv:1808.08363",
+    "title": "A short exposition of S. Parsa's theorems on intrinsic linking and  non-realizability",
+    "authors": [
+      "A. Skopenkov"
+    ],
+    "subjectives": [
+      "Geometric Topology (math.GT)",
+      "Computational Geometry (cs.CG)",
+      "Combinatorics (math.CO)"
+    ]
+  },
+  {
+    "id": "arXiv:1808.10720",
+    "title": "An explicit P1 finite element scheme for Maxwell's equations with  constant permittivity in a boundary neighborhood",
+    "authors": [
+      "Larisa Beilina",
+      "Vitoriano Ruas"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:1810.08004",
+    "title": "Complexity of Computing the Anti-Ramsey Numbers for Paths",
+    "authors": [
+      "Saeed Akhoondian Amiri",
+      "Alexandru Popa",
+      "Mohammad Roghani",
+      "Golnoosh Shahkarami",
+      "Reza Soltani",
+      "Hossein Vahidi"
+    ],
+    "subjectives": [
+      "Computational Complexity (cs.CC)",
+      "Data Structures and Algorithms (cs.DS)"
+    ]
+  },
+  {
+    "id": "arXiv:1811.05006",
+    "title": "A new approach for pedestrian density estimation using moving sensors  and computer vision",
+    "authors": [
+      "Eric K. Tokuda",
+      "Yitzchak Lockerman",
+      "Gabriel B. A. Ferreira",
+      "Ethan Sorrelgreen",
+      "David Boyle",
+      "Roberto M. Cesar-Jr.",
+      "Claudio T. Silva"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:1812.10519",
+    "title": "Maximum Likelihood Estimation and Graph Matching in Errorfully Observed  Networks",
+    "authors": [
+      "Jes\u00fas Arroyo",
+      "Daniel L. Sussman",
+      "Carey E. Priebe",
+      "Vince Lyzinski"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Machine Learning (cs.LG)",
+      "Statistics Theory (math.ST)"
+    ]
+  },
+  {
+    "id": "arXiv:1902.06931",
+    "title": "On the consistency of supervised learning with missing values",
+    "authors": [
+      "Julie Josse",
+      "Nicolas Prost",
+      "Erwan Scornet",
+      "Ga\u00ebl Varoquaux"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Machine Learning (cs.LG)",
+      "Statistics Theory (math.ST)"
+    ]
+  },
+  {
+    "id": "arXiv:1903.07712",
+    "title": "Benchmarking Web API Quality -- Revisited",
+    "authors": [
+      "David Bermbach",
+      "Erik Wittern"
+    ],
+    "subjectives": [
+      "Software Engineering (cs.SE)"
+    ]
+  },
+  {
+    "id": "arXiv:1905.02110",
+    "title": "On the Entanglement Cost of One-Shot Compression",
+    "authors": [
+      "Shima Bab Hadiashar",
+      "Ashwin Nayak"
+    ],
+    "subjectives": [
+      "Quantum Physics (quant-ph)",
+      "Computational Complexity (cs.CC)",
+      "Information Theory (cs.IT)"
+    ]
+  },
+  {
+    "id": "arXiv:1905.08108",
+    "title": "Neural Graph Collaborative Filtering",
+    "authors": [
+      "Xiang Wang",
+      "Xiangnan He",
+      "Meng Wang",
+      "Fuli Feng",
+      "Tat-Seng Chua"
+    ],
+    "subjectives": [
+      "Information Retrieval (cs.IR)",
+      "Machine Learning (cs.LG)",
+      "Social and Information Networks (cs.SI)"
+    ]
+  },
+  {
+    "id": "arXiv:1905.13464",
+    "title": "Effective writing style imitation via combinatorial paraphrasing",
+    "authors": [
+      "Tommi Gr\u00f6ndahl",
+      "N. Asokan"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:1906.07927",
+    "title": "SemanticAdv: Generating Adversarial Examples via Attribute-conditional  Image Editing",
+    "authors": [
+      "Haonan Qiu",
+      "Chaowei Xiao",
+      "Lei Yang",
+      "Xinchen Yan",
+      "Honglak Lee",
+      "Bo Li"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Cryptography and Security (cs.CR)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
+    ]
+  },
+  {
+    "id": "arXiv:1906.10612",
+    "title": "A unified sparse optimization framework to learn parsimonious  physics-informed models from data",
+    "authors": [
+      "Kathleen Champion",
+      "Peng Zheng",
+      "Aleksandr Y. Aravkin",
+      "Steven L. Brunton",
+      "J. Nathan Kutz"
+    ],
+    "subjectives": [
+      "Computational Physics (physics.comp-ph)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:1907.00845",
+    "title": "Graph-based Nearest Neighbor Search: From Practice to Theory",
+    "authors": [
+      "Liudmila Prokhorenkova",
+      "Aleksandr Shekhovtsov"
+    ],
+    "subjectives": [
+      "Data Structures and Algorithms (cs.DS)",
+      "Probability (math.PR)"
+    ]
+  },
+  {
+    "id": "arXiv:1907.07804",
+    "title": "OmniNet: A unified architecture for multi-modal multi-task learning",
+    "authors": [
+      "Subhojeet Pramanik",
+      "Priyanka Agrawal",
+      "Aman Hussain"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:1908.04653",
+    "title": "Multilayer Modularity Belief Propagation To Assess Detectability Of  Community Structure",
+    "authors": [
+      "William H. Weir",
+      "Benjamin Walker",
+      "Lenka Zdeborov\u00e1",
+      "Peter J. Mucha"
+    ],
+    "subjectives": [
+      "Social and Information Networks (cs.SI)",
+      "Data Analysis, Statistics and Probability (physics.data-an)",
+      "Physics and Society (physics.soc-ph)"
+    ]
+  },
+  {
+    "id": "arXiv:1908.06180",
+    "title": "Multi-View Broad Learning System for Primate Oculomotor Decision  Decoding",
+    "authors": [
+      "Zhenhua Shi",
+      "Xiaomo Chen",
+      "Changming Zhao",
+      "He He",
+      "Veit Stuphorn",
+      "Dongrui Wu"
+    ],
+    "subjectives": [
+      "Neurons and Cognition (q-bio.NC)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:1908.11046",
+    "title": "Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of  NER",
+    "authors": [
+      "Peng-Hsuan Li",
+      "Tsu-Jui Fu",
+      "Wei-Yun Ma"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:1909.03405",
+    "title": "Symmetric Regularization based BERT for Pair-wise Semantic Reasoning",
+    "authors": [
+      "Weidi Xu",
+      "Xingyi Cheng",
+      "Kunlong Chen",
+      "Wei Wang",
+      "Bin Bi",
+      "Ming Yan",
+      "Chen Wu",
+      "Luo Si",
+      "Wei Chu",
+      "Taifeng Wang"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:1909.04134",
+    "title": "Option Encoder: A Framework for Discovering a Policy Basis in  Reinforcement Learning",
+    "authors": [
+      "Arjun Manoharan",
+      "Rahul Ramesh",
+      "Balaraman Ravindran"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:1909.04198",
+    "title": "Preech: A System for Privacy-Preserving Speech Transcription",
+    "authors": [
+      "Shimaa Ahmed",
+      "Amrita Roy Chowdhury",
+      "Kassem Fawaz",
+      "Parmesh Ramanathan"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)",
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
+    ]
+  },
+  {
+    "id": "arXiv:1909.09448",
+    "title": "A Multi-level procedure for enhancing accuracy of machine learning  algorithms",
+    "authors": [
+      "Kjetil O. Lye",
+      "Siddhartha Mishra",
+      "Roberto Molinaro"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)",
+      "Machine Learning (cs.LG)",
+      "Computational Physics (physics.comp-ph)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:1909.10893",
+    "title": "Recurrent Independent Mechanisms",
+    "authors": [
+      "Anirudh Goyal",
+      "Alex Lamb",
+      "Jordan Hoffmann",
+      "Shagun Sodhani",
+      "Sergey Levine",
+      "Yoshua Bengio",
+      "Bernhard Sch\u00f6lkopf"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:1910.01047",
+    "title": "Lower Bounds for QBFs of Bounded Treewidth",
+    "authors": [
+      "Johannes Klaus Fichte",
+      "Markus Hecher",
+      "Andreas Pfandler"
+    ],
+    "subjectives": [
+      "Computational Complexity (cs.CC)",
+      "Artificial Intelligence (cs.AI)",
+      "Discrete Mathematics (cs.DM)",
+      "Data Structures and Algorithms (cs.DS)",
+      "Logic in Computer Science (cs.LO)"
+    ]
+  },
+  {
+    "id": "arXiv:1910.03834",
+    "title": "Estimating Density Models with Truncation Boundaries",
+    "authors": [
+      "Song Liu",
+      "Takafumi Kanamori",
+      "Daniel J. Williams"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Machine Learning (cs.LG)",
+      "Statistics Theory (math.ST)"
+    ]
+  },
+  {
+    "id": "arXiv:1910.05370",
+    "title": "Deep Learning Based Detection and Correction of Cardiac MR Motion  Artefacts During Reconstruction for High-Quality Segmentation",
+    "authors": [
+      "Ilkay Oksuz",
+      "James R. Clough",
+      "Bram Ruijsink",
+      "Esther Puyol Anton",
+      "Aurelien Bustin",
+      "Gastao Cruz",
+      "Claudia Prieto",
+      "Andrew P. King",
+      "Julia A. Schnabel"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:1911.00995",
+    "title": "Novel semi-metrics for multivariate change point analysis and anomaly  detection",
+    "authors": [
+      "Nick James",
+      "Max Menzies",
+      "Lamiae Azizi",
+      "Jennifer Chan"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Dynamical Systems (math.DS)",
+      "Computation (stat.CO)",
+      "Methodology (stat.ME)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:1911.02945",
+    "title": "J-MoDL: Joint Model-Based Deep Learning for Optimized Sampling and  Reconstruction",
+    "authors": [
+      "Hemant Kumar Aggarwal",
+      "Mathews Jacob"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:1911.04773",
+    "title": "Systematic Analysis of Cluster Similarity Indices: How to Validate  Validation Measures",
+    "authors": [
+      "Martijn G\u00f6sgens",
+      "Liudmila Prokhorenkova",
+      "Alexey Tikhonov"
+    ],
+    "subjectives": [
+      "Discrete Mathematics (cs.DM)",
+      "Probability (math.PR)"
+    ]
+  },
+  {
+    "id": "arXiv:1911.06793",
+    "title": "Testing linear-invariant properties",
+    "authors": [
+      "Jonathan Tidor",
+      "Yufei Zhao"
+    ],
+    "subjectives": [
+      "Combinatorics (math.CO)",
+      "Computational Complexity (cs.CC)"
+    ]
+  },
+  {
+    "id": "arXiv:1911.07984",
+    "title": "Learning Permutation Invariant Representations using Memory Networks",
+    "authors": [
+      "Shivam Kalra",
+      "Mohammed Adnan",
+      "Graham Taylor",
+      "Hamid Tizhoosh"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:1911.08515",
+    "title": "Audita: A Blockchain-based Auditing Framework for Off-chain Storage",
+    "authors": [
+      "Danilo Francati",
+      "Giuseppe Ateniese",
+      "Abdoulaye Faye",
+      "Andrea Maria Milazzo",
+      "Angelo Massimo Perillo",
+      "Luca Schiatti",
+      "Giuseppe Giordano"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "arXiv:1911.08712",
+    "title": "Instance-Invariant Adaptive Object Detection via Progressive  Disentanglement",
+    "authors": [
+      "Aming Wu",
+      "Yahong Han",
+      "Linchao Zhu",
+      "Yi Yang"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:1912.01171",
+    "title": "Universal Adversarial Perturbations for CNN Classifiers in EEG-Based  BCIs",
+    "authors": [
+      "Zihan Liu",
+      "Xiao Zhang",
+      "Lubin Meng",
+      "Dongrui Wu"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Human-Computer Interaction (cs.HC)",
+      "Signal Processing (eess.SP)"
+    ]
+  },
+  {
+    "id": "arXiv:1912.05137",
+    "title": "Is Feature Diversity Necessary in Neural Network Initialization?",
+    "authors": [
+      "Yaniv Blumenfeld",
+      "Dar Gilboa",
+      "Daniel Soudry"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:1912.07746",
+    "title": "Benders' decomposition for freeway network design under endogenous  automated mobility demand",
+    "authors": [
+      "Shantanu Chakraborty",
+      "David Rey",
+      "Michael W. Levin",
+      "S. Travis Waller"
+    ],
+    "subjectives": [
+      "Optimization and Control (math.OC)",
+      "Discrete Mathematics (cs.DM)"
+    ]
+  },
+  {
+    "id": "arXiv:1912.10314",
+    "title": "Multimodal Prediction based on Graph Representations",
+    "authors": [
+      "Icaro Cavalcante Dourado",
+      "Salvatore Tabbone",
+      "Ricardo da Silva Torres"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2001.00089",
+    "title": "Measuring Non-Expert Comprehension of Machine Learning Fairness Metrics",
+    "authors": [
+      "Debjani Saha",
+      "Candice Schumann",
+      "Duncan C. McElfresh",
+      "John P. Dickerson",
+      "Michelle L. Mazurek",
+      "Michael Carl Tschantz"
+    ],
+    "subjectives": [
+      "Computers and Society (cs.CY)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2001.03945",
+    "title": "Commonly Knowing Whether",
+    "authors": [
+      "Jie Fan",
+      "Davide Grossi",
+      "Barteld Kooi",
+      "Xingchi Su",
+      "Rineke Verbrugge"
+    ],
+    "subjectives": [
+      "Logic in Computer Science (cs.LO)"
+    ]
+  },
+  {
+    "id": "arXiv:2001.06307",
+    "title": "Awkward Arrays in Python, C++, and Numba",
+    "authors": [
+      "Jim Pivarski",
+      "Peter Elmer",
+      "David Lange"
+    ],
+    "subjectives": [
+      "Mathematical Software (cs.MS)",
+      "High Energy Physics - Experiment (hep-ex)"
+    ]
+  },
+  {
+    "id": "arXiv:2001.08860",
+    "title": "Notes on Graph Product Structure Theory",
+    "authors": [
+      "Zden\u011bk Dvo\u0159\u00e1k",
+      "Tony Huynh",
+      "Gwena\u00ebl Joret",
+      "Chun-Hung Liu",
+      "David R. Wood"
+    ],
+    "subjectives": [
+      "Combinatorics (math.CO)",
+      "Computational Geometry (cs.CG)",
+      "Discrete Mathematics (cs.DM)"
+    ]
+  },
+  {
+    "id": "arXiv:2001.10313",
+    "title": "Evolutionary dynamics of higher-order interactions in social networks",
+    "authors": [
+      "Unai Alvarez-Rodriguez",
+      "Federico Battiston",
+      "Guilherme Ferraz de Arruda",
+      "Yamir Moreno",
+      "Matjaz Perc",
+      "Vito Latora"
+    ],
+    "subjectives": [
+      "Physics and Society (physics.soc-ph)",
+      "Social and Information Networks (cs.SI)",
+      "Populations and Evolution (q-bio.PE)"
+    ]
+  },
+  {
+    "id": "arXiv:2001.10505",
+    "title": "Data-driven control of micro-climate in buildings: an event-triggered  reinforcement learning approach",
+    "authors": [
+      "Ashkan Haji Hosseinloo",
+      "Alexander Ryzhov",
+      "Aldo Bischi",
+      "Henni Ouerdane",
+      "Konstantin Turitsyn",
+      "Munther A. Dahleh"
+    ],
+    "subjectives": [
+      "Systems and Control (eess.SY)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2001.11267",
+    "title": "Person Re-identification: Implicitly Defining the Receptive Fields of  Deep Learning Classification Frameworks",
+    "authors": [
+      "Ehsan Yaghoubi",
+      "Diana Borza",
+      "Aruna Kumar",
+      "Hugo Proen\u00e7a"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.00287",
+    "title": "Efficient and Robust Algorithms for Adversarial Linear Contextual  Bandits",
+    "authors": [
+      "Gergely Neu",
+      "Julia Olkhovskaya"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.00655",
+    "title": "Dynamic Parameter Allocation in Parameter Servers",
+    "authors": [
+      "Alexander Renz-Wieland",
+      "Rainer Gemulla",
+      "Steffen Zeuch",
+      "Volker Markl"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Databases (cs.DB)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.00915",
+    "title": "Complexity Guarantees for Polyak Steps with Momentum",
+    "authors": [
+      "Mathieu Barr\u00e9",
+      "Adrien Taylor",
+      "Alexandre d'Aspremont"
+    ],
+    "subjectives": [
+      "Optimization and Control (math.OC)",
+      "Numerical Analysis (math.NA)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.01293",
+    "title": "A Double Exponential Lower Bound for the Distinct Vectors Problem",
+    "authors": [
+      "Marcin Pilipczuk",
+      "Manuel Sorge"
+    ],
+    "subjectives": [
+      "Computational Complexity (cs.CC)",
+      "Discrete Mathematics (cs.DM)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.01441",
+    "title": "A Generalized Flow for B2B Sales Predictive Modeling: An Azure Machine  Learning Approach",
+    "authors": [
+      "Alireza Rezazadeh"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.02405",
+    "title": "How Good is the Bayes Posterior in Deep Neural Networks Really?",
+    "authors": [
+      "Florian Wenzel",
+      "Kevin Roth",
+      "Bastiaan S. Veeling",
+      "Jakub \u015awi\u0105tkowski",
+      "Linh Tran",
+      "Stephan Mandt",
+      "Jasper Snoek",
+      "Tim Salimans",
+      "Rodolphe Jenatton",
+      "Sebastian Nowozin"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Machine Learning (cs.LG)",
+      "Computation (stat.CO)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.03244",
+    "title": "Multi-Objective Molecule Generation using Interpretable Substructures",
+    "authors": [
+      "Wengong Jin",
+      "Regina Barzilay",
+      "Tommi Jaakkola"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.04274",
+    "title": "Meta-Learning across Meta-Tasks for Few-Shot Learning",
+    "authors": [
+      "Nanyi Fei",
+      "Zhiwu Lu",
+      "Yizhao Gao",
+      "Jia Tian",
+      "Tao Xiang",
+      "Ji-Rong Wen"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.06613",
+    "title": "Linear System Identification Under Multiplicative Noise from Multiple  Trajectory Data",
+    "authors": [
+      "Yu Xing",
+      "Ben Gravell",
+      "Xingkang He",
+      "Karl Henrik Johansson",
+      "Tyler Summers"
+    ],
+    "subjectives": [
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.07400",
+    "title": "Learning Parities with Neural Networks",
+    "authors": [
+      "Amit Daniely",
+      "Eran Malach"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.08426",
+    "title": "Lax Wendroff approximate Taylor methods with fast and optimized weighted  essentially non-oscillatory reconstructions",
+    "authors": [
+      "Hugo Carrillo",
+      "Carlos Par\u00e9s",
+      "David Zor\u00edo"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.09546",
+    "title": "IMDfence: Architecting a Secure Protocol for Implantable Medical Devices",
+    "authors": [
+      "Muhammad Ali Siddiqi",
+      "Christian Doerr",
+      "Christos Strydis"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)",
+      "Computers and Society (cs.CY)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.10081",
+    "title": "Toward a mathematical theory of the crystallographic phase retrieval  problem",
+    "authors": [
+      "Tamir Bendory",
+      "Dan Edidin"
+    ],
+    "subjectives": [
+      "Information Theory (cs.IT)",
+      "Algebraic Geometry (math.AG)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.10234",
+    "title": "FR-Train: A Mutual Information-Based Approach to Fair and Robust  Training",
+    "authors": [
+      "Yuji Roh",
+      "Kangwook Lee",
+      "Steven Euijong Whang",
+      "Changho Suh"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2002.12819",
+    "title": "Indoor Scene Recognition in 3D",
+    "authors": [
+      "Shengyu Huang",
+      "Mikhail Usvyatsov",
+      "Konrad Schindler"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Robotics (cs.RO)"
+    ]
+  },
+  {
+    "id": "arXiv:2003.00762",
+    "title": "Flashlight CNN Image Denoising",
+    "authors": [
+      "Pham Huu Thanh Binh",
+      "Crist\u00f3v\u00e3o Cruz",
+      "Karen Egiazarian"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2003.00982",
+    "title": "Benchmarking Graph Neural Networks",
+    "authors": [
+      "Vijay Prakash Dwivedi",
+      "Chaitanya K. Joshi",
+      "Thomas Laurent",
+      "Yoshua Bengio",
+      "Xavier Bresson"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2003.01851",
+    "title": "A Distributed Pipeline for Scalable, Deconflicted Formation Flying",
+    "authors": [
+      "Parker C. Lusk",
+      "Xiaoyi Cai",
+      "Samir Wadhwania",
+      "Aleix Paris",
+      "Kaveh Fathian",
+      "Jonathan P. How"
+    ],
+    "subjectives": [
+      "Robotics (cs.RO)",
+      "Multiagent Systems (cs.MA)"
+    ]
+  },
+  {
+    "id": "arXiv:2003.03151",
+    "title": "Demographic Bias in Presentation Attack Detection of Iris Recognition  Systems",
+    "authors": [
+      "Meiling Fang",
+      "Naser Damer",
+      "Florian Kirchbuchner",
+      "Arjan Kuijper"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2003.03715",
+    "title": "Object-Oriented Video Captioning with Trajectory Graph and Attribute  Exploring",
+    "authors": [
+      "Fangyi Zhu",
+      "Jenq-Neng Hwang",
+      "Zhanyu Ma",
+      "Guang Chen",
+      "Jun Guo"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2003.04614",
+    "title": "Label-Driven Reconstruction for Domain Adaptation in Semantic  Segmentation",
+    "authors": [
+      "Jinyu Yang",
+      "Weizhi An",
+      "Sheng Wang",
+      "Xinliang Zhu",
+      "Chaochao Yan",
+      "Junzhou Huang"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2003.06492",
+    "title": "On Sufficient and Necessary Conditions in Bounded CTL: A Forgetting  Approach",
+    "authors": [
+      "Renyan Feng",
+      "Erman Acar",
+      "Stefan Schlobach",
+      "Yisong Wang",
+      "Wanwei Liu"
+    ],
+    "subjectives": [
+      "Artificial Intelligence (cs.AI)",
+      "Logic in Computer Science (cs.LO)"
+    ]
+  },
+  {
+    "id": "arXiv:2003.06620",
+    "title": "Monocular Depth Estimation Based On Deep Learning: An Overview",
+    "authors": [
+      "Chaoqiang Zhao",
+      "Qiyu Sun",
+      "Chongzhen Zhang",
+      "Yang Tang",
+      "Feng Qian"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2003.08502",
+    "title": "Reconstructing Sinus Anatomy from Endoscopic Video -- Towards a  Radiation-free Approach for Quantitative Longitudinal Assessment",
+    "authors": [
+      "Xingtong Liu",
+      "Maia Stiber",
+      "Jindan Huang",
+      "Masaru Ishii",
+      "Gregory D. Hager",
+      "Russell H. Taylor",
+      "Mathias Unberath"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2003.11235",
+    "title": "AutoFIS: Automatic Feature Interaction Selection in Factorization Models  for Click-Through Rate Prediction",
+    "authors": [
+      "Bin Liu",
+      "Chenxu Zhu",
+      "Guilin Li",
+      "Weinan Zhang",
+      "Jincai Lai",
+      "Ruiming Tang",
+      "Xiuqiang He",
+      "Zhenguo Li",
+      "Yong Yu"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Information Retrieval (cs.IR)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2003.13848",
+    "title": "Code Prediction by Feeding Trees to Transformers",
+    "authors": [
+      "Seohyun Kim",
+      "Jinman Zhao",
+      "Yuchi Tian",
+      "Satish Chandra"
+    ],
+    "subjectives": [
+      "Software Engineering (cs.SE)"
+    ]
+  },
+  {
+    "id": "arXiv:2004.00224",
+    "title": "Understanding GPU-Based Lossy Compression for Extreme-Scale Cosmological  Simulations",
+    "authors": [
+      "Sian Jin",
+      "Pascal Grosset",
+      "Christopher M. Biwer",
+      "Jesus Pulido",
+      "Jiannan Tian",
+      "Dingwen Tao",
+      "James Ahrens"
+    ],
+    "subjectives": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      "Computational Physics (physics.comp-ph)"
+    ]
+  },
+  {
+    "id": "arXiv:2004.00566",
+    "title": "Assisted Learning: A Framework for Multiple Organizations Learning",
+    "authors": [
+      "Xun Xian",
+      "Xinran Wang",
+      "Jie Ding",
+      "Reza Ghanadan"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Cryptography and Security (cs.CR)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2004.01613",
+    "title": "Deep Learning for Image Search and Retrieval in Large Remote Sensing  Archives",
+    "authors": [
+      "Gencer Sumbul",
+      "Jian Kang",
+      "Beg\u00fcm Demir"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2004.02022",
+    "title": "SimAug: Learning Robust Representations from 3D Simulation for  Pedestrian Trajectory Prediction in Unseen Cameras",
+    "authors": [
+      "Junwei Liang",
+      "Lu Jiang",
+      "Alexander Hauptmann"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2004.02082",
+    "title": "On Tractable Representations of Binary Neural Networks",
+    "authors": [
+      "Weijia Shi",
+      "Andy Shih",
+      "Adnan Darwiche",
+      "Arthur Choi"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)"
+    ]
+  },
+  {
+    "id": "arXiv:2004.02235",
+    "title": "Long-tail learning with class descriptors",
+    "authors": [
+      "Dvir Samuel",
+      "Yuval Atzmon",
+      "Gal Chechik"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2004.11963",
+    "title": "Fast Thompson Sampling with Cumulative Oversampling: Application to  Budgeted Influence Maximization",
+    "authors": [
+      "Shatian Wang",
+      "Shuoguang Yang",
+      "Zhen Xu",
+      "Van-Anh Truong"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Social and Information Networks (cs.SI)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2004.12399",
+    "title": "Reinforcement Learning Generalization with Surprise Minimization",
+    "authors": [
+      "Jerry Zikun Chen"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)"
+    ]
+  },
+  {
+    "id": "arXiv:2005.00060",
+    "title": "Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness",
+    "authors": [
+      "Pu Zhao",
+      "Pin-Yu Chen",
+      "Payel Das",
+      "Karthikeyan Natesan Ramamurthy",
+      "Xue Lin"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2005.00124",
+    "title": "Breaking (Global) Barriers in Parallel Stochastic Optimization with  Wait-Avoiding Group Averaging",
+    "authors": [
+      "Shigang Li",
+      "Tal Ben-Nun",
+      "Giorgi Nadiradze",
+      "Salvatore Di Girolamo",
+      "Nikoli Dryden",
+      "Dan Alistarh",
+      "Torsten Hoefler"
+    ],
+    "subjectives": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2005.01917",
+    "title": "Learning selection strategies in Buchberger's algorithm",
+    "authors": [
+      "Dylan Peifer",
+      "Michael Stillman",
+      "Daniel Halpern-Leistner"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Symbolic Computation (cs.SC)",
+      "Commutative Algebra (math.AC)",
+      "Algebraic Geometry (math.AG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2005.03454",
+    "title": "Successfully Applying the Stabilized Lottery Ticket Hypothesis to the  Transformer Architecture",
+    "authors": [
+      "Christopher Brix",
+      "Parnia Bahar",
+      "Hermann Ney"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:2005.03847",
+    "title": "Tree! I am no Tree! I am a Low Dimensional Hyperbolic Embedding",
+    "authors": [
+      "Rishi Sonthalia",
+      "Anna C. Gilbert"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Metric Geometry (math.MG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2005.08365",
+    "title": "MixingBoard: a Knowledgeable Stylized Integrated Text Generation  Platform",
+    "authors": [
+      "Xiang Gao",
+      "Michel Galley",
+      "Bill Dolan"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:2005.08942",
+    "title": "Which scaling rule applies to Artificial Neural Networks",
+    "authors": [
+      "J\u00e1nos V\u00e9gh"
+    ],
+    "subjectives": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2005.12320",
+    "title": "SCAN: Learning to Classify Images without Labels",
+    "authors": [
+      "Wouter Van Gansbeke",
+      "Simon Vandenhende",
+      "Stamatios Georgoulis",
+      "Marc Proesmans",
+      "Luc Van Gool"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2005.13245",
+    "title": "On the Monotonicity of a Nondifferentially Mismeasured Binary Confounder",
+    "authors": [
+      "Jose M. Pe\u00f1a"
+    ],
+    "subjectives": [
+      "Methodology (stat.ME)",
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2005.13781",
+    "title": "A Maneuver-based Urban Driving Dataset and Model for Cooperative Vehicle  Applications",
+    "authors": [
+      "Behrad Toghi",
+      "Divas Grover",
+      "Mahdi Razzaghpour",
+      "Rajat Jain",
+      "Rodolfo Valiente Romero",
+      "Yaser P. Fallah"
+    ],
+    "subjectives": [
+      "Signal Processing (eess.SP)",
+      "Robotics (cs.RO)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.00706",
+    "title": "(Locally) Differentially Private Combinatorial Semi-Bandits",
+    "authors": [
+      "Xiaoyu Chen",
+      "Kai Zheng",
+      "Zixin Zhou",
+      "Yunchang Yang",
+      "Wei Chen",
+      "Liwei Wang"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.00752",
+    "title": "Global Distance-distributions Separation for Unsupervised Person  Re-identification",
+    "authors": [
+      "Xin Jin",
+      "Cuiling Lan",
+      "Wenjun Zeng",
+      "Zhibo Chen"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.01031",
+    "title": "A Smooth Representation of Belief over SO(3) for Deep Rotation Learning  with Uncertainty",
+    "authors": [
+      "Valentin Peretroukhin",
+      "Matthew Giamou",
+      "David M. Rosen",
+      "W. Nicholas Greene",
+      "Nicholas Roy",
+      "Jonathan Kelly"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.01095",
+    "title": "Emergence of Separable Manifolds in Deep Language Representations",
+    "authors": [
+      "Jonathan Mamou",
+      "Hang Le",
+      "Miguel Del Rio",
+      "Cory Stephenson",
+      "Hanlin Tang",
+      "Yoon Kim",
+      "SueYeon Chung"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)",
+      "Neural and Evolutionary Computing (cs.NE)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.03311",
+    "title": "Reliable Covariance Estimation",
+    "authors": [
+      "Ilya Soloveychik"
+    ],
+    "subjectives": [
+      "Statistics Theory (math.ST)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.03677",
+    "title": "Visual Transformers: Token-based Image Representation and Processing for  Computer Vision",
+    "authors": [
+      "Bichen Wu",
+      "Chenfeng Xu",
+      "Xiaoliang Dai",
+      "Alvin Wan",
+      "Peizhao Zhang",
+      "Masayoshi Tomizuka",
+      "Kurt Keutzer",
+      "Peter Vajda"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.03761",
+    "title": "GRNet: Gridding Residual Network for Dense Point Cloud Completion",
+    "authors": [
+      "Haozhe Xie",
+      "Hongxun Yao",
+      "Shangchen Zhou",
+      "Jiageng Mao",
+      "Shengping Zhang",
+      "Wenxiu Sun"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.04200",
+    "title": "A Review of Emergency Incident Prediction, Resource Allocation and  Dispatch Models",
+    "authors": [
+      "Ayan Mukhopadhyay",
+      "Geoffrey Pettet",
+      "Sayyed Vazirizade",
+      "Yevgeniy Vorobeychik",
+      "Mykel Kochenderfer",
+      "Abhishek Dubey"
+    ],
+    "subjectives": [
+      "Artificial Intelligence (cs.AI)",
+      "Computers and Society (cs.CY)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.04598",
+    "title": "WaveNODE: A Continuous Normalizing Flow for Speech Synthesis",
+    "authors": [
+      "Hyeongju Kim",
+      "Hyeonseung Lee",
+      "Woo Hyun Kang",
+      "Sung Jun Cheon",
+      "Byoung Jin Choi",
+      "Nam Soo Kim"
+    ],
+    "subjectives": [
+      "Sound (cs.SD)",
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)",
+      "Audio and Speech Processing (eess.AS)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.05167",
+    "title": "Towards Generating Benchmark Datasets for Worm Infection Studies",
+    "authors": [
+      "Sara Asgari",
+      "Babak Sadeghiyan"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)",
+      "Networking and Internet Architecture (cs.NI)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.06987",
+    "title": "Improved estimations of stochastic chemical kinetics by finite state  expansion",
+    "authors": [
+      "Tabea Waizmann",
+      "Luca Bortolussi",
+      "Andrea Vandin",
+      "Mirco Tribastone"
+    ],
+    "subjectives": [
+      "Molecular Networks (q-bio.MN)",
+      "Computational Engineering, Finance, and Science (cs.CE)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.07262",
+    "title": "A Brief Look at Generalization in Visual Meta-Reinforcement Learning",
+    "authors": [
+      "Safa Alver",
+      "Doina Precup"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.07789",
+    "title": "PrimA6D: Rotational Primitive Reconstruction for Enhanced and Robust 6D  Pose Estimation",
+    "authors": [
+      "MyungHwan Jeon",
+      "Ayoung Kim"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Robotics (cs.RO)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.08164",
+    "title": "Public Willingness to Get Vaccinated Against COVID-19: How AI-Developed  Vaccines Can Affect Acceptance",
+    "authors": [
+      "Gabriel Lima",
+      "Hyeyoung Hwang",
+      "Chiyoung Cha",
+      "Meeyoung Cha"
+    ],
+    "subjectives": [
+      "Computers and Society (cs.CY)",
+      "Artificial Intelligence (cs.AI)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.09102",
+    "title": "UCSG-Net -- Unsupervised Discovering of Constructive Solid Geometry Tree",
+    "authors": [
+      "Kacper Kania",
+      "Maciej Zi\u0119ba",
+      "Tomasz Kajdanowicz"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.10383",
+    "title": "3D Pipe Network Reconstruction Based on Structure from Motion with  Incremental Conic Shape Detection and Cylindrical Constraint",
+    "authors": [
+      "Sho kagami",
+      "Hajime Taira",
+      "Naoyuki Miyashita",
+      "Akihiko Torii",
+      "Masatoshi Okutomi"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.10562",
+    "title": "Uncertainty in Gradient Boosting via Ensembles",
+    "authors": [
+      "Aleksei Ustimenko",
+      "Liudmila Prokhorenkova",
+      "Andrey Malinin"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.11392",
+    "title": "PraNet: Parallel Reverse Attention Network for Polyp Segmentation",
+    "authors": [
+      "Deng-Ping Fan",
+      "Ge-Peng Ji",
+      "Tao Zhou",
+      "Geng Chen",
+      "Huazhu Fu",
+      "Jianbing Shen",
+      "Ling Shao"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.11798",
+    "title": "Further progress towards Hadwiger's conjecture",
+    "authors": [
+      "Luke Postle"
+    ],
+    "subjectives": [
+      "Combinatorics (math.CO)",
+      "Discrete Mathematics (cs.DM)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.11834",
+    "title": "AdvAug: Robust Adversarial Augmentation for Neural Machine Translation",
+    "authors": [
+      "Yong Cheng",
+      "Lu Jiang",
+      "Wolfgang Macherey",
+      "Jacob Eisenstein"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.13272",
+    "title": "Approximation by multivariate quasi-projection operators and Fourier  multipliers",
+    "authors": [
+      "Yurii Kolomoitsev",
+      "Maria Skopina"
+    ],
+    "subjectives": [
+      "Classical Analysis and ODEs (math.CA)",
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.13330",
+    "title": "A Mean-Field Theory for Learning the Sch\u00f6nberg Measure of Radial  Basis Functions",
+    "authors": [
+      "Masoud Badiei Khuzani",
+      "Yinyu Ye",
+      "Sandy Napel",
+      "Lei Xing"
+    ],
+    "subjectives": [
+      "Statistics Theory (math.ST)",
+      "Machine Learning (cs.LG)",
+      "Optimization and Control (math.OC)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.13352",
+    "title": "Rethinking Distributional Matching Based Domain Adaptation",
+    "authors": [
+      "Bo Li",
+      "Yezhen Wang",
+      "Tong Che",
+      "Shanghang Zhang",
+      "Sicheng Zhao",
+      "Pengfei Xu",
+      "Wei Zhou",
+      "Yoshua Bengio",
+      "Kurt Keutzer"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.13888",
+    "title": "RL Unplugged: Benchmarks for Offline Reinforcement Learning",
+    "authors": [
+      "Caglar Gulcehre",
+      "Ziyu Wang",
+      "Alexander Novikov",
+      "Tom Le Paine",
+      "Sergio Gomez Colmenarejo",
+      "Konrad Zolna",
+      "Rishabh Agarwal",
+      "Josh Merel",
+      "Daniel Mankowitz",
+      "Cosmin Paduraru",
+      "Gabriel Dulac-Arnold",
+      "Jerry Li",
+      "Mohammad Norouzi",
+      "Matt Hoffman",
+      "Ofir Nachum",
+      "George Tucker",
+      "Nicolas Heess",
+      "Nando de Freitas"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.14063",
+    "title": "Practical applications of metric space magnitude and weighting vectors",
+    "authors": [
+      "Eric Bunch",
+      "Daniel Dickinson",
+      "Jeffery Kline",
+      "Glenn Fung"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Algebraic Topology (math.AT)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.14364",
+    "title": "Finite-Sample Analysis of Proximal Gradient TD Algorithms",
+    "authors": [
+      "Bo Liu",
+      "Ji Liu",
+      "Mohammad Ghavamzadeh",
+      "Sridhar Mahadevan",
+      "Marek Petrik"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.14492",
+    "title": "TweetsCOV19 -- A Knowledge Base of Semantically Annotated Tweets about  the COVID-19 Pandemic",
+    "authors": [
+      "Dimitar Dimitrov",
+      "Erdal Baran",
+      "Pavlos Fafalios",
+      "Ran Yu",
+      "Xiaofei Zhu",
+      "Matth\u00e4us Zloch",
+      "Stefan Dietze"
+    ],
+    "subjectives": [
+      "Social and Information Networks (cs.SI)",
+      "Information Retrieval (cs.IR)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.14828",
+    "title": "Lee-Yang zeros and the complexity of the ferromagnetic Ising Model on  bounded-degree graphs",
+    "authors": [
+      "Pjotr Buys",
+      "Andreas Galanis",
+      "Viresh Patel",
+      "Guus Regts"
+    ],
+    "subjectives": [
+      "Computational Complexity (cs.CC)",
+      "Data Structures and Algorithms (cs.DS)",
+      "Combinatorics (math.CO)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.14890",
+    "title": "CyRes -- Avoiding Catastrophic Failure in Connected and Autonomous  Vehicles (Extended Abstract)",
+    "authors": [
+      "Carsten Maple",
+      "Peter Davies",
+      "Kerstin Eder",
+      "Chris Hankin",
+      "Greg Chance",
+      "Gregory Epiphaniou"
+    ],
+    "subjectives": [
+      "Cryptography and Security (cs.CR)",
+      "Computers and Society (cs.CY)",
+      "Robotics (cs.RO)",
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.14945",
+    "title": "An even better Density Increment Theorem and its application to  Hadwiger's Conjecture",
+    "authors": [
+      "Luke Postle"
+    ],
+    "subjectives": [
+      "Combinatorics (math.CO)",
+      "Discrete Mathematics (cs.DM)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.14963",
+    "title": "An approximation to zeros of the Riemann zeta function using fractional  calculus",
+    "authors": [
+      "A. Torres-Hernandez",
+      "F. Brambila-Paz"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)",
+      "Number Theory (math.NT)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.14984",
+    "title": "Suggestive Annotation of Brain Tumour Images with Gradient-guided  Sampling",
+    "authors": [
+      "Chengliang Dai",
+      "Shuo Wang",
+      "Yuanhan Mo",
+      "Kaichen Zhou",
+      "Elsa Angelini",
+      "Yike Guo",
+      "Wenjia Bai"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.15218",
+    "title": "Traditional and accelerated gradient descent for neural architecture  search",
+    "authors": [
+      "Nicolas Garcia Trillos",
+      "Felix Morales",
+      "Javier Morales"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Numerical Analysis (math.NA)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.15449",
+    "title": "Simulating the Effects of Social Presence on Trust, Privacy Concerns &  Usage Intentions in Automated Bots for Finance",
+    "authors": [
+      "Magdalene Ng",
+      "Kovila P.L. Coopamootoo",
+      "Ehsan Toreini",
+      "Mhairi Aitken",
+      "Karen Elliot",
+      "Aad van Moorsel"
+    ],
+    "subjectives": [
+      "Human-Computer Interaction (cs.HC)",
+      "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.16581",
+    "title": "Early Exit Or Not: Resource-Efficient Blind Quality Enhancement for  Compressed Images",
+    "authors": [
+      "Qunliang Xing",
+      "Mai Xu",
+      "Tianyi Li",
+      "Zhenyu Guan"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.16925",
+    "title": "Ethical Analysis on the Application of Neurotechnology for Human  Augmentation in Physicians and Surgeons",
+    "authors": [
+      "Soaad Hossain",
+      "Syed Ishtiaque Ahmed"
+    ],
+    "subjectives": [
+      "Computers and Society (cs.CY)",
+      "Human-Computer Interaction (cs.HC)",
+      "Medical Physics (physics.med-ph)"
+    ]
+  },
+  {
+    "id": "arXiv:2006.16984",
+    "title": "Mining Documentation to Extract Hyperparameter Schemas",
+    "authors": [
+      "Guillaume Baudart",
+      "Peter D. Kirchner",
+      "Martin Hirzel",
+      "Kiran Kate"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Databases (cs.DB)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00038",
+    "title": "Unsupervised Deep Learning for Massive MIMO Hybrid Beamforming",
+    "authors": [
+      "Hamed Hojatian",
+      "Jeremy Nadal",
+      "Jean-Francois Frigon",
+      "Francois Leduc-Primeau"
+    ],
+    "subjectives": [
+      "Signal Processing (eess.SP)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00347",
+    "title": "Continuous-Time Bayesian Networks with Clocks",
+    "authors": [
+      "Nicolai Engelmann",
+      "Dominik Linzner",
+      "Heinz Koeppl"
+    ],
+    "subjectives": [
+      "Machine Learning (stat.ML)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00411",
+    "title": "Handling Variable-Dimensional Time Series with Graph Neural Networks",
+    "authors": [
+      "Vibhor Gupta",
+      "Jyoti Narwariya",
+      "Pankaj Malhotra",
+      "Lovekesh Vig",
+      "Gautam Shroff"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Signal Processing (eess.SP)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00430",
+    "title": "On the Role of Models in Learning Control: Actor-Critic Iterative  Learning Control",
+    "authors": [
+      "Maurice Poot",
+      "Jim Portegies",
+      "Tom Oomen"
+    ],
+    "subjectives": [
+      "Systems and Control (eess.SY)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00487",
+    "title": "Continual Learning: Tackling Catastrophic Forgetting in Deep Neural  Networks with Replay Processes",
+    "authors": [
+      "Timoth\u00e9e Lesort"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Neural and Evolutionary Computing (cs.NE)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00502",
+    "title": "Decidable Entailments in Separation Logic with Inductive Definitions:  Beyond Established Systems",
+    "authors": [
+      "Mnacho Echenim",
+      "Radu Iosif",
+      "Nicolas Peltier"
+    ],
+    "subjectives": [
+      "Logic in Computer Science (cs.LO)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00566",
+    "title": "The Price of Competition: Effect Size Heterogeneity Matters in High  Dimensions",
+    "authors": [
+      "Hua Wang",
+      "Yachong Yang",
+      "Weijie J. Su"
+    ],
+    "subjectives": [
+      "Statistics Theory (math.ST)",
+      "Information Theory (cs.IT)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00631",
+    "title": "Causal Discovery in Physical Systems from Videos",
+    "authors": [
+      "Yunzhu Li",
+      "Antonio Torralba",
+      "Animashree Anandkumar",
+      "Dieter Fox",
+      "Animesh Garg"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00659",
+    "title": "LSTM and GPT-2 Synthetic Speech Transfer Learning for Speaker  Recognition to Overcome Data Scarcity",
+    "authors": [
+      "Jordan J. Bird",
+      "Diego R. Faria",
+      "Anik\u00f3 Ek\u00e1rt",
+      "Cristiano Premebida",
+      "Pedro P. S. Ayrosa"
+    ],
+    "subjectives": [
+      "Audio and Speech Processing (eess.AS)",
+      "Machine Learning (cs.LG)",
+      "Sound (cs.SD)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00815",
+    "title": "Threshold Logic with Current-Driven Magnetic Domain Walls",
+    "authors": [
+      "Xuan Hu",
+      "Brighton A. Hill",
+      "Felipe Garcia-Sanchez",
+      "Joseph S. Friedman"
+    ],
+    "subjectives": [
+      "Emerging Technologies (cs.ET)",
+      "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00824",
+    "title": "Lightme: Analysing Language in Internet Support Groups for Mental Health",
+    "authors": [
+      "Gabriela Ferraro",
+      "Brendan Loo Gee",
+      "Shenjia Ji",
+      "Luis Salvador-Carulla"
+    ],
+    "subjectives": [
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.00970",
+    "title": "MPLP: Learning a Message Passing Learning Protocol",
+    "authors": [
+      "Ettore Randazzo",
+      "Eyvind Niklasson",
+      "Alexander Mordvintsev"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01028",
+    "title": "Quantum Ensemble for Classification",
+    "authors": [
+      "Antonio Macaluso",
+      "Luca Clissa",
+      "Stefano Lodi",
+      "Claudio Sartori"
+    ],
+    "subjectives": [
+      "Machine Learning (cs.LG)",
+      "Quantum Physics (quant-ph)",
+      "Machine Learning (stat.ML)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01151",
+    "title": "JUMPS: Joints Upsampling Method for Pose Sequences",
+    "authors": [
+      "Lucas Mourot",
+      "Fran\u00e7ois Le Clerc",
+      "C\u00e9dric Th\u00e9bault",
+      "Pierre Hellier"
+    ],
+    "subjectives": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01187",
+    "title": "Am I Building a White Box Agent or Interpreting a Black Box Agent?",
+    "authors": [
+      "Tom Bewley"
+    ],
+    "subjectives": [
+      "Artificial Intelligence (cs.AI)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01212",
+    "title": "Monolithic convex limiting in discontinuous Galerkin discretizations of  hyperbolic conservation laws",
+    "authors": [
+      "Hennes Hajduk"
+    ],
+    "subjectives": [
+      "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "arXiv:2007.01230",
+    "title": "Climbing the WOL: Training for Cheaper Inference",
+    "authors": [
+      "Zichang Liu",
+      "Zhaozhuo Xu",
+      "Alan Ji",
+      "Jonathan Li",
+      "Beidi Chen",
+      "Anshumali Shrivastava"
+    ],
+    "subjectives": [
+      "Information Retrieval (cs.IR)",
+      "Machine Learning (cs.LG)"
+    ]
+  }
+]
