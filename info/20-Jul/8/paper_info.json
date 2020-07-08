@@ -199,7 +199,8 @@
       "Juan Ye"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
@@ -540,7 +541,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
+      "Cryptography and Security (cs.CR)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -738,7 +739,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Neural and Evolutionary Computing (cs.NE)"
     ]
   },
   {
@@ -783,6 +785,7 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
       "Image and Video Processing (eess.IV)"
     ]
   },
@@ -882,7 +885,8 @@
       "Ryosuke Shibasaki"
     ],
     "subjectives": [
-      "Human-Computer Interaction (cs.HC)"
+      "Human-Computer Interaction (cs.HC)",
+      "Social and Information Networks (cs.SI)"
     ]
   },
   {
@@ -913,7 +917,8 @@
     ],
     "subjectives": [
       "Information Retrieval (cs.IR)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -926,6 +931,7 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -1124,7 +1130,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -1212,7 +1217,7 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1262,7 +1267,9 @@
       "Fabio Stella"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -1422,7 +1429,8 @@
       "Walid Saad"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -1498,8 +1506,8 @@
       "Shaoting Zhang"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)",
-      "Image and Video Processing (eess.IV)"
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
@@ -1602,7 +1610,8 @@
       "Christopher Leckie"
     ],
     "subjectives": [
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1642,7 +1651,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Computation and Language (cs.CL)",
       "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (stat.ML)"
@@ -1710,7 +1718,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1739,7 +1748,9 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1927,7 +1938,7 @@
   },
   {
     "id": "arXiv:2007.03383",
-    "title": "RGCF: Refined Graph Convolution Collaborative Filering with concise and  expressive embedding",
+    "title": "RGCF: Refined Graph Convolution Collaborative Filtering with concise and  expressive embedding",
     "authors": [
       "Kang Liu",
       "Feng Xue",
@@ -1935,7 +1946,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
+      "Information Retrieval (cs.IR)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -2844,7 +2855,8 @@
       "Ralph Bergmann"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Software Engineering (cs.SE)"
     ]
   },
   {
@@ -2944,7 +2956,6 @@
     ],
     "subjectives": [
       "Computers and Society (cs.CY)",
-      "Artificial Intelligence (cs.AI)",
       "Human-Computer Interaction (cs.HC)",
       "Machine Learning (cs.LG)",
       "Social and Information Networks (cs.SI)"
@@ -3068,7 +3079,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Cryptography and Security (cs.CR)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -3511,8 +3523,9 @@
       "Tracy Usher"
     ],
     "subjectives": [
-      "High Energy Physics - Experiment (hep-ex)",
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Instrumentation and Detectors (physics.ins-det)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -3615,9 +3628,7 @@
       "Lu Ou"
     ],
     "subjectives": [
-      "Image and Video Processing (eess.IV)",
-      "Artificial Intelligence (cs.AI)",
-      "Signal Processing (eess.SP)"
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -6436,7 +6447,6 @@
     ],
     "subjectives": [
       "Information Theory (cs.IT)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Networking and Internet Architecture (cs.NI)"
     ]
