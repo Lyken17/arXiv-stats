@@ -302,8 +302,8 @@
     "title": "Learning to Segment Anatomical Structures Accurately from One Exemplar",
     "authors": [
       "Yuhang Lu",
-      "Kang Zheng",
       "Weijian Li",
+      "Kang Zheng",
       "Yirui Wang",
       "Adam P. Harrison",
       "Chihung Lin",
@@ -999,7 +999,7 @@
   },
   {
     "id": "arXiv:2007.03200",
-    "title": "ReMOTS: Refining Multi-Object Tracking and Segmentation",
+    "title": "ReMOTS: Self-Supervised Refining Multi-Object Tracking and Segmentation",
     "authors": [
       "Fan Yang",
       "Xin Chang",
@@ -3253,8 +3253,8 @@
     "id": "arXiv:2007.03648",
     "title": "The Vectorial Lambda Calculus Revisited",
     "authors": [
-      "Alejandro D\u00edaz-Caro",
-      "Francisco Noriega"
+      "Francisco Noriega",
+      "Alejandro D\u00edaz-Caro"
     ],
     "subjectives": [
       "Logic in Computer Science (cs.LO)"
@@ -5421,6 +5421,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (stat.ML)"
     ]
   },
