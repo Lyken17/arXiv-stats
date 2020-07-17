@@ -874,8 +874,8 @@
     "id": "arXiv:2007.07477",
     "title": "Explaining Deep Neural Networks using Unsupervised Clustering",
     "authors": [
-      "Sercan O. Arik",
-      "Yu-han Liu"
+      "Yu-han Liu",
+      "Sercan O. Arik"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
@@ -2016,7 +2016,8 @@
     ],
     "subjectives": [
       "Computational Geometry (cs.CG)",
-      "Data Structures and Algorithms (cs.DS)"
+      "Data Structures and Algorithms (cs.DS)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2481,7 +2482,8 @@
     "id": "arXiv:2007.07808",
     "title": "A Finite Time Combinatorial Algorithm for Instantaneous Dynamic  Equilibrium Flows",
     "authors": [
-      "Lukas Graf und Tobias Harks"
+      "Lukas Graf",
+      "Tobias Harks"
     ],
     "subjectives": [
       "Computer Science and Game Theory (cs.GT)",
@@ -3011,7 +3013,10 @@
     ],
     "subjectives": [
       "Physics and Society (physics.soc-ph)",
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Dynamical Systems (math.DS)",
+      "Adaptation and Self-Organizing Systems (nlin.AO)",
+      "Methodology (stat.ME)"
     ]
   },
   {
@@ -5345,6 +5350,8 @@
     "title": "Train Your Data Processor: Distribution-Aware and Error-Compensation  Coordinate Decoding for Human Pose Estimation",
     "authors": [
       "Feiyu Yang",
+      "Zhan Song",
+      "Zhenzhong Xiao",
       "Yu Chen",
       "Zhe Pan",
       "Min Zhang",
@@ -5352,9 +5359,7 @@
       "Yaoyang Mo",
       "Yao Zhang",
       "Guoxiong Guan",
-      "Beibei Qian",
-      "Zhenzhong Xiao",
-      "Zhan Song"
+      "Beibei Qian"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)"
