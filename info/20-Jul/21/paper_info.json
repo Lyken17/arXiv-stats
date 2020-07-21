@@ -270,7 +270,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -287,7 +288,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Computer Vision and Pattern Recognition (cs.CV)",
       "Neural and Evolutionary Computing (cs.NE)",
       "Machine Learning (stat.ML)"
@@ -396,7 +396,8 @@
       "Dimitris Metaxas"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -436,7 +437,7 @@
     ],
     "subjectives": [
       "Robotics (cs.RO)",
-      "Artificial Intelligence (cs.AI)"
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -503,7 +504,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -653,7 +653,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -934,7 +935,8 @@
       "Xiaoli Xu"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -975,7 +977,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Computation and Language (cs.CL)",
       "Machine Learning (stat.ML)"
     ]
@@ -1155,7 +1156,8 @@
       "Radu Marculescu"
     ],
     "subjectives": [
-      "Hardware Architecture (cs.AR)"
+      "Hardware Architecture (cs.AR)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
     ]
   },
   {
@@ -1302,6 +1304,7 @@
       "Zhenguo Li"
     ],
     "subjectives": [
+      "Machine Learning (cs.LG)",
       "Artificial Intelligence (cs.AI)"
     ]
   },
@@ -1315,7 +1318,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1552,7 +1556,8 @@
       "Jonathan Bourne"
     ],
     "subjectives": [
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Physics and Society (physics.soc-ph)"
     ]
   },
   {
@@ -1677,7 +1682,9 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1691,8 +1698,8 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -1787,8 +1794,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1978,8 +1985,9 @@
       "Mani Srivastava"
     ],
     "subjectives": [
+      "Human-Computer Interaction (cs.HC)",
       "Artificial Intelligence (cs.AI)",
-      "Human-Computer Interaction (cs.HC)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2346,7 +2354,8 @@
       "Hengshuai Yao"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2385,7 +2394,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2430,7 +2440,8 @@
       "Anna Nadolny"
     ],
     "subjectives": [
-      "Systems and Control (eess.SY)"
+      "Systems and Control (eess.SY)",
+      "Physics and Society (physics.soc-ph)"
     ]
   },
   {
@@ -2461,12 +2472,12 @@
     ],
     "subjectives": [
       "Distributed, Parallel, and Cluster Computing (cs.DC)",
-      "Artificial Intelligence (cs.AI)"
+      "Databases (cs.DB)"
     ]
   },
   {
     "id": "arXiv:2007.09590",
-    "title": "AWR:Adaptive Weighting Regression for 3D Hand Pose Estimation",
+    "title": "AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation",
     "authors": [
       "Weiting Huang",
       "Pengfei Ren",
@@ -2476,7 +2487,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -2573,7 +2585,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Numerical Analysis (math.NA)",
       "Machine Learning (stat.ML)"
     ]
@@ -2585,7 +2596,8 @@
       "Wenpeng Yin"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2628,8 +2640,9 @@
       "Tyng-Luh Liu"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2800,8 +2813,7 @@
       "Yasset Perez-Riverol"
     ],
     "subjectives": [
-      "Digital Libraries (cs.DL)",
-      "Social and Information Networks (cs.SI)"
+      "Digital Libraries (cs.DL)"
     ]
   },
   {
@@ -2911,7 +2923,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -3084,7 +3095,7 @@
     ],
     "subjectives": [
       "Computer Science and Game Theory (cs.GT)",
-      "Artificial Intelligence (cs.AI)"
+      "Systems and Control (eess.SY)"
     ]
   },
   {
@@ -3204,7 +3215,7 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -3494,8 +3505,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -3509,6 +3520,7 @@
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
       "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)",
       "Multiagent Systems (cs.MA)"
     ]
   },
@@ -3573,7 +3585,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -3586,7 +3599,7 @@
     ],
     "subjectives": [
       "Social and Information Networks (cs.SI)",
-      "Artificial Intelligence (cs.AI)"
+      "Computers and Society (cs.CY)"
     ]
   },
   {
@@ -3659,7 +3672,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -3807,7 +3819,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -4087,8 +4100,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -4272,7 +4285,8 @@
       "Claire Fyfe"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Human-Computer Interaction (cs.HC)"
     ]
   },
   {
@@ -4286,7 +4300,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -4536,7 +4551,7 @@
   },
   {
     "id": "arXiv:2007.10022",
-    "title": "Learning Sparse Filters In Deep Convolutional Neural Networks With A  l1/l2 Pseudo-Norm",
+    "title": "Learning Sparse Filters in Deep Convolutional Neural Networks with a  l1/l2 Pseudo-Norm",
     "authors": [
       "Anthony Berthelier",
       "Yongzhe Yan",
@@ -4546,7 +4561,8 @@
       "Christophe Garcia"
     ],
     "subjectives": [
-      "Neural and Evolutionary Computing (cs.NE)"
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -4562,7 +4578,7 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -4667,7 +4683,8 @@
       "Elena Loli Piccolomini"
     ],
     "subjectives": [
-      "Numerical Analysis (math.NA)"
+      "Numerical Analysis (math.NA)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -4976,8 +4993,8 @@
       "Simona E. Rombo"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)",
       "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Artificial Intelligence (cs.AI)",
       "Data Structures and Algorithms (cs.DS)"
     ]
   },
@@ -5055,7 +5072,7 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)",
       "Image and Video Processing (eess.IV)"
     ]
   },
@@ -5205,7 +5222,6 @@
     ],
     "subjectives": [
       "Systems and Control (eess.SY)",
-      "Artificial Intelligence (cs.AI)",
       "Formal Languages and Automata Theory (cs.FL)"
     ]
   },
@@ -5220,7 +5236,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Computer Vision and Pattern Recognition (cs.CV)",
       "Neural and Evolutionary Computing (cs.NE)",
       "Machine Learning (stat.ML)"
@@ -5382,7 +5397,6 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Sound (cs.SD)",
       "Audio and Speech Processing (eess.AS)"
@@ -5579,7 +5593,8 @@
       "Adrian G. Bors"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -5604,7 +5619,7 @@
     ],
     "subjectives": [
       "Robotics (cs.RO)",
-      "Artificial Intelligence (cs.AI)"
+      "Neural and Evolutionary Computing (cs.NE)"
     ]
   },
   {
@@ -5629,7 +5644,8 @@
     ],
     "subjectives": [
       "Social and Information Networks (cs.SI)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -5787,7 +5803,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -5902,7 +5919,7 @@
     ],
     "subjectives": [
       "Robotics (cs.RO)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -5941,7 +5958,6 @@
     ],
     "subjectives": [
       "Logic in Computer Science (cs.LO)",
-      "Artificial Intelligence (cs.AI)",
       "Logic (math.LO)"
     ]
   },
@@ -6021,7 +6037,6 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Audio and Speech Processing (eess.AS)"
     ]
@@ -6151,7 +6166,6 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Robotics (cs.RO)"
     ]
@@ -6309,7 +6323,8 @@
     ],
     "subjectives": [
       "Image and Video Processing (eess.IV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Neurons and Cognition (q-bio.NC)"
     ]
   },
   {
@@ -6528,11 +6543,9 @@
     ],
     "subjectives": [
       "Image and Video Processing (eess.IV)",
-      "Artificial Intelligence (cs.AI)",
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Quantitative Methods (q-bio.QM)",
-      "Subcellular Processes (q-bio.SC)",
-      "Tissues and Organs (q-bio.TO)"
+      "Cell Behavior (q-bio.CB)",
+      "Quantitative Methods (q-bio.QM)"
     ]
   },
   {
@@ -6727,7 +6740,6 @@
     ],
     "subjectives": [
       "Machine Learning (stat.ML)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -7064,7 +7076,7 @@
     ],
     "subjectives": [
       "Signal Processing (eess.SP)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
