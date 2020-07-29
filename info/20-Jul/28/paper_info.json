@@ -232,7 +232,7 @@
   },
   {
     "id": "arXiv:2007.12756",
-    "title": "Detecting Dynamic States of Temporal Networks",
+    "title": "Detecting Dynamic States of Temporal Networks Using Connection Series  Tensors",
     "authors": [
       "Shun Cao",
       "Hiroki Sayama"
@@ -2753,10 +2753,8 @@
     "id": "arXiv:2007.13278",
     "title": "Representation Learning with Video Deep InfoMax",
     "authors": [
-      "Hjelm",
-      "R Devon",
-      "Bachman",
-      "Philip"
+      "R Devon Hjelm",
+      "Philip Bachman"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
@@ -3276,8 +3274,7 @@
       "Weihua Liu",
       "Xiabi Liu",
       "Murong Wang",
-      "Ling Ma",
-      "Yunde Jia"
+      "Ling Ma"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
@@ -4239,7 +4236,7 @@
       "Klim Kireev",
       "Edgar Kaziakhmedov",
       "Nurislam Tursynbek",
-      "Aleksandr Petyushko"
+      "Aleksandr Petiushko"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)"
@@ -4344,7 +4341,7 @@
   },
   {
     "id": "arXiv:2007.13660",
-    "title": "Learning discrete distributions: user-lever vs item-level privacy",
+    "title": "Learning discrete distributions: user vs item-level privacy",
     "authors": [
       "Yuhan Liu",
       "Ananda Theertha Suresh",
@@ -5026,6 +5023,7 @@
     ],
     "subjectives": [
       "Audio and Speech Processing (eess.AS)",
+      "Machine Learning (cs.LG)",
       "Sound (cs.SD)"
     ]
   },
@@ -5446,8 +5444,8 @@
     "title": "The Pendulum Arrangement: Maximizing the Escape Time of Heterogeneous  Random Walks",
     "authors": [
       "Asaf Cassel",
-      "Guy Tennenholtz",
-      "Shie Mannor"
+      "Shie Mannor",
+      "Guy Tennenholtz"
     ],
     "subjectives": [
       "Probability (math.PR)",
@@ -5557,7 +5555,7 @@
   },
   {
     "id": "arXiv:2007.13350",
-    "title": "Self Attentive Multi Layer Aggregation with Feature Recalibration and  Normalization for End to End Speaker Verification System",
+    "title": "Self-Attentive Multi-Layer Aggregation with Feature Recalibration and  Normalization for End-to-End Speaker Verification System",
     "authors": [
       "Soonshin Seo",
       "Ji-Hwan Kim"
@@ -9266,7 +9264,8 @@
       "Zhimin Tang"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
