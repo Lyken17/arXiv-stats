@@ -1486,14 +1486,15 @@
   },
   {
     "id": "arXiv:2008.03609",
-    "title": "Enhance CNN Robustness Against Noises for Classficiation of 12-Lead ECG  with Variable Length",
+    "title": "Enhance CNN Robustness Against Noises for Classification of 12-Lead ECG  with Variable Length",
     "authors": [
       "Linhai Ma",
       "Liang Liang"
     ],
     "subjectives": [
+      "Signal Processing (eess.SP)",
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2765,7 +2766,8 @@
       "Zhaoyang Zhang"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -4008,7 +4010,8 @@
       "Danilo P. Mandic"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -4422,7 +4425,8 @@
       "Fei Gao"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -5906,7 +5910,6 @@
     ],
     "subjectives": [
       "Quantitative Methods (q-bio.QM)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)",
       "Populations and Evolution (q-bio.PE)"
     ]
