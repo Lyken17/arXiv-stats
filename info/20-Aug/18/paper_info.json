@@ -372,7 +372,8 @@
     ],
     "subjectives": [
       "Systems and Control (eess.SY)",
-      "Artificial Intelligence (cs.AI)"
+      "Multiagent Systems (cs.MA)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -559,7 +560,7 @@
     ],
     "subjectives": [
       "Databases (cs.DB)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -696,7 +697,7 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1005,7 +1006,7 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)",
       "Image and Video Processing (eess.IV)"
     ]
   },
@@ -1466,7 +1467,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1478,7 +1480,7 @@
     ],
     "subjectives": [
       "Databases (cs.DB)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1673,7 +1675,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -1797,8 +1800,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
-      "Neural and Evolutionary Computing (cs.NE)"
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -2179,7 +2182,7 @@
     ],
     "subjectives": [
       "Computers and Society (cs.CY)",
-      "Artificial Intelligence (cs.AI)"
+      "Information Retrieval (cs.IR)"
     ]
   },
   {
@@ -2286,8 +2289,8 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
-      "Computer Vision and Pattern Recognition (cs.CV)",
-      "Computers and Society (cs.CY)"
+      "Computers and Society (cs.CY)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2552,7 +2555,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -2712,8 +2714,7 @@
     ],
     "subjectives": [
       "Cryptography and Security (cs.CR)",
-      "Artificial Intelligence (cs.AI)",
-      "Hardware Architecture (cs.AR)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -3021,7 +3022,6 @@
     ],
     "subjectives": [
       "Distributed, Parallel, and Cluster Computing (cs.DC)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -3428,7 +3428,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -4175,8 +4176,9 @@
       "H. Peter Soyer"
     ],
     "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
       "Computers and Society (cs.CY)",
-      "Artificial Intelligence (cs.AI)",
       "Medical Physics (physics.med-ph)"
     ]
   },
@@ -4844,7 +4846,6 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -4920,8 +4921,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -4989,7 +4990,7 @@
     ],
     "subjectives": [
       "Image and Video Processing (eess.IV)",
-      "Artificial Intelligence (cs.AI)"
+      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
@@ -5294,7 +5295,7 @@
     ],
     "subjectives": [
       "Signal Processing (eess.SP)",
-      "Artificial Intelligence (cs.AI)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -5565,7 +5566,6 @@
     ],
     "subjectives": [
       "Audio and Speech Processing (eess.AS)",
-      "Artificial Intelligence (cs.AI)",
       "Computation and Language (cs.CL)",
       "Machine Learning (cs.LG)",
       "Sound (cs.SD)"
@@ -5707,8 +5707,8 @@
     ],
     "subjectives": [
       "Signal Processing (eess.SP)",
-      "Artificial Intelligence (cs.AI)",
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -5763,7 +5763,8 @@
     "subjectives": [
       "Methodology (stat.ME)",
       "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -5793,8 +5794,7 @@
       "Yuan Yao"
     ],
     "subjectives": [
-      "Image and Video Processing (eess.IV)",
-      "Artificial Intelligence (cs.AI)"
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -5806,8 +5806,6 @@
     ],
     "subjectives": [
       "Machine Learning (stat.ML)",
-      "Artificial Intelligence (cs.AI)",
-      "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (cs.LG)",
       "Applications (stat.AP)"
     ]
