@@ -310,7 +310,7 @@
   },
   {
     "id": "arXiv:2008.09676",
-    "title": "Abstractive Summarization of Spoken andWritten Instructions with BERT",
+    "title": "Abstractive Summarization of Spoken and Written Instructions with BERT",
     "authors": [
       "Alexandra Savelieva",
       "Bryan Au-Yeung",
@@ -2574,7 +2574,9 @@
     "id": "arXiv:2008.10166",
     "title": "YNU-HPCC at SemEval-2020 Task 11: LSTM Network for Detection of  Propaganda Techniques in News Articles",
     "authors": [
-      "Jiaxu Dao"
+      "Jiaxu Dao",
+      "Jin Wang",
+      "Xuejie Zhang"
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
@@ -3206,12 +3208,12 @@
   },
   {
     "id": "arXiv:2008.10329",
-    "title": "Multi-scale Deep Feature Representation Based on SR-GAN for Low  Resolution Person Re-identfication",
+    "title": "Cascade Convolutional Neural Network for Image Super-Resolution",
     "authors": [
-      "Guoqing Zhang",
+      "Jianwei Zhang",
       "zhenxing Wang",
       "yuhui Zheng",
-      "Jianwei Zhang"
+      "Guoqing Zhang"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)"
@@ -3325,7 +3327,7 @@
   },
   {
     "id": "arXiv:2008.10373",
-    "title": "An Integer-Linear Program for Bend-Minimization in Ortho-RadialDrawings",
+    "title": "An Integer-Linear Program for Bend-Minimization in Ortho-Radial Drawings",
     "authors": [
       "Benjamin Niedermann",
       "Ignaz Rutter"
@@ -4024,7 +4026,8 @@
     ],
     "subjectives": [
       "Networking and Internet Architecture (cs.NI)",
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Probability (math.PR)"
     ]
   },
   {
@@ -5025,8 +5028,7 @@
     "id": "arXiv:2008.10460",
     "title": "Online Convex Optimization Perspective for Learning from Dynamically  Revealed Preferences",
     "authors": [
-      "Violet",
-      "Chen",
+      "Violet Xinying Chen",
       "Fatma K\u0131l\u0131n\u00e7-Karzan"
     ],
     "subjectives": [
@@ -5067,7 +5069,7 @@
   },
   {
     "id": "arXiv:2008.10491",
-    "title": "Improving Tail Performance of a Deliberation E2E ASR Model Using a  LargeText Corpus",
+    "title": "Improving Tail Performance of a Deliberation E2E ASR Model Using a Large  Text Corpus",
     "authors": [
       "Cal Peyser",
       "Sepand Mavandadi",
@@ -5377,8 +5379,8 @@
       "Vito M. Leli",
       "Saeed Osat",
       "Timur Tlyachev",
-      "Dmitry Dylov",
-      "D Jacob D. Biamonte"
+      "Dmitry V. Dylov",
+      "Jacob D. Biamonte"
     ],
     "subjectives": [
       "Physics and Society (physics.soc-ph)",
@@ -7181,6 +7183,7 @@
     ],
     "subjectives": [
       "Quantum Physics (quant-ph)",
+      "Statistical Mechanics (cond-mat.stat-mech)",
       "Emerging Technologies (cs.ET)"
     ]
   },
@@ -8039,7 +8042,7 @@
   },
   {
     "id": "arXiv:2008.09465",
-    "title": "Comparison of Algorithms for Simple Stochastic Games (Full version)",
+    "title": "Comparison of Algorithms for Simple Stochastic Games (Full Version)",
     "authors": [
       "Jan Kretinsky",
       "Emanuel Ramneantu",
