@@ -3229,7 +3229,7 @@
     "title": "A Review of Deep Learning Methods for Irregularly Sampled Medical Time  Series Data",
     "authors": [
       "Chenxi Sun",
-      "Hongda Shen",
+      "Shenda Hong",
       "Moxian Song",
       "Hongyan Li"
     ],
@@ -4582,6 +4582,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Optimization and Control (math.OC)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -4624,7 +4625,7 @@
   },
   {
     "id": "arXiv:1902.03468",
-    "title": "Synthetic Data Generators: Synthetic and Private",
+    "title": "Synthetic Data Generators: Sequential and Private",
     "authors": [
       "Olivier Bousquet",
       "Roi Livni",
@@ -6070,6 +6071,7 @@
     ],
     "subjectives": [
       "Optimization and Control (math.OC)",
+      "Machine Learning (cs.LG)",
       "Social and Information Networks (cs.SI)",
       "Systems and Control (eess.SY)"
     ]
