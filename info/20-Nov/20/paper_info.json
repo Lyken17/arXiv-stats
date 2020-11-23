@@ -3114,7 +3114,10 @@
     ],
     "subjectives": [
       "History and Overview (math.HO)",
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Optimization and Control (math.OC)",
+      "Adaptation and Self-Organizing Systems (nlin.AO)",
+      "Physics and Society (physics.soc-ph)"
     ]
   },
   {
@@ -4248,7 +4251,8 @@
     ],
     "subjectives": [
       "Systems and Control (eess.SY)",
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -5232,6 +5236,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Robotics (cs.RO)",
       "Systems and Control (eess.SY)",
       "Optimization and Control (math.OC)"
     ]
