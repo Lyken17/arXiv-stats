@@ -695,7 +695,7 @@
   },
   {
     "id": "arXiv:2011.14101",
-    "title": "Let's Hope it Works! Inaccurate Supervision of Neural Networks with  Incorrect Labels: Application to Epilepsy",
+    "title": "Inaccurate Supervision of Neural Networks with Incorrect Labels:  Application to Epilepsy",
     "authors": [
       "Florian Dubost",
       "Erin Hong",
@@ -703,8 +703,8 @@
       "Nandita Bhaskhar",
       "Siyi Tang",
       "Khaled Saab",
-      "Daniel Rubin",
       "Jared Dunnmon",
+      "Daniel Rubin",
       "Christopher Lee-Messer"
     ],
     "subjectives": [
@@ -1607,12 +1607,13 @@
   },
   {
     "id": "arXiv:2011.14302",
-    "title": "Multistage Attention ResU-Net for Semantic Segmentation of  Fine-Resolution Remote Sensing Images",
+    "title": "Multi-stage Attention ResU-Net for Semantic Segmentation of  Fine-Resolution Remote Sensing Images",
     "authors": [
       "Rui Li",
-      "Jianlin Su",
+      "Shunyi Zheng",
       "Chenxi Duan",
-      "Shunyi Zheng"
+      "Jianlin Su",
+      "Ce Zhang"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)"
@@ -2473,7 +2474,7 @@
   },
   {
     "id": "arXiv:2011.14475",
-    "title": "An artificial consciousness model and its relations with philosophy of  mind",
+    "title": "An Artificial Consciousness Model and its relations with Philosophy of  Mind",
     "authors": [
       "Eduardo C. Garrido-Merch\u00e1n",
       "Martin Molina",
@@ -2943,11 +2944,11 @@
   },
   {
     "id": "arXiv:2011.14574",
-    "title": "DUT:Learning Video Stabilization by Simply Watching Unstable Videos",
+    "title": "DUT: Learning Video Stabilization by Simply Watching Unstable Videos",
     "authors": [
       "Yufei Xu",
       "Jing Zhang",
-      "Stephen J. Mayban",
+      "Stephen J. Maybank",
       "Dacheng Tao"
     ],
     "subjectives": [
@@ -3257,8 +3258,8 @@
       "Jinyi Wang",
       "Yican Sun",
       "Hongfei Fu",
-      "Amir Kafshdar Goharshady",
-      "Krishnendu Chatterjee"
+      "Krishnendu Chatterjee",
+      "Amir Kafshdar Goharshady"
     ],
     "subjectives": [
       "Programming Languages (cs.PL)"
@@ -3696,11 +3697,11 @@
     "id": "arXiv:2011.14714",
     "title": "BOTD: Bold Outline Text Detector",
     "authors": [
-      "C. Yang",
-      "Z. Xiong",
-      "M. Chen",
-      "Q. Wang",
-      "X. Li"
+      "Chuang Yang",
+      "Zhitong Xiong",
+      "Mulin Chen",
+      "Qi Wang",
+      "Xuelong Li"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)"
@@ -4427,7 +4428,7 @@
   },
   {
     "id": "arXiv:2011.14860",
-    "title": "Standard Probabilistic Databases",
+    "title": "Infinite Probabilistic Databases",
     "authors": [
       "Martin Grohe",
       "Peter Lindner"
@@ -4448,7 +4449,8 @@
       "Philip S. Yu"
     ],
     "subjectives": [
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -4999,7 +5001,6 @@
       "Marc Delcroix",
       "Naoyuki Kamo",
       "Yanmin Qian",
-      "Shinji Watanabe",
       "Reinhold Haeb-Umbach"
     ],
     "subjectives": [
@@ -6001,7 +6002,7 @@
     "title": "Generalization and Memorization: The Bias Potential Model",
     "authors": [
       "Hongkang Yang",
-      "E Weinan"
+      "Weinan E"
     ],
     "subjectives": [
       "Machine Learning (stat.ML)",
