@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
+      with:
+          token: ${{ secrets.ACTION }}
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
@@ -28,10 +30,11 @@ jobs:
         git config --local user.name "GitHub Action"
         git add .
         git commit -m "Github action automatic update on $(date  +"%m-%d-%Y %H:%M:%S %Z")." -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.action }}
+        git push 
+#     - name: Push changes
+#       uses: ad-m/github-push-action@master
+#       with:
+#         github_token: ${{ secrets.action }}
     - name: Notify Telegram
       run: |
         pip install echoo
