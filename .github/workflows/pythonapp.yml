@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-          token: ${{ secrets.ACTION }}
+          token: ${{ secrets.action }}
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
