@@ -717,7 +717,11 @@
       "Mason A. Porter"
     ],
     "subjectives": [
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Combinatorics (math.CO)",
+      "Dynamical Systems (math.DS)",
+      "Adaptation and Self-Organizing Systems (nlin.AO)",
+      "Physics and Society (physics.soc-ph)"
     ]
   },
   {
@@ -1789,6 +1793,7 @@
       "Social and Information Networks (cs.SI)",
       "Machine Learning (cs.LG)",
       "Optimization and Control (math.OC)",
+      "Physics and Society (physics.soc-ph)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -2262,7 +2267,7 @@
   },
   {
     "id": "arXiv:2102.07064",
-    "title": "NeRF$--$: Neural Radiance Fields Without Known Camera Parameters",
+    "title": "NeRF--: Neural Radiance Fields Without Known Camera Parameters",
     "authors": [
       "Zirui Wang",
       "Shangzhe Wu",
@@ -3330,7 +3335,7 @@
   },
   {
     "id": "arXiv:2102.07260",
-    "title": "PCM-trace: Scalable Synaptic Eligibility Traceswith Resistivity Drift of  Phase-Change Materials",
+    "title": "PCM-trace: Scalable Synaptic Eligibility Traces with Resistivity Drift  of Phase-Change Materials",
     "authors": [
       "Yigit Demirag",
       "Filippo Moro",
@@ -3904,7 +3909,7 @@
   },
   {
     "id": "arXiv:2102.07365",
-    "title": "Maximizing Joint Entropy for Batch-Mode Active Learning of Perceptual  Metrics",
+    "title": "Maximizing Conditional Entropy for Batch-Mode Active Learning of  Perceptual Metrics",
     "authors": [
       "Priyadarshini Kumari",
       "Sidhdhartha Chaudhuri",
@@ -3978,7 +3983,7 @@
   },
   {
     "id": "arXiv:2102.07380",
-    "title": "MAPGN: MAsked Pointer-Generator network for sequence-to-sequence  pre-training",
+    "title": "MAPGN: MAsked Pointer-Generator Network for sequence-to-sequence  pre-training",
     "authors": [
       "Mana Ihori",
       "Naoki Makishima",
@@ -5100,7 +5105,7 @@
   },
   {
     "id": "arXiv:2102.07594",
-    "title": "Fast End-to-End Speech Recognition via Non-Autoregressive Models and  Cross-Modal Knowledge Transferring from BERT",
+    "title": "Fast End-to-End Speech Recognition via a Non-Autoregressive Model and  Cross-Modal Knowledge Transferring from BERT",
     "authors": [
       "Ye Bai",
       "Jiangyan Yi",
@@ -5693,7 +5698,7 @@
   },
   {
     "id": "arXiv:2102.07694",
-    "title": "Optimal Priority Assignment for Real-Time Systems:A Coevolution-Based  Approach",
+    "title": "Optimal Priority Assignment for Real-Time Systems: A Coevolution-Based  Approach",
     "authors": [
       "Jaekwon Lee",
       "Seung Yeob Shin",
@@ -5952,7 +5957,8 @@
       "Ce Zhang"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Databases (cs.DB)"
     ]
   },
   {
@@ -6968,10 +6974,10 @@
     "title": "Decentralized Distributed Optimization for Saddle Point Problems",
     "authors": [
       "Alexander Rogozin",
-      "Pavel Dvurechensky",
-      "Darina Dvinkikh",
       "Alexander Beznosikov",
+      "Darina Dvinskikh",
       "Dmitry Kovalev",
+      "Pavel Dvurechensky",
       "Alexander Gasnikov"
     ],
     "subjectives": [
@@ -8605,7 +8611,7 @@
   },
   {
     "id": "arXiv:2008.06688",
-    "title": "Iterative Detection for Orthogonal Time Frequency Space Modulation Using  Approximate Message Passing with Unitary Transformation",
+    "title": "Iterative Detection for Orthogonal Time Frequency Space Modulation with  Unitary Approximate Message Passing",
     "authors": [
       "Zhengdao Yuan",
       "Fei Liu",
