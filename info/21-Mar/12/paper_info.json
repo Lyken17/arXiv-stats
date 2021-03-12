@@ -337,8 +337,8 @@
       "Sigrid Leyendecker"
     ],
     "subjectives": [
-      "Numerical Analysis (math.NA)",
-      "Computational Engineering, Finance, and Science (cs.CE)"
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      "Numerical Analysis (math.NA)"
     ]
   },
   {
@@ -351,6 +351,7 @@
       "Hang Yu"
     ],
     "subjectives": [
+      "Computational Engineering, Finance, and Science (cs.CE)",
       "Numerical Analysis (math.NA)",
       "Computational Physics (physics.comp-ph)"
     ]
@@ -5648,9 +5649,14 @@
   },
   {
     "id": "arXiv:2103.04612",
-    "title": "Modified our paper \"CME\"",
+    "title": "Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object  Detection",
     "authors": [
-      "Bohao Li"
+      "Bohao Li",
+      "Boyu Yang",
+      "Chang Liu",
+      "Feng Liu",
+      "Rongrong Ji",
+      "Qixiang Ye"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)"
