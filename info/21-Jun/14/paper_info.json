@@ -1815,7 +1815,7 @@
   },
   {
     "id": "arXiv:2106.06242",
-    "title": "Where to Encode: A Performance Analysis of x86 and Arm-based Amazon EC2  Instance",
+    "title": "Where to Encode: A Performance Analysis of x86 and Arm-based Amazon EC2  Instances",
     "authors": [
       "Roland Math\u00e1",
       "Dragi Kimovski",
@@ -2283,7 +2283,6 @@
       "Yezhen Wang",
       "Wenzhen Zhu",
       "Colorado J. Reed",
-      "Tong Che",
       "Jun Zhang",
       "Dongsheng Li",
       "Kurt Keutzer",
@@ -6414,7 +6413,9 @@
       "Carlo Luschi"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
