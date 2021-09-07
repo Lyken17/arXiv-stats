@@ -759,12 +759,11 @@
     "id": "arXiv:2109.01313",
     "title": "Characterization and Prediction of Deep Learning Workloads in  Large-Scale GPU Datacenters",
     "authors": [
-      "Qinghao",
-      "Peng",
-      "Shengen",
-      "Yonggang",
-      "Zhang",
-      "Tianwei"
+      "Qinghao Hu",
+      "Peng Sun",
+      "Shengen Yan",
+      "Yonggang Wen",
+      "Tianwei Zhang"
     ],
     "subjectives": [
       "Distributed, Parallel, and Cluster Computing (cs.DC)",
@@ -1259,7 +1258,7 @@
   },
   {
     "id": "arXiv:2109.01417",
-    "title": "Efficient Communication in Multi-Agent Distributed Reinforcement  Learning",
+    "title": "Event-Based Communication in Multi-Agent Distributed Q-Learning",
     "authors": [
       "Daniel Jarne Ornia",
       "Manuel Mazo Jr"
@@ -2345,7 +2344,8 @@
     "subjectives": [
       "Applications (stat.AP)",
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
