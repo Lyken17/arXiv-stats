@@ -784,7 +784,7 @@
   },
   {
     "id": "arXiv:2110.09712",
-    "title": "Balancing Value Underestimation and Overestimationwith Realistic  Actor-Critic",
+    "title": "Balancing Value Underestimation and Overestimation with Realistic  Actor-Critic",
     "authors": [
       "Sicen Li",
       "Gang Wang",
@@ -1466,7 +1466,7 @@
   },
   {
     "id": "arXiv:2110.09823",
-    "title": "Extensive Deep Temporal Point Process",
+    "title": "An Empirical Study: Extensive Deep Temporal Point Process",
     "authors": [
       "Haitao Lin",
       "Cheng Tan",
@@ -1496,6 +1496,7 @@
     "title": "Towards Social Situation Awareness in Support Agents",
     "authors": [
       "Ilir Kola",
+      "Pradeep K. Murukannaiah",
       "Catholijn M. Jonker",
       "M. Birna van Riemsdijk"
     ],
@@ -2712,7 +2713,10 @@
       "Abhishek Shetty"
     ],
     "subjectives": [
-      "Data Structures and Algorithms (cs.DS)"
+      "Data Structures and Algorithms (cs.DS)",
+      "Computational Complexity (cs.CC)",
+      "Combinatorics (math.CO)",
+      "Quantum Physics (quant-ph)"
     ]
   },
   {
@@ -3277,7 +3281,8 @@
       "Ge Zhang",
       "Shaohui Mei",
       "Mingyang Ma",
-      "Yan Feng"
+      "Yan Feng",
+      "Qian Du"
     ],
     "subjectives": [
       "Image and Video Processing (eess.IV)",
