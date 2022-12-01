@@ -2275,7 +2275,7 @@
     "id": "arXiv:2211.16095",
     "title": "Better Generalized Few-Shot Learning Even Without Base Data",
     "authors": [
-      "Seongwoong Kim",
+      "Seong-Woong Kim",
       "Dong-Wan Choi"
     ],
     "subjectives": [
@@ -4926,10 +4926,10 @@
     "title": "Optimisation of a global climate model ensemble for prediction of  extreme heat days",
     "authors": [
       "Mala Virdee",
+      "Markus Kaiser",
       "Emily Shuckburgh",
       "Carl Henrik Ek",
-      "Ieva Kazlauskaite",
-      "Markus Kaiser"
+      "Ieva Kazlauskaite"
     ],
     "subjectives": [
       "Atmospheric and Oceanic Physics (physics.ao-ph)",
@@ -6902,7 +6902,11 @@
       "Huajun Chen"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Multimedia (cs.MM)"
     ]
   },
   {
@@ -7716,7 +7720,8 @@
       "Akshat Bhandari",
       "Sriya Rallabandi",
       "Sanchit Singhal",
-      "Aditya Kasliwal aand Pratinav Seth"
+      "Aditya Kasliwal",
+      "Pratinav Seth"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
