@@ -2082,7 +2082,7 @@
   },
   {
     "id": "arXiv:2301.12231",
-    "title": "Autoencoder-Based Unequal Error Protection Codes",
+    "title": "Rateless Autoencoder Codes: Trading off Decoding Delay and Reliability",
     "authors": [
       "Vukan Ninkovic",
       "Dejan Vukobratovic",
@@ -2648,7 +2648,7 @@
   },
   {
     "id": "arXiv:2301.12331",
-    "title": "Time out of Mind: Generating Emotionally Conditioned Rate of Speech",
+    "title": "Time out of Mind: Generating Rate of Speech conditioned on emotion and  speaker",
     "authors": [
       "Navjot Kaur",
       "Paige Tuttosi"
@@ -4939,14 +4939,14 @@
     "id": "arXiv:2301.12688",
     "title": "Dynamic Storyboard Generation in an Engine-based Virtual Environment for  Video Production",
     "authors": [
-      "Rao Anyi",
-      "Jiang Xuekun",
-      "Guo Yuwei",
-      "Xu Linning",
-      "Yang Lei",
-      "Jin Libiao",
-      "Lin Dahua",
-      "Dai Bo"
+      "Anyi Rao",
+      "Xuekun Jiang",
+      "Yuwei Guo",
+      "Linning Xu",
+      "Lei Yang",
+      "Libiao Jin",
+      "Dahua Lin",
+      "Bo Dai"
     ],
     "subjectives": [
       "Graphics (cs.GR)",
@@ -5033,6 +5033,8 @@
     "authors": [
       "Xintao Chu",
       "Jianping Liu",
+      "Jian Wang",
+      "Xiaofeng Wang",
       "Yingfei Wang",
       "Meng Wang",
       "Xunxun Gu"
@@ -5328,7 +5330,8 @@
     ],
     "subjectives": [
       "Information Retrieval (cs.IR)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -6456,7 +6459,7 @@
   },
   {
     "id": "arXiv:2301.12961",
-    "title": "A Framework for Operational Volume Feneration for UAM Strategic  Deconfliction",
+    "title": "A Framework for Operational Volume Generation for UAM Strategic  Deconfliction",
     "authors": [
       "Ellis Lee Thompson",
       "Yan Xu",
@@ -7887,7 +7890,9 @@
     ],
     "subjectives": [
       "Quantum Physics (quant-ph)",
-      "Emerging Technologies (cs.ET)"
+      "Artificial Intelligence (cs.AI)",
+      "Emerging Technologies (cs.ET)",
+      "Information Theory (cs.IT)"
     ]
   },
   {
@@ -8925,7 +8930,7 @@
   },
   {
     "id": "arXiv:2301.13152",
-    "title": "Singularity-aware Reinforcement Learning",
+    "title": "STEEL: Singularity-aware Reinforcement Learning",
     "authors": [
       "Xiaohong Chen",
       "Zhengling Qi",
@@ -13711,7 +13716,8 @@
     "id": "arXiv:2301.09190",
     "title": "Apples and Oranges? Assessing Image Quality over Content Recognition",
     "authors": [
-      "Junyong You"
+      "Junyong You",
+      "Zheng Zhang"
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
@@ -13899,7 +13905,8 @@
       "Earth and Planetary Astrophysics (astro-ph.EP)",
       "Numerical Analysis (math.NA)",
       "Chaotic Dynamics (nlin.CD)",
-      "Geophysics (physics.geo-ph)"
+      "Geophysics (physics.geo-ph)",
+      "Space Physics (physics.space-ph)"
     ]
   },
   {
