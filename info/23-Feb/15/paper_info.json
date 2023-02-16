@@ -1610,7 +1610,7 @@
   },
   {
     "id": "arXiv:2302.06912",
-    "title": "Robust Deep Reinforcement Learning through Regret Neighborhoods",
+    "title": "Regret-Based Optimization for Robust Reinforcement Learning",
     "authors": [
       "Roman Belaire",
       "Pradeep Varakantham",
@@ -2269,7 +2269,9 @@
       "Guolin Ke"
     ],
     "subjectives": [
-      "Computational Engineering, Finance, and Science (cs.CE)"
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      "Machine Learning (cs.LG)",
+      "Biomolecules (q-bio.BM)"
     ]
   },
   {
@@ -2471,7 +2473,7 @@
   },
   {
     "id": "arXiv:2302.07116",
-    "title": "Team-DETR: Guide Queries as a Professional Team in Detection  Transformers",
+    "title": "Team DETR: Guide Queries as a Professional Team in Detection  Transformers",
     "authors": [
       "Tian Qiu",
       "Linyun Zhou",
