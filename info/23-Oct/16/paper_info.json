@@ -399,7 +399,7 @@
   },
   {
     "id": "arXiv:2310.08686",
-    "title": "Multi-Robot IMU Preintegration in the Presence of Bias and Communication  Constraints",
+    "title": "IMU Preintegration for Multi-Robot Systems in the Presence of Bias and  Communication Constraints",
     "authors": [
       "Mohammed Ayman Shalaby",
       "Charles Champagne Cossette",
@@ -1738,6 +1738,7 @@
     "id": "arXiv:2310.08864",
     "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models",
     "authors": [
+      "Open X-Embodiment Collaboration",
       "Abhishek Padalkar",
       "Acorn Pooley",
       "Ajinkya Jain",
@@ -1789,10 +1790,7 @@
       "Homer Walke",
       "Hongjie Fang",
       "Igor Mordatch",
-      "Ilija Radosavovic",
-      "Isabel Leal",
-      "Jacky Liang",
-      "Jad Abou-Chakra"
+      "Ilija Radosavovic"
     ],
     "subjectives": [
       "Robotics (cs.RO)"
@@ -1889,7 +1887,8 @@
       "K. W. Samuel Au"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Artificial Intelligence (cs.AI)"
     ]
   },
   {
