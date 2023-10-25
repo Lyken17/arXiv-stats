@@ -3693,7 +3693,7 @@
     "id": "arXiv:2310.14230",
     "title": "A comprehensive survey on deep active learning and its applications in  medical image analysis",
     "authors": [
-      "Haoran Wanga",
+      "Haoran Wang",
       "Qiuye Jin",
       "Shiman Li",
       "Siyu Liu",
@@ -4382,6 +4382,7 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
+      "Computation and Language (cs.CL)",
       "Computers and Society (cs.CY)",
       "Human-Computer Interaction (cs.HC)"
     ]
@@ -6653,7 +6654,8 @@
       "Axel Parmentier"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -7108,7 +7110,7 @@
   },
   {
     "id": "arXiv:2310.14724",
-    "title": "A Survey on LLM-gernerated Text Detection: Necessity, Methods, and  Future Directions",
+    "title": "A Survey on LLM-generated Text Detection: Necessity, Methods, and Future  Directions",
     "authors": [
       "Junchao Wu",
       "Shu Yang",
@@ -11139,7 +11141,8 @@
     "subjectives": [
       "Machine Learning (stat.ML)",
       "Machine Learning (cs.LG)",
-      "High Energy Physics - Experiment (hep-ex)"
+      "High Energy Physics - Experiment (hep-ex)",
+      "Nuclear Experiment (nucl-ex)"
     ]
   },
   {
@@ -11193,7 +11196,8 @@
     ],
     "subjectives": [
       "Quantum Physics (quant-ph)",
-      "Cryptography and Security (cs.CR)"
+      "Cryptography and Security (cs.CR)",
+      "Information Theory (cs.IT)"
     ]
   },
   {
@@ -12380,6 +12384,7 @@
       "Sheng-Yu Wang",
       "Nupur Kumari",
       "Rohan Agarwal",
+      "Mia Tang",
       "David Bau",
       "Jun-Yan Zhu"
     ],
@@ -14773,7 +14778,7 @@
     "id": "arXiv:2305.13999",
     "title": "Towards A Unified View of Sparse Feed-Forward Network in Pretraining  Large Language Model",
     "authors": [
-      "Leo Z. Liu",
+      "Zeyu Leo Liu",
       "Tim Dettmers",
       "Xi Victoria Lin",
       "Veselin Stoyanov",
@@ -15928,7 +15933,9 @@
       "Cees G.M. Snoek"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)",
+      "Multimedia (cs.MM)"
     ]
   },
   {
@@ -16969,6 +16976,10 @@
       "Christian Bluethgen",
       "Anuj Pareek",
       "Malgorzata Polacin",
+      "Eduardo Pontes Reis",
+      "Anna Seehofnerova",
+      "Nidhi Rohatgi",
+      "Poonam Hosamani",
       "William Collins",
       "Neera Ahuja",
       "Curtis P. Langlotz",
@@ -18467,7 +18478,7 @@
     "authors": [
       "Shanshan Xu",
       "Leon Staufer",
-      "Santosh T.Y.S.S",
+      "T.Y.S.S Santosh",
       "Oana Ichim",
       "Corina Heri",
       "Matthias Grabmair"
@@ -18537,7 +18548,7 @@
     "title": "From Dissonance to Insights: Dissecting Disagreements in Rationale  Construction for Case Outcome Classification",
     "authors": [
       "Shanshan Xu",
-      "Santosh T.Y.S.S",
+      "T.Y.S.S Santosh",
       "Oana Ichim",
       "Isabella Risini",
       "Barbara Plank",
