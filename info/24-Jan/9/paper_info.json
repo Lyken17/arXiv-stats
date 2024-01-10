@@ -2782,9 +2782,9 @@
     "title": "Amplifying robotics capacities with a human touch: An immersive  low-latency panoramic remote system",
     "authors": [
       "Junjie Li",
-      "Jian Xu",
-      "Dewei Han",
       "Kang Li",
+      "Dewei Han",
+      "Jian Xu",
       "Zhaoyuan Ma"
     ],
     "subjectives": [
@@ -3438,7 +3438,8 @@
     "authors": [
       "Shilong Yuan",
       "Wei Yuan",
-      "Tieke HE"
+      "Hongzhi Yin",
+      "Tieke He"
     ],
     "subjectives": [
       "Computation and Language (cs.CL)"
@@ -4589,7 +4590,7 @@
   },
   {
     "id": "arXiv:2401.03736",
-    "title": "Lessons Learned Reproducibility, Replicability, and When to Stop",
+    "title": "Lessons Learned: Reproducibility, Replicability, and When to Stop",
     "authors": [
       "Milton S. Gomez",
       "Tom Beucler"
@@ -4973,8 +4974,8 @@
     "authors": [
       "Dong Yang",
       "Wenyu Xu",
-      "Yuxu Lu",
       "Yuan Gao",
+      "Yuxu Lu",
       "Jingming Zhang",
       "Yu Guo"
     ],
@@ -5350,7 +5351,7 @@
   },
   {
     "id": "arXiv:2401.03868",
-    "title": "FlightLLM: Efficient Large Language Model Inference with a Complete  Mapping Flow on FPGA",
+    "title": "FlightLLM: Efficient Large Language Model Inference with a Complete  Mapping Flow on FPGAs",
     "authors": [
       "Shulin Zeng",
       "Jun Liu",
@@ -12459,7 +12460,8 @@
       "Yunjun Gao"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Databases (cs.DB)"
     ]
   },
   {
