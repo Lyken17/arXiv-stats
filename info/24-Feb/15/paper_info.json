@@ -932,7 +932,7 @@
     "id": "arXiv:2402.08851",
     "title": "Cardinal-Utility Matching Markets: The Quest for Envy-Freeness,  Pareto-Optimality, and Efficient Computability",
     "authors": [
-      "Thorben Troebst",
+      "Thorben Tr\u00f6bst",
       "Vijay V. Vazirani"
     ],
     "subjectives": [
@@ -1530,7 +1530,8 @@
       "Rong Ge"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Analysis of PDEs (math.AP)"
     ]
   },
   {
@@ -3351,8 +3352,9 @@
       "Jia Deng",
       "Yujia Qin",
       "Xin Cong",
-      "Yankai Lin",
       "Zhong Zhang",
+      "Jie Zhou",
+      "Yankai Lin",
       "Zhiyuan Liu",
       "Maosong Sun"
     ],
@@ -3571,7 +3573,7 @@
   },
   {
     "id": "arXiv:2402.09234",
-    "title": "Multi-Hierarchical Surrogate Learning for Structural Dynamics of  Automotive Crashworthiness Using Graph Convolutional Neural Networks",
+    "title": "Multi-Hierarchical Surrogate Learning for Structural Dynamical Crash  Simulations Using Graph Convolutional Neural Networks",
     "authors": [
       "Jonas Kneifl",
       "J\u00f6rg Fehr",
@@ -4540,8 +4542,8 @@
     "authors": [
       "Noah Amsel",
       "Tyler Chen",
-      "Diana Halikias",
       "Feyza Duman Keles",
+      "Diana Halikias",
       "Cameron Musco",
       "Christopher Musco"
     ],
@@ -4910,7 +4912,7 @@
     "title": "DNABERT-S: Learning Species-Aware DNA Embedding with Genome Foundation  Models",
     "authors": [
       "Zhihan Zhou",
-      "Winmin Wu",
+      "Weimin Wu",
       "Harrison Ho",
       "Jiayi Wang",
       "Lizhen Shi",
@@ -5501,7 +5503,8 @@
     ],
     "subjectives": [
       "Fluid Dynamics (physics.flu-dyn)",
-      "Computational Engineering, Finance, and Science (cs.CE)"
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      "Numerical Analysis (math.NA)"
     ]
   },
   {
@@ -5548,7 +5551,7 @@
   },
   {
     "id": "arXiv:2402.09338",
-    "title": "Neural Networks asymptotic behaviours suitable for the resolution of  inverse problems",
+    "title": "Neural Networks Asymptotic Behaviours for the Resolution of Inverse  Problems",
     "authors": [
       "Luigi Del Debbio",
       "Manuel Naviglio",
@@ -5761,7 +5764,7 @@
     "id": "arXiv:2106.11798",
     "title": "The failure of cut-elimination in cyclic proof for first-order logic  with inductive definitions",
     "authors": [
-      "Yukihiro Masuoka",
+      "Yukihiro Oda",
       "James Brotherston",
       "Makoto Tatsuta"
     ],
@@ -6038,6 +6041,8 @@
     "title": "FedMT: Federated Learning with Mixed-type Labels",
     "authors": [
       "Qiong Zhang",
+      "Jing Peng",
+      "Xin Zhang",
       "Aline Talhouk",
       "Gang Niu",
       "Xiaoxiao Li"
@@ -8341,9 +8346,11 @@
   },
   {
     "id": "arXiv:2401.15857",
-    "title": "Leadership Dynamics in Social Multiplex Networks with Mono and  Bi-directional Interactions",
+    "title": "Opinion Dynamics in Social Multiplex Networks with Mono and  Bi-directional Interactions in the Presence of Leaders",
     "authors": [
-      "Amirreza Talebi"
+      "Amirreza Talebi",
+      "Sayed Pedram Haeri Boroujeni",
+      "Abolfazl Razi"
     ],
     "subjectives": [
       "Systems and Control (eess.SY)"
@@ -8603,6 +8610,7 @@
       "Ziwei Yang",
       "Yanjie Wang",
       "Xuejing Liu",
+      "Brian Mac Namee",
       "Can Huang"
     ],
     "subjectives": [
