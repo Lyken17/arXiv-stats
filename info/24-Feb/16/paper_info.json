@@ -1343,7 +1343,9 @@
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
       "Computation and Language (cs.CL)",
-      "Human-Computer Interaction (cs.HC)"
+      "Human-Computer Interaction (cs.HC)",
+      "Multiagent Systems (cs.MA)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -1685,7 +1687,7 @@
   },
   {
     "id": "arXiv:2402.09696",
-    "title": "An Analysis of Langauge Frequency and Error Correction for Esperanto",
+    "title": "An Analysis of Language Frequency and Error Correction for Esperanto",
     "authors": [
       "Junhong Liang"
     ],
@@ -4582,7 +4584,7 @@
     "title": "Reusing Softmax Hardware Unit for GELU Computation in Transformers",
     "authors": [
       "Christodoulos Peltekis",
-      "Kosmas Alexandridi",
+      "Kosmas Alexandridis",
       "Giorgos Dimitrakopoulos"
     ],
     "subjectives": [
@@ -7106,7 +7108,7 @@
   },
   {
     "id": "arXiv:2304.10813",
-    "title": "Tokenization Preference for Human and ML Model: An Annotation Study",
+    "title": "Tokenization Preference for Human and Machine Learning Model: An  Annotation Study",
     "authors": [
       "Tatsuya Hiraoka",
       "Tomoya Iwakura"
@@ -7166,8 +7168,6 @@
       "Xinyun Zhang",
       "Haochen Tan",
       "Han Wu",
-      "Mingjie Zhan",
-      "Ding Liang",
       "Bei Yu"
     ],
     "subjectives": [
