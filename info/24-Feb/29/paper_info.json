@@ -4034,7 +4034,10 @@
       "Daniel Durstewitz"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
+      "Dynamical Systems (math.DS)",
+      "Chaotic Dynamics (nlin.CD)"
     ]
   },
   {
@@ -7630,7 +7633,7 @@
   },
   {
     "id": "arXiv:2310.07555",
-    "title": "Does resistance to Style-Transfer equal Shape Bias? Evaluating Shape  Bias by Distorted Shape",
+    "title": "Does resistance to style-transfer equal Global Shape Bias? Measuring  network sensitivity to global shape configuration",
     "authors": [
       "Ziqi Wen",
       "Tianqin Li",
