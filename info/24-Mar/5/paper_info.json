@@ -326,6 +326,7 @@
     ],
     "subjectives": [
       "Information Retrieval (cs.IR)",
+      "Artificial Intelligence (cs.AI)",
       "Computation and Language (cs.CL)"
     ]
   },
@@ -2248,7 +2249,7 @@
   },
   {
     "id": "arXiv:2403.01053",
-    "title": "Seeing Unseen: Discover Novel Biomedical Concepts via  GeometryConstrained Probabilistic Modeling",
+    "title": "Seeing Unseen: Discover Novel Biomedical Concepts via  Geometry-Constrained Probabilistic Modeling",
     "authors": [
       "Jianan Fan",
       "Dongnan Liu",
@@ -10028,11 +10029,10 @@
     "title": "Mutual Information Estimation via Normalizing Flows",
     "authors": [
       "Ivan Butakov",
-      "Aleksander Tolmachev",
+      "Alexander Tolmachev",
       "Sofia Malanchuk",
       "Anna Neopryatnaya",
-      "Alexey Frolov",
-      "Kirill Andreev"
+      "Alexey Frolov"
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
@@ -11251,7 +11251,10 @@
     ],
     "subjectives": [
       "Physics and Society (physics.soc-ph)",
-      "Social and Information Networks (cs.SI)"
+      "Social and Information Networks (cs.SI)",
+      "Dynamical Systems (math.DS)",
+      "Probability (math.PR)",
+      "Adaptation and Self-Organizing Systems (nlin.AO)"
     ]
   },
   {
@@ -12971,7 +12974,7 @@
   },
   {
     "id": "arXiv:2211.10209",
-    "title": "Leveraging Algorithmic Fairness to Mitigate Blackbox Attribute Inference  Attacks",
+    "title": "On the Alignment of Group Fairness with Attribute Privacy",
     "authors": [
       "Jan Aalmoes",
       "Vasisht Duddu",
@@ -17124,7 +17127,7 @@
   },
   {
     "id": "arXiv:2401.06509",
-    "title": "AntEval: Quantitatively Evaluating Informativeness and Expressiveness of  Agent Social Interactions",
+    "title": "AntEval: Evaluation of Social Interaction Competencies in LLM-Driven  Agents",
     "authors": [
       "Yuanzhi Liang",
       "Linchao Zhu",
@@ -18595,7 +18598,8 @@
       "Jie Xue"
     ],
     "subjectives": [
-      "Computational Geometry (cs.CG)"
+      "Computational Geometry (cs.CG)",
+      "Data Structures and Algorithms (cs.DS)"
     ]
   },
   {
@@ -19438,7 +19442,7 @@
       "Zhaoye Fei",
       "Ruiliang Xu",
       "Wei Li",
-      "Zhongyin Tu",
+      "Zhongying Tu",
       "Hang Yan",
       "Conghui He"
     ],
