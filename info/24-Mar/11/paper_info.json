@@ -1,7 +1,7 @@
 [
   {
     "id": "arXiv:2403.04769",
-    "title": "Removing GPT4's Filter",
+    "title": "Using Hallucinations to Bypass GPT4's Filter",
     "authors": [
       "Benjamin Lemkin"
     ],
@@ -1887,7 +1887,6 @@
     "authors": [
       "Yunhao Li",
       "Hao Wang",
-      "Qin Li",
       "Xue Ma",
       "Jiali Yao",
       "Shaohua Dong",
@@ -2429,7 +2428,7 @@
   },
   {
     "id": "arXiv:2403.05086",
-    "title": "UFORecon: Generalizable Sparse-View Surface Reconstruction from  Arbitrary and UnFavOrable Data Sets",
+    "title": "UFORecon: Generalizable Sparse-View Surface Reconstruction from  Arbitrary and UnFavOrable Sets",
     "authors": [
       "Youngju Na",
       "Woo Jae Kim",
@@ -2564,7 +2563,6 @@
       "Ning Xu",
       "Tingting Zhang",
       "Hongshuo Tian",
-      "Yongdong Zhang",
       "An-An Liu"
     ],
     "subjectives": [
@@ -3775,10 +3773,10 @@
   },
   {
     "id": "arXiv:2403.05271",
-    "title": "Anonymised Fixed-Ring Identification Using Decentralised Identifiers",
+    "title": "DID:RING: Ring Signatures using Decentralised Identifiers For  Privacy-Aware Identity",
     "authors": [
-      "Sam Grierson",
       "Dimitrios Kasimatis",
+      "Sam Grierson",
       "William J. Buchanan",
       "Chris Eckl",
       "Pavlos Papadopoulos",
@@ -3811,7 +3809,8 @@
     ],
     "subjectives": [
       "Cryptography and Security (cs.CR)",
-      "Computers and Society (cs.CY)"
+      "Computers and Society (cs.CY)",
+      "Computer Science and Game Theory (cs.GT)"
     ]
   },
   {
@@ -5104,6 +5103,7 @@
     ],
     "subjectives": [
       "Human-Computer Interaction (cs.HC)",
+      "Cryptography and Security (cs.CR)",
       "Computers and Society (cs.CY)",
       "Emerging Technologies (cs.ET)"
     ]
@@ -5201,7 +5201,7 @@
   },
   {
     "id": "arXiv:2403.05523",
-    "title": "Beyond Finite Data: Towards Data-free Out-of-distribution Generalization  via Extrapola",
+    "title": "Beyond Finite Data: Towards Data-free Out-of-distribution Generalization  via Extrapolation",
     "authors": [
       "Yijiang Li",
       "Sucheng Ren",
@@ -5661,7 +5661,7 @@
       "Weibin Liao",
       "Yinghao Zhu",
       "Xinyuan Wang",
-      "Cehngwei Pan",
+      "Chengwei Pan",
       "Yasha Wang",
       "Liantao Ma"
     ],
