@@ -3223,7 +3223,7 @@
     "title": "On Accessibility Fairness in Intermodal Autonomous Mobility-on-Demand  Systems",
     "authors": [
       "Mauro Salazar",
-      "Sara Betancour Giraldo",
+      "Sara Betancur Giraldo",
       "Fabio Paparella",
       "Leonardo Pedroso"
     ],
@@ -3360,7 +3360,10 @@
       "Muhao Chen"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Artificial Intelligence (cs.AI)",
+      "Information Retrieval (cs.IR)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -6533,7 +6536,7 @@
     "title": "DPA-Net: Structured 3D Abstraction from Sparse Views via Differentiable  Primitive Assembly",
     "authors": [
       "Fenggen Yu",
-      "Yimin Qian",
+      "Yiming Qian",
       "Xu Zhang",
       "Francisca Gil-Ureta",
       "Brian Jackson",
@@ -6822,7 +6825,8 @@
       "Shenshen Luan",
       "Luyuan Wang",
       "Yepeng Liu",
-      "Ninghan Sun"
+      "Ninghan Sun",
+      "Ran Zhang"
     ],
     "subjectives": [
       "Networking and Internet Architecture (cs.NI)"
@@ -9935,7 +9939,7 @@
       "Andr\u00e9 Sequeira",
       "Iraitz Montalb\u00e1n",
       "Tomas Tagliani",
-      "Frnacisco Llaneza",
+      "Francisco Llaneza",
       "Claudio Beiza"
     ],
     "subjectives": [
@@ -14427,7 +14431,7 @@
   },
   {
     "id": "arXiv:2311.06899",
-    "title": "Flames: Benchmarking Value Alignment of Chinese Large Language Models",
+    "title": "Flames: Benchmarking Value Alignment of LLMs in Chinese",
     "authors": [
       "Kexin Huang",
       "Xiangyang Liu",
@@ -15909,11 +15913,14 @@
   },
   {
     "id": "arXiv:2312.17044",
-    "title": "Length Extrapolation of Transformers: A Survey from the Perspective of  Position Encoding",
+    "title": "Length Extrapolation of Transformers: A Survey from the Perspective of  Positional Encoding",
     "authors": [
       "Liang Zhao",
       "Xiaocheng Feng",
       "Xiachong Feng",
+      "Dongliang Xu",
+      "Qing Yang",
+      "Hongtao Liu",
       "Bing Qin",
       "Ting Liu"
     ],
