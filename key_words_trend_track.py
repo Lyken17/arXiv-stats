@@ -66,7 +66,7 @@ def main(
     echo_msg_html = markdown(echo_msg)
     echo_msg_html = echo_msg_html.replace("<p>", "").replace("</p>", "")
     echo_msg_html = f"<blockquote>{year}-{month}-{day} update </blockquote>\n" + echo_msg_html
-    Echoo.echoo_exec(echo_msg_html, parse_mode="HTML", no_escape=True, tg_token=tg_token, tg_chat_id=tg_chat_id)
+    Echoo.echoo_exec(echo_msg_html, parse_mode="HTML", no_escape=True, token=tg_token, chat_id=tg_chat_id)
 
 
 if __name__ == "__main__":
