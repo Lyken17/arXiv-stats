@@ -33,10 +33,9 @@ soup = BeautifulSoup(html, 'html.parser')
 # Get current date/time in Eastern timezone
 # eastern = pytz.timezone('US/Eastern')
 # eastern_time = datetime.now(eastern)
-year = datetime.strftime("%Y")
-month = datetime.strftime("%B")
-day = datetime.strftime("%d")
-
+year = datetime.now().strftime("%Y")
+month = datetime.now().strftime("%B") 
+day = datetime.now().strftime("%d")
 
 info_folder = "info/%s-%s/%s" % (year, month, day)
 os.makedirs(info_folder, exist_ok=True)

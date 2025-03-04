@@ -3,9 +3,9 @@ import json
 from termcolor import colored
 
 # Get current date/time in Eastern timezone
-year = datetime.strftime("%Y")
-month = datetime.strftime("%B")
-day = datetime.strftime("%d")
+year = datetime.now().strftime("%Y")
+month = datetime.now().strftime("%B") 
+day = datetime.now().strftime("%d")
 
 with open("info/%s-%s/%s/paper_info.json" % (year, month, day), "r") as fp:
     information = json.load(fp)
