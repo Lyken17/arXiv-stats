@@ -1,14 +1,11 @@
 from datetime import datetime
-import pytz
 import json
 from termcolor import colored
 
 # Get current date/time in Eastern timezone
-eastern = pytz.timezone('US/Eastern')
-eastern_time = datetime.now(eastern)
-year = eastern_time.strftime("%Y")
-month = eastern_time.strftime("%B")
-day = eastern_time.strftime("%d")
+year = datetime.strftime("%Y")
+month = datetime.strftime("%B")
+day = datetime.strftime("%d")
 
 with open("info/%s-%s/%s/paper_info.json" % (year, month, day), "r") as fp:
     information = json.load(fp)

@@ -2,7 +2,9 @@ import os, sys
 from copy import copy
 import json
 from datetime import date
-
+from bs4 import BeautifulSoup
+from datetime import datetime
+import pytz
 
 today = date.today()
 d1 = today.strftime("%Y-%m/%d")
@@ -22,21 +24,18 @@ else:
     with open(cache_file, "r") as fp:
         html = fp.read()
 
-from bs4 import BeautifulSoup
+
 soup = BeautifulSoup(html, 'html.parser')
 
 # s = soup.find(class_="list-dateline").text.split("announced")[-1].strip()
 # day, month, year = [_.strip() for _ in s.split(",")[-1].split()]
 
-from datetime import datetime
-import pytz
-
 # Get current date/time in Eastern timezone
-eastern = pytz.timezone('US/Eastern')
-eastern_time = datetime.now(eastern)
-year = eastern_time.strftime("%Y")
-month = eastern_time.strftime("%B")
-day = eastern_time.strftime("%d")
+# eastern = pytz.timezone('US/Eastern')
+# eastern_time = datetime.now(eastern)
+year = datetime.strftime("%Y")
+month = datetime.strftime("%B")
+day = datetime.strftime("%d")
 
 
 info_folder = "info/%s-%s/%s" % (year, month, day)
