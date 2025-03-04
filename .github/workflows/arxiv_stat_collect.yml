@@ -3,7 +3,7 @@ name: Collect arXiv daily information
 
 on: 
   schedule:
-    - cron:  '1 */12 * * *'
+    - cron:  '1 */1 * * *'
   push:
 
 jobs:
@@ -29,9 +29,6 @@ jobs:
     - name: Collect information
       run: |
         python arxiv_daily_statistics.py
-    - name: Watch list
-      run: |
-        python key_words_trend_track.py
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
