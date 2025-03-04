@@ -23,7 +23,6 @@ watchlist_keywords = [
     "Leakage",
     "Deepseek"
 ]
-
 watchlist_authors = [_.lower() for _ in watchlist_authors]
 watchlist_keywords = [_.lower() for _ in watchlist_keywords]
 
