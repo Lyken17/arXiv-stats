@@ -24,6 +24,7 @@ watchlist_keywords = [
     "VILA", 
     "Sana",
     "Leakage",
+    "Deepseek"
 ]
 
 watchlist_authors = [_.lower() for _ in watchlist_authors]
