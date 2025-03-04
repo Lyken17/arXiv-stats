@@ -28,4 +28,4 @@ jobs:
         pip install --upgrade git+https://github.com/Lyken17/Echoo.git
     - name: Watch list
       run: |
-        python key_words_trend_track.py
+        python key_words_trend_track.py --tg_token ${{ secrets.tg_token }} --tg_chat_id ${{ secrets.tg_chat_id }}
