@@ -35,11 +35,8 @@ jobs:
         git add .
         git commit -m "Github action automatic update on $(date  +"%m-%d-%Y %H:%M:%S %Z")." -a
         git push 
-#     - name: Push changes
-#       uses: ad-m/github-push-action@master
-#       with:
-#         github_token: ${{ secrets.action }}
     - name: Notify Telegram
+      if: success()
       run: |
         date_format=$(date +"%y-%b/%-d")
         paper_count=$(cat info/$date_format/paper_counts.txt)
