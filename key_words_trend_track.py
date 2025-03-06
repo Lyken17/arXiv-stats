@@ -16,6 +16,9 @@ def main(
 
     watchlist_authors = [
         "Ji Lin",
+        "Zhijian Liu",
+        "Yao Lu",
+        "Ligeng Zhu",
         "Ilya Sutskever",
         "Gao Huang", 
         "Song Han",
