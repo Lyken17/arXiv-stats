@@ -296,7 +296,8 @@
     "subjectives": [
       "Machine Learning (cs.LG)",
       "Computation and Language (cs.CL)",
-      "Digital Libraries (cs.DL)"
+      "Digital Libraries (cs.DL)",
+      "Information Retrieval (cs.IR)"
     ]
   },
   {
@@ -414,7 +415,8 @@
       "Machine Learning (cs.LG)",
       "Artificial Intelligence (cs.AI)",
       "Computation and Language (cs.CL)",
-      "Computers and Society (cs.CY)"
+      "Computers and Society (cs.CY)",
+      "Human-Computer Interaction (cs.HC)"
     ]
   },
   {
@@ -453,7 +455,8 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Information Retrieval (cs.IR)"
     ]
   },
   {
@@ -557,7 +560,8 @@
     "subjectives": [
       "Databases (cs.DB)",
       "Computers and Society (cs.CY)",
-      "Physics and Society (physics.soc-ph)"
+      "Physics and Society (physics.soc-ph)",
+      "Applications (stat.AP)"
     ]
   },
   {
@@ -659,7 +663,8 @@
       "Binghui Wang"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
     ]
   },
   {
@@ -834,7 +839,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Cryptography and Security (cs.CR)"
     ]
   },
   {
@@ -947,7 +953,8 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Information Retrieval (cs.IR)"
     ]
   },
   {
@@ -972,7 +979,8 @@
       "Ben Bals"
     ],
     "subjectives": [
-      "Data Structures and Algorithms (cs.DS)"
+      "Data Structures and Algorithms (cs.DS)",
+      "Social and Information Networks (cs.SI)"
     ]
   },
   {
@@ -1408,7 +1416,8 @@
     "subjectives": [
       "Robotics (cs.RO)",
       "Artificial Intelligence (cs.AI)",
-      "Formal Languages and Automata Theory (cs.FL)"
+      "Formal Languages and Automata Theory (cs.FL)",
+      "Systems and Control (eess.SY)"
     ]
   },
   {
@@ -1682,7 +1691,8 @@
       "Zhenyu Gan"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Systems and Control (eess.SY)"
     ]
   },
   {
@@ -1883,7 +1893,8 @@
     ],
     "subjectives": [
       "Human-Computer Interaction (cs.HC)",
-      "Computers and Society (cs.CY)"
+      "Computers and Society (cs.CY)",
+      "Social and Information Networks (cs.SI)"
     ]
   },
   {
@@ -1947,7 +1958,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Sound (cs.SD)"
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -1959,7 +1971,8 @@
       "YangQuan Chen"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -2014,7 +2027,8 @@
       "Keren Zhou"
     ],
     "subjectives": [
-      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Software Engineering (cs.SE)"
     ]
   },
   {
@@ -2306,6 +2320,7 @@
     ],
     "subjectives": [
       "Emerging Technologies (cs.ET)",
+      "Human-Computer Interaction (cs.HC)",
       "Multimedia (cs.MM)"
     ]
   },
@@ -2598,7 +2613,8 @@
       "Zhe Jiang"
     ],
     "subjectives": [
-      "Hardware Architecture (cs.AR)"
+      "Hardware Architecture (cs.AR)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
     ]
   },
   {
@@ -2756,7 +2772,8 @@
       "Mark Dras"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Cryptography and Security (cs.CR)"
     ]
   },
   {
@@ -2889,7 +2906,8 @@
       "Sijie Zhu"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -2991,7 +3009,8 @@
       "Yanwei Yu"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Social and Information Networks (cs.SI)"
     ]
   },
   {
@@ -5061,6 +5080,7 @@
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
       "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -5336,7 +5356,8 @@
       "Bernhard Sch\u00f6lkopf"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Software Engineering (cs.SE)"
     ]
   },
   {
@@ -5600,18 +5621,6 @@
     "subjectives": [
       "Machine Learning (cs.LG)",
       "Artificial Intelligence (cs.AI)"
-    ]
-  },
-  {
-    "id": "2503.14322",
-    "title": "Consumer-grade EEG-based Eye Tracking",
-    "authors": [
-      "Tiago Vasconcelos Afonso",
-      "Florian Heinrichs"
-    ],
-    "subjectives": [
-      "Human-Computer Interaction (cs.HC)",
-      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -5994,27 +6003,6 @@
     ]
   },
   {
-    "id": "2503.14377",
-    "title": "Advancing Medical Representation Learning Through High-Quality Data",
-    "authors": [
-      "Negin Baghbanzadeh",
-      "Adibvafa Fallahpour",
-      "Yasaman Parhizkar",
-      "Franklin Ogidi",
-      "Shuvendu Roy",
-      "Sajad Ashkezari",
-      "Vahid Reza Khazaie",
-      "Michael Colacci",
-      "Ali Etemad",
-      "Arash Afkanpour",
-      "Elham Dolatabadi"
-    ],
-    "subjectives": [
-      "Machine Learning (cs.LG)",
-      "Computer Vision and Pattern Recognition (cs.CV)"
-    ]
-  },
-  {
     "id": "2503.14378",
     "title": "Impossible Videos",
     "authors": [
@@ -6355,10 +6343,11 @@
     "title": "Inducing Causal Structure for Interpretable Neural Networks Applied to Glucose Prediction for T1DM Patients",
     "authors": [
       "Ana Esponera",
-      "Giovanni Cinn\u00e0"
+      "Giovanni Cin\u00e0"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Biomolecules (q-bio.BM)"
     ]
   },
   {
@@ -6895,7 +6884,7 @@
     "title": "Aligning Multimodal LLM with Human Preference: A Survey",
     "authors": [
       "Tao Yu",
-      "Yi-Fan Zhang\u2020",
+      "Yi-Fan Zhang",
       "Chaoyou Fu",
       "Junkang Wu",
       "Jinda Lu",
@@ -6983,7 +6972,8 @@
     "subjectives": [
       "Signal Processing (eess.SP)",
       "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Neurons and Cognition (q-bio.NC)"
     ]
   },
   {
@@ -8072,6 +8062,19 @@
     ]
   },
   {
+    "id": "2503.14322",
+    "title": "Consumer-grade EEG-based Eye Tracking",
+    "authors": [
+      "Tiago Vasconcelos Afonso",
+      "Florian Heinrichs"
+    ],
+    "subjectives": [
+      "Signal Processing (eess.SP)",
+      "Human-Computer Interaction (cs.HC)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
     "id": "2503.14328",
     "title": "Risk-Sensitive Model Predictive Control for Interaction-Aware Planning -- A Sequential Convexification Algorithm",
     "authors": [
@@ -8145,6 +8148,28 @@
     ],
     "subjectives": [
       "Fluid Dynamics (physics.flu-dyn)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
+    "id": "2503.14377",
+    "title": "Advancing Medical Representation Learning Through High-Quality Data",
+    "authors": [
+      "Negin Baghbanzadeh",
+      "Adibvafa Fallahpour",
+      "Yasaman Parhizkar",
+      "Franklin Ogidi",
+      "Shuvendu Roy",
+      "Sajad Ashkezari",
+      "Vahid Reza Khazaie",
+      "Michael Colacci",
+      "Ali Etemad",
+      "Arash Afkanpour",
+      "Elham Dolatabadi"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (cs.LG)"
     ]
   },
