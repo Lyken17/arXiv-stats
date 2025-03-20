@@ -25,6 +25,8 @@ def main(
         "Hongxu Yin",
     ]
     watchlist_keywords = [
+        "reason",
+        "r1",
         "VILA", 
         "Sana",
         "Leakage",
