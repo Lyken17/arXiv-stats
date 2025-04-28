@@ -258,18 +258,6 @@
     ]
   },
   {
-    "id": "2504.17820",
-    "title": "How fake news can turn against its spreader",
-    "authors": [
-      "Dorje C. Brody",
-      "Tomooki Yuasa"
-    ],
-    "subjectives": [
-      "Other Computer Science (cs.OH)",
-      "Information Theory (cs.IT)"
-    ]
-  },
-  {
     "id": "2504.17821",
     "title": "VideoVista-CulturalLingo: 360$^\\circ$ Horizons-Bridging Cultures, Languages, and Domains in Video Comprehension",
     "authors": [
@@ -788,7 +776,8 @@
       "Jefferson Tales Oliva"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -2145,7 +2134,8 @@
       "Ramakrishnan Angarai Ganesan"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -5116,6 +5106,19 @@
     ]
   },
   {
+    "id": "2504.17820",
+    "title": "How fake news can turn against its spreader",
+    "authors": [
+      "Dorje C. Brody",
+      "Tomooki Yuasa"
+    ],
+    "subjectives": [
+      "Physics and Society (physics.soc-ph)",
+      "Information Theory (cs.IT)",
+      "Social and Information Networks (cs.SI)"
+    ]
+  },
+  {
     "id": "2504.17836",
     "title": "Learning Enhanced Ensemble Filters",
     "authors": [
@@ -5129,7 +5132,7 @@
       "Machine Learning (stat.ML)",
       "Machine Learning (cs.LG)",
       "Systems and Control (eess.SY)",
-      "Other Statistics (stat.OT)"
+      "Computational Physics (physics.comp-ph)"
     ]
   },
   {
