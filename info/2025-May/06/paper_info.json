@@ -515,7 +515,8 @@
       "Oussama Damen"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -1216,7 +1217,7 @@
       "Simone Servadio"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Computational Engineering, Finance, and Science (cs.CE)"
     ]
   },
   {
@@ -1226,7 +1227,7 @@
       "Simone Servadio"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Computational Engineering, Finance, and Science (cs.CE)"
     ]
   },
   {
@@ -1752,7 +1753,8 @@
       "Mingzhe Chen"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Information Theory (cs.IT)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -3250,7 +3252,9 @@
       "Eduardo R. Mucciolo"
     ],
     "subjectives": [
-      "Data Structures and Algorithms (cs.DS)"
+      "Data Structures and Algorithms (cs.DS)",
+      "Computational Physics (physics.comp-ph)",
+      "Quantum Physics (quant-ph)"
     ]
   },
   {
@@ -3334,7 +3338,8 @@
       "Zhu Li"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -4190,20 +4195,6 @@
     ]
   },
   {
-    "id": "2505.02048",
-    "title": "Regression s all you need for medical image translation",
-    "authors": [
-      "Sebastian Rassmann",
-      "David K\u00fcgler",
-      "Christian Ewert",
-      "Martin Reuter"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
-    ]
-  },
-  {
     "id": "2505.02049",
     "title": "Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery",
     "authors": [
@@ -4816,10 +4807,11 @@
     "title": "Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation",
     "authors": [
       "Chenxi Liu",
-      "Shaowen Zhou",
       "Hao Miao",
       "Qianxiong Xu",
+      "Shaowen Zhou",
       "Cheng Long",
+      "Yan Zhao",
       "Ziyue Li",
       "Rui Zhao"
     ],
@@ -7591,19 +7583,6 @@
     ]
   },
   {
-    "id": "2505.02529",
-    "title": "RobSurv: Vector Quantization-Based Multi-Modal Learning for Robust Cancer Survival Prediction",
-    "authors": [
-      "Aiman Farooq",
-      "Azad Singh",
-      "Deepak Mishra",
-      "Santanu Chaudhury"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
-    ]
-  },
-  {
     "id": "2505.02531",
     "title": "A posteriori error estimates for the finite element approximation of the convection-diffusion-reaction equation based on the variational multiscale concept",
     "authors": [
@@ -8421,21 +8400,6 @@
     ]
   },
   {
-    "id": "2505.02677",
-    "title": "Multimodal Deep Learning for Stroke Prediction and Detection using Retinal Imaging and Clinical Data",
-    "authors": [
-      "Saeed Shurrab",
-      "Aadim Nepal",
-      "Terrence J. Lee-St. John",
-      "Nicola G. Ghazi",
-      "Bartlomiej Piechowski-Jozwiak",
-      "Farah E. Shamout"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
-    ]
-  },
-  {
     "id": "2505.02686",
     "title": "Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models",
     "authors": [
@@ -8818,20 +8782,6 @@
     ],
     "subjectives": [
       "Computers and Society (cs.CY)"
-    ]
-  },
-  {
-    "id": "2505.02751",
-    "title": "Platelet enumeration in dense aggregates",
-    "authors": [
-      "H. Martin Gillis",
-      "Yogeshwar Shendye",
-      "Paul Hollensen",
-      "Alan Fine",
-      "Thomas Trappenberg"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
@@ -10115,6 +10065,21 @@
     ]
   },
   {
+    "id": "2505.02048",
+    "title": "Regression s all you need for medical image translation",
+    "authors": [
+      "Sebastian Rassmann",
+      "David K\u00fcgler",
+      "Christian Ewert",
+      "Martin Reuter"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
     "id": "2505.02101",
     "title": "Efficient Curvature-Aware Hypergradient Approximation for Bilevel Optimization",
     "authors": [
@@ -10456,6 +10421,20 @@
     ]
   },
   {
+    "id": "2505.02529",
+    "title": "RobSurv: Vector Quantization-Based Multi-Modal Learning for Robust Cancer Survival Prediction",
+    "authors": [
+      "Aiman Farooq",
+      "Azad Singh",
+      "Deepak Mishra",
+      "Santanu Chaudhury"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
     "id": "2505.02530",
     "title": "Energy Efficiency Maximization for CR-NOMA based Smart Grid Communication Network",
     "authors": [
@@ -10528,6 +10507,22 @@
     ]
   },
   {
+    "id": "2505.02677",
+    "title": "Multimodal Deep Learning for Stroke Prediction and Detection using Retinal Imaging and Clinical Data",
+    "authors": [
+      "Saeed Shurrab",
+      "Aadim Nepal",
+      "Terrence J. Lee-St. John",
+      "Nicola G. Ghazi",
+      "Bartlomiej Piechowski-Jozwiak",
+      "Farah E. Shamout"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
     "id": "2505.02705",
     "title": "Multi-View Learning with Context-Guided Receptance for Image Denoising",
     "authors": [
@@ -10537,6 +10532,21 @@
       "Yuanrong Xu",
       "Guanglu Zhou",
       "Xiangqian Wu"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "2505.02751",
+    "title": "Platelet enumeration in dense aggregates",
+    "authors": [
+      "H. Martin Gillis",
+      "Yogeshwar Shendye",
+      "Paul Hollensen",
+      "Alan Fine",
+      "Thomas Trappenberg"
     ],
     "subjectives": [
       "Image and Video Processing (eess.IV)",
