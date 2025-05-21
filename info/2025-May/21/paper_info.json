@@ -118,6 +118,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Computational Physics (physics.comp-ph)",
       "Fluid Dynamics (physics.flu-dyn)"
     ]
   },
@@ -266,6 +267,7 @@
     ],
     "subjectives": [
       "Programming Languages (cs.PL)",
+      "Hardware Architecture (cs.AR)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -312,7 +314,8 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
@@ -458,6 +461,7 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -514,7 +518,8 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -854,7 +859,8 @@
     ],
     "subjectives": [
       "Robotics (cs.RO)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -873,7 +879,8 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "General Finance (q-fin.GN)"
     ]
   },
   {
@@ -972,6 +979,7 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
       "Multiagent Systems (cs.MA)"
     ]
   },
@@ -1446,7 +1454,8 @@
       "Huanfei Ma"
     ],
     "subjectives": [
-      "Neural and Evolutionary Computing (cs.NE)"
+      "Neural and Evolutionary Computing (cs.NE)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1528,6 +1537,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Artificial Intelligence (cs.AI)",
       "Computer Science and Game Theory (cs.GT)"
     ]
   },
@@ -1539,7 +1549,8 @@
       "Giovanni Agosta"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -1735,7 +1746,8 @@
       "Weixuan Yuan"
     ],
     "subjectives": [
-      "Computers and Society (cs.CY)"
+      "Computers and Society (cs.CY)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -1787,7 +1799,8 @@
     ],
     "subjectives": [
       "Discrete Mathematics (cs.DM)",
-      "Data Structures and Algorithms (cs.DS)"
+      "Data Structures and Algorithms (cs.DS)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -2243,7 +2256,8 @@
       "Joshua J. Daymude"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Social and Information Networks (cs.SI)"
     ]
   },
   {
@@ -2256,6 +2270,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Neural and Evolutionary Computing (cs.NE)",
       "Chaotic Dynamics (nlin.CD)",
       "Machine Learning (stat.ML)"
     ]
@@ -2324,7 +2339,8 @@
       "Sunil K. Agrawal"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Systems and Control (eess.SY)"
     ]
   },
   {
@@ -2352,7 +2368,8 @@
       "Fabrizio Riente"
     ],
     "subjectives": [
-      "Systems and Control (eess.SY)"
+      "Systems and Control (eess.SY)",
+      "Networking and Internet Architecture (cs.NI)"
     ]
   },
   {
@@ -2966,7 +2983,8 @@
     ],
     "subjectives": [
       "Computation and Language (cs.CL)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -3482,7 +3500,8 @@
     "subjectives": [
       "Machine Learning (cs.LG)",
       "Artificial Intelligence (cs.AI)",
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -3998,7 +4017,8 @@
       "Ziye Ma"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -4279,24 +4299,6 @@
     ],
     "subjectives": [
       "Software Engineering (cs.SE)"
-    ]
-  },
-  {
-    "id": "2505.13986",
-    "title": "Solving Normalized Cut Problem with Constrained Action Space",
-    "authors": [
-      "Qize Jiang",
-      "Linsey Pang",
-      "Alice Gatti",
-      "Mahima Aggarwa",
-      "Giovanna Vantin",
-      "Xiaosong Ma",
-      "Weiwei Sun",
-      "Sanjay Chawla"
-    ],
-    "subjectives": [
-      "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -4604,7 +4606,9 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Cryptography and Security (cs.CR)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
     ]
   },
   {
@@ -4719,7 +4723,8 @@
       "Minlie Huang"
     ],
     "subjectives": [
-      "Multimedia (cs.MM)"
+      "Multimedia (cs.MM)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -4779,7 +4784,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Numerical Analysis (math.NA)"
+      "Numerical Analysis (math.NA)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -6443,7 +6449,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -6656,7 +6663,9 @@
     "subjectives": [
       "Computation and Language (cs.CL)",
       "Information Retrieval (cs.IR)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -6725,6 +6734,7 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
+      "Cryptography and Security (cs.CR)",
       "Data Structures and Algorithms (cs.DS)"
     ]
   },
@@ -7497,7 +7507,7 @@
       "Ab Mosca"
     ],
     "subjectives": [
-      "Information Theory (cs.IT)"
+      "Human-Computer Interaction (cs.HC)"
     ]
   },
   {
@@ -8185,19 +8195,6 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)"
-    ]
-  },
-  {
-    "id": "2505.14420",
-    "title": "SAE-FiRE: Enhancing Earnings Surprise Predictions Through Sparse Autoencoder Feature Selection",
-    "authors": [
-      "Huopu Zhang",
-      "Yanguang Liu",
-      "Mengnan Du"
-    ],
-    "subjectives": [
-      "Computation and Language (cs.CL)",
-      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -9414,6 +9411,7 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
+      "Multimedia (cs.MM)",
       "Audio and Speech Processing (eess.AS)"
     ]
   },
@@ -11091,6 +11089,25 @@
     ]
   },
   {
+    "id": "2505.13986",
+    "title": "Solving Normalized Cut Problem with Constrained Action Space",
+    "authors": [
+      "Qize Jiang",
+      "Linsey Pang",
+      "Alice Gatti",
+      "Mahima Aggarwa",
+      "Giovanna Vantin",
+      "Xiaosong Ma",
+      "Weiwei Sun",
+      "Sanjay Chawla"
+    ],
+    "subjectives": [
+      "Optimization and Control (math.OC)",
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
     "id": "2505.14016",
     "title": "ThermoONet -- a deep learning-based small body thermophysical network: applications to modelling water activity of comets",
     "authors": [
@@ -11273,7 +11290,8 @@
     ],
     "subjectives": [
       "Quantum Physics (quant-ph)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -11408,6 +11426,20 @@
     ]
   },
   {
+    "id": "2505.14420",
+    "title": "SAE-FiRE: Enhancing Earnings Surprise Predictions Through Sparse Autoencoder Feature Selection",
+    "authors": [
+      "Huopu Zhang",
+      "Yanguang Liu",
+      "Mengnan Du"
+    ],
+    "subjectives": [
+      "Computational Finance (q-fin.CP)",
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
     "id": "2505.14421",
     "title": "A system identification approach to clustering vector autoregressive time series",
     "authors": [
@@ -11448,7 +11480,8 @@
     ],
     "subjectives": [
       "Audio and Speech Processing (eess.AS)",
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Sound (cs.SD)"
     ]
   },
   {
@@ -11477,7 +11510,8 @@
     ],
     "subjectives": [
       "Audio and Speech Processing (eess.AS)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Sound (cs.SD)"
     ]
   },
   {
