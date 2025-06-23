@@ -191,9 +191,9 @@
       "Qiang Xu"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)",
       "Hardware Architecture (cs.AR)",
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -628,6 +628,7 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -644,6 +645,7 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
       "Cryptography and Security (cs.CR)",
       "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (cs.LG)"
@@ -808,6 +810,7 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -841,7 +844,8 @@
       "Yuan Yao"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -2148,7 +2152,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Multimedia (cs.MM)"
     ]
   },
   {
@@ -2333,7 +2338,8 @@
       "Song Guo"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -2533,8 +2539,8 @@
       "Andi Quinn"
     ],
     "subjectives": [
-      "Distributed, Parallel, and Cluster Computing (cs.DC)",
-      "Hardware Architecture (cs.AR)"
+      "Hardware Architecture (cs.AR)",
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
     ]
   },
   {
@@ -3022,7 +3028,8 @@
       "Yu Wang"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Graphics (cs.GR)"
     ]
   },
   {
@@ -3222,7 +3229,8 @@
       "Alexander Fay"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Databases (cs.DB)"
     ]
   },
   {
@@ -3533,7 +3541,8 @@
     ],
     "subjectives": [
       "Cryptography and Security (cs.CR)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -4522,7 +4531,8 @@
       "Jaros\u0142aw A. Chudziak"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -5803,6 +5813,7 @@
     "subjectives": [
       "Robotics (cs.RO)",
       "Multiagent Systems (cs.MA)",
+      "Networking and Internet Architecture (cs.NI)",
       "Systems and Control (eess.SY)"
     ]
   },
@@ -6192,6 +6203,7 @@
     ],
     "subjectives": [
       "Robotics (cs.RO)",
+      "Machine Learning (cs.LG)",
       "Systems and Control (eess.SY)"
     ]
   },
@@ -6536,7 +6548,8 @@
       "Elaine Short"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Human-Computer Interaction (cs.HC)"
     ]
   },
   {
@@ -6847,7 +6860,8 @@
       "Shuran Song"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -7100,7 +7114,8 @@
       "Diange Yang"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -9325,19 +9340,6 @@
     ]
   },
   {
-    "id": "2506.17067",
-    "title": "Empowering Near-Field Communications in Low-Altitude Economy with LLM: Fundamentals, Potentials, Solutions, and Future Directions",
-    "authors": [
-      "Zhuo Xu",
-      "Tianyue Zheng",
-      "Linglong Dai"
-    ],
-    "subjectives": [
-      "Machine Learning (cs.LG)",
-      "Information Theory (cs.IT)"
-    ]
-  },
-  {
     "id": "2506.17073",
     "title": "LLM-Based Bot Broadens the Range of Arguments in Online Discussions, Even When Transparently Disclosed as AI",
     "authors": [
@@ -9537,6 +9539,7 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
       "Logic in Computer Science (cs.LO)"
     ]
   },
@@ -10442,7 +10445,7 @@
     ],
     "subjectives": [
       "Image and Video Processing (eess.IV)",
-      "Computation and Language (cs.CL)"
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -11459,6 +11462,20 @@
     ]
   },
   {
+    "id": "2506.17067",
+    "title": "Empowering Near-Field Communications in Low-Altitude Economy with LLM: Fundamentals, Potentials, Solutions, and Future Directions",
+    "authors": [
+      "Zhuo Xu",
+      "Tianyue Zheng",
+      "Linglong Dai"
+    ],
+    "subjectives": [
+      "Signal Processing (eess.SP)",
+      "Information Theory (cs.IT)",
+      "Machine Learning (cs.LG)"
+    ]
+  },
+  {
     "id": "2506.17068",
     "title": "Cross-Modal Epileptic Signal Harmonization: Frequency Domain Mapping Quantization for Pre-training a Unified Neurophysiological Transformer",
     "authors": [
@@ -11469,7 +11486,8 @@
     ],
     "subjectives": [
       "Neurons and Cognition (q-bio.NC)",
-      "Emerging Technologies (cs.ET)"
+      "Emerging Technologies (cs.ET)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
