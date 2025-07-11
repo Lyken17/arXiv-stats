@@ -214,7 +214,8 @@
       "Scott Mahan"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -300,7 +301,8 @@
       "Sreedath Panat"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Cryptography and Security (cs.CR)"
     ]
   },
   {
@@ -352,7 +354,8 @@
       "Zili Shao"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -366,6 +369,7 @@
     "subjectives": [
       "Machine Learning (cs.LG)",
       "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
       "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
@@ -1038,7 +1042,8 @@
       "Michael A. Osborne"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Neural and Evolutionary Computing (cs.NE)"
     ]
   },
   {
@@ -1178,12 +1183,14 @@
     "authors": [
       "Alan Malek",
       "Jiawei Ge",
-      "Jiawei Ge",
+      "Nevena Lazic",
       "Chi Jin",
       "Andr\u00e1s Gy\u00f6rgy",
       "Csaba Szepesv\u00e1ri"
     ],
     "subjectives": [
+      "Computation and Language (cs.CL)",
+      "Artificial Intelligence (cs.AI)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -1210,7 +1217,8 @@
       "Md. Jakir Hossen"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Cryptography and Security (cs.CR)"
     ]
   },
   {
@@ -1373,21 +1381,6 @@
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
       "Cryptography and Security (cs.CR)"
-    ]
-  },
-  {
-    "id": "2507.07342",
-    "title": "Discrete Beamforming Optimization for RISs with a Limited Phase Range and Amplitude Attenuation",
-    "authors": [
-      "Dogan Kutay Pekcan",
-      "Hongyi Liao",
-      "Ender Ayanoglu"
-    ],
-    "subjectives": [
-      "Emerging Technologies (cs.ET)",
-      "Information Theory (cs.IT)",
-      "Signal Processing (eess.SP)",
-      "Systems and Control (eess.SY)"
     ]
   },
   {
@@ -2381,7 +2374,8 @@
       "Dusit Niyato"
     ],
     "subjectives": [
-      "Networking and Internet Architecture (cs.NI)"
+      "Networking and Internet Architecture (cs.NI)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -2465,22 +2459,6 @@
     "subjectives": [
       "Computation and Language (cs.CL)",
       "Artificial Intelligence (cs.AI)"
-    ]
-  },
-  {
-    "id": "2507.07496",
-    "title": "Semi-supervised learning and integration of multi-sequence MR-images for carotid vessel wall and plaque segmentation",
-    "authors": [
-      "Marie-Christine Pali",
-      "Christina Schwaiger",
-      "Malik Galijasevic",
-      "Valentin K. Ladenhauf",
-      "Stephanie Mangesius",
-      "Elke R. Gizewski"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)",
-      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -2614,7 +2592,8 @@
       "Michele Tizzani"
     ],
     "subjectives": [
-      "Computers and Society (cs.CY)"
+      "Computers and Society (cs.CY)",
+      "Social and Information Networks (cs.SI)"
     ]
   },
   {
@@ -3061,7 +3040,8 @@
       "Lihong Zheng"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -3124,7 +3104,8 @@
       "Chunyan Miao"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -3140,7 +3121,8 @@
       "Gerardo Luis Dimaguila"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -3751,32 +3733,6 @@
     ]
   },
   {
-    "id": "2507.07704",
-    "title": "D-CNN and VQ-VAE Autoencoders for Compression and Denoising of Industrial X-ray Computed Tomography Images",
-    "authors": [
-      "Bardia Hejazi",
-      "Keerthana Chand",
-      "Tobias Fritsch",
-      "Giovanni Bruno"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
-    ]
-  },
-  {
-    "id": "2507.07707",
-    "title": "Compressive Imaging Reconstruction via Tensor Decomposed Multi-Resolution Grid Encoding",
-    "authors": [
-      "Zhenyu Jin",
-      "Yisi Luo",
-      "Xile Zhao",
-      "Deyu Meng"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
-    ]
-  },
-  {
     "id": "2507.07708",
     "title": "Motion-Aware Adaptive Pixel Pruning for Efficient Local Motion Deblurring",
     "authors": [
@@ -3875,24 +3831,6 @@
     ]
   },
   {
-    "id": "2507.07721",
-    "title": "Breast Ultrasound Tumor Generation via Mask Generator and Text-Guided Network:A Clinically Controllable Framework with Downstream Evaluation",
-    "authors": [
-      "Haoyu Pan",
-      "Hongxin Lin",
-      "Zetian Feng",
-      "Chuxuan Lin",
-      "Junyang Mo",
-      "Chu Zhang",
-      "Zijian Wu",
-      "Yi Wang",
-      "Qingqing Zheng"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
-    ]
-  },
-  {
     "id": "2507.07722",
     "title": "Understanding Dataset Bias in Medical Imaging: A Case Study on Chest X-rays",
     "authors": [
@@ -3913,7 +3851,9 @@
       "Xiaozhou Ye"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -4070,7 +4010,9 @@
       "Hanan Aldarmaki"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -4181,7 +4123,8 @@
       "Giovanni Bruno"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -4462,7 +4405,9 @@
       "Yang Feng"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -4590,7 +4535,9 @@
       "Chao Zhang"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -4605,7 +4552,8 @@
       "Hyung-Sin Kim"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -4739,17 +4687,6 @@
     ]
   },
   {
-    "id": "2507.07839",
-    "title": "MeD-3D: A Multimodal Deep Learning Framework for Precise Recurrence Prediction in Clear Cell Renal Cell Carcinoma (ccRCC)",
-    "authors": [
-      "Hasaan Maqsood",
-      "Saif Ur Rehman Khan"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
-    ]
-  },
-  {
     "id": "2507.07841",
     "title": "HaLert: A Resilient Smart City Architecture for Post-Disaster Based on Wi-Fi HaLow Mesh and SDN",
     "authors": [
@@ -4861,7 +4798,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -5146,7 +5084,9 @@
       "Amir Barati Farimani"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      "Biomolecules (q-bio.BM)"
     ]
   },
   {
@@ -5348,19 +5288,6 @@
     ]
   },
   {
-    "id": "2507.07920",
-    "title": "ArteryX: Advancing Brain Artery Feature Extraction with Vessel-Fused Networks and a Robust Validation Framework",
-    "authors": [
-      "Abrar Faiyaz",
-      "Nhat Hoang",
-      "Giovanni Schifitto",
-      "Md Nasir Uddin"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
-    ]
-  },
-  {
     "id": "2507.07924",
     "title": "Measuring Hypothesis Testing Errors in the Evaluation of Retrieval Systems",
     "authors": [
@@ -5409,7 +5336,8 @@
     ],
     "subjectives": [
       "Human-Computer Interaction (cs.HC)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -6039,7 +5967,8 @@
     ],
     "subjectives": [
       "Image and Video Processing (eess.IV)",
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Tissues and Organs (q-bio.TO)"
     ]
   },
   {
@@ -6279,6 +6208,19 @@
     ]
   },
   {
+    "id": "2507.07342",
+    "title": "Discrete Beamforming Optimization for RISs with a Limited Phase Range and Amplitude Attenuation",
+    "authors": [
+      "Dogan Kutay Pekcan",
+      "Hongyi Liao",
+      "Ender Ayanoglu"
+    ],
+    "subjectives": [
+      "Signal Processing (eess.SP)",
+      "Emerging Technologies (cs.ET)"
+    ]
+  },
+  {
     "id": "2507.07343",
     "title": "Way More Than the Sum of Their Parts: From Statistical to Structural Mixtures",
     "authors": [
@@ -6355,7 +6297,8 @@
     ],
     "subjectives": [
       "Machine Learning (stat.ML)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Computation (stat.CO)"
     ]
   },
   {
@@ -6369,6 +6312,23 @@
       "Machine Learning (stat.ML)",
       "Machine Learning (cs.LG)",
       "Econometrics (econ.EM)"
+    ]
+  },
+  {
+    "id": "2507.07496",
+    "title": "Semi-supervised learning and integration of multi-sequence MR-images for carotid vessel wall and plaque segmentation",
+    "authors": [
+      "Marie-Christine Pali",
+      "Christina Schwaiger",
+      "Malik Galijasevic",
+      "Valentin K. Ladenhauf",
+      "Stephanie Mangesius",
+      "Elke R. Gizewski"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -6555,6 +6515,53 @@
     ]
   },
   {
+    "id": "2507.07704",
+    "title": "D-CNN and VQ-VAE Autoencoders for Compression and Denoising of Industrial X-ray Computed Tomography Images",
+    "authors": [
+      "Bardia Hejazi",
+      "Keerthana Chand",
+      "Tobias Fritsch",
+      "Giovanni Bruno"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "2507.07707",
+    "title": "Compressive Imaging Reconstruction via Tensor Decomposed Multi-Resolution Grid Encoding",
+    "authors": [
+      "Zhenyu Jin",
+      "Yisi Luo",
+      "Xile Zhao",
+      "Deyu Meng"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "2507.07721",
+    "title": "Breast Ultrasound Tumor Generation via Mask Generator and Text-Guided Network:A Clinically Controllable Framework with Downstream Evaluation",
+    "authors": [
+      "Haoyu Pan",
+      "Hongxin Lin",
+      "Zetian Feng",
+      "Chuxuan Lin",
+      "Junyang Mo",
+      "Chu Zhang",
+      "Zijian Wu",
+      "Yi Wang",
+      "Qingqing Zheng"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
     "id": "2507.07771",
     "title": "A Unified Empirical Risk Minimization Framework for Flexible N-Tuples Weak Supervision",
     "authors": [
@@ -6630,6 +6637,18 @@
     ]
   },
   {
+    "id": "2507.07839",
+    "title": "MeD-3D: A Multimodal Deep Learning Framework for Precise Recurrence Prediction in Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "authors": [
+      "Hasaan Maqsood",
+      "Saif Ur Rehman Khan"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
     "id": "2507.07889",
     "title": "The integro-differential closure of a commutative differential ring",
     "authors": [
@@ -6667,6 +6686,20 @@
     "subjectives": [
       "Optimization and Control (math.OC)",
       "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "2507.07920",
+    "title": "ArteryX: Advancing Brain Artery Feature Extraction with Vessel-Fused Networks and a Robust Validation Framework",
+    "authors": [
+      "Abrar Faiyaz",
+      "Nhat Hoang",
+      "Giovanni Schifitto",
+      "Md Nasir Uddin"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
