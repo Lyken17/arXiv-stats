@@ -31,6 +31,7 @@
     ],
     "subjectives": [
       "Neural and Evolutionary Computing (cs.NE)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
       "Machine Learning (cs.LG)"
     ]
   },
@@ -686,7 +687,8 @@
     ],
     "subjectives": [
       "Machine Learning (cs.LG)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Networking and Internet Architecture (cs.NI)"
     ]
   },
   {
@@ -832,7 +834,8 @@
       "Taotao Xie"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Software Engineering (cs.SE)"
     ]
   },
   {
@@ -930,7 +933,8 @@
     ],
     "subjectives": [
       "Software Engineering (cs.SE)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Social and Information Networks (cs.SI)"
     ]
   },
   {
@@ -945,7 +949,8 @@
     ],
     "subjectives": [
       "Software Engineering (cs.SE)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -1003,7 +1008,8 @@
       "Irfan Hussain"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
@@ -1375,7 +1381,8 @@
       "Akbar Siami Namin"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Machine Learning (cs.LG)"
     ]
   },
   {
@@ -1537,7 +1544,8 @@
       "Computers and Society (cs.CY)",
       "Artificial Intelligence (cs.AI)",
       "Cryptography and Security (cs.CR)",
-      "Emerging Technologies (cs.ET)"
+      "Emerging Technologies (cs.ET)",
+      "Human-Computer Interaction (cs.HC)"
     ]
   },
   {
@@ -1708,7 +1716,8 @@
       "Panpan Xu"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Machine Learning (stat.ML)"
     ]
   },
   {
@@ -1823,9 +1832,8 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
-      "Artificial Intelligence (cs.AI)",
-      "Human-Computer Interaction (cs.HC)",
-      "Machine Learning (cs.LG)"
+      "Computation and Language (cs.CL)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -2045,7 +2053,9 @@
       "Eduardo Pacheco"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)"
+      "Sound (cs.SD)",
+      "Computation and Language (cs.CL)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -2427,7 +2437,8 @@
       "Yisong Yue"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Systems and Control (eess.SY)"
     ]
   },
   {
@@ -2649,7 +2660,8 @@
     ],
     "subjectives": [
       "Neural and Evolutionary Computing (cs.NE)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Neurons and Cognition (q-bio.NC)"
     ]
   },
   {
@@ -2873,7 +2885,8 @@
       "Dexter Kozen"
     ],
     "subjectives": [
-      "Formal Languages and Automata Theory (cs.FL)"
+      "Formal Languages and Automata Theory (cs.FL)",
+      "Logic in Computer Science (cs.LO)"
     ]
   },
   {
@@ -3298,7 +3311,8 @@
       "S.-H. Gary Chan"
     ],
     "subjectives": [
-      "Networking and Internet Architecture (cs.NI)"
+      "Networking and Internet Architecture (cs.NI)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -3400,6 +3414,7 @@
     ],
     "subjectives": [
       "Social and Information Networks (cs.SI)",
+      "Physics and Society (physics.soc-ph)",
       "Machine Learning (stat.ML)"
     ]
   },
@@ -3457,7 +3472,8 @@
       "Gr\u00e9goire Danoy"
     ],
     "subjectives": [
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Optimization and Control (math.OC)"
     ]
   },
   {
@@ -3665,7 +3681,8 @@
       "Tianchi Xu"
     ],
     "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -3732,7 +3749,8 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -4088,7 +4106,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -4119,22 +4138,6 @@
     ]
   },
   {
-    "id": "2507.11152",
-    "title": "Latent Space Consistency for Sparse-View CT Reconstruction",
-    "authors": [
-      "Duoyou Chen",
-      "Yunqing Chen",
-      "Can Zhang",
-      "Zhou Wang",
-      "Cheng Chen",
-      "Ruoxiu Xiao"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
-    ]
-  },
-  {
     "id": "2507.11153",
     "title": "Assessing Color Vision Test in Large Vision-language Models",
     "authors": [
@@ -4160,7 +4163,8 @@
       "Yang Zhang"
     ],
     "subjectives": [
-      "Cryptography and Security (cs.CR)"
+      "Cryptography and Security (cs.CR)",
+      "Artificial Intelligence (cs.AI)"
     ]
   },
   {
@@ -4221,7 +4225,8 @@
     "subjectives": [
       "Networking and Internet Architecture (cs.NI)",
       "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -4235,7 +4240,8 @@
       "Ruggero Carli"
     ],
     "subjectives": [
-      "Robotics (cs.RO)"
+      "Robotics (cs.RO)",
+      "Systems and Control (eess.SY)"
     ]
   },
   {
@@ -4614,7 +4620,8 @@
       "Joshua D. Reiss"
     ],
     "subjectives": [
-      "Sound (cs.SD)"
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -4901,7 +4908,8 @@
       "Anh Quang Nguyen"
     ],
     "subjectives": [
-      "Software Engineering (cs.SE)"
+      "Software Engineering (cs.SE)",
+      "Information Retrieval (cs.IR)"
     ]
   },
   {
@@ -5070,18 +5078,6 @@
     ]
   },
   {
-    "id": "2507.11293",
-    "title": "3D Magnetic Inverse Routine for Single-Segment Magnetic Field Images",
-    "authors": [
-      "J. Senthilnath",
-      "Chen Hao",
-      "F. C. Wellstood"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
-    ]
-  },
-  {
     "id": "2507.11296",
     "title": "Diffusion-Based Imaginative Coordination for Bimanual Manipulation",
     "authors": [
@@ -5153,7 +5149,8 @@
       "Tao Yin"
     ],
     "subjectives": [
-      "Cryptography and Security (cs.CR)"
+      "Cryptography and Security (cs.CR)",
+      "Computation and Language (cs.CL)"
     ]
   },
   {
@@ -5229,24 +5226,6 @@
     "subjectives": [
       "Cryptography and Security (cs.CR)",
       "Databases (cs.DB)"
-    ]
-  },
-  {
-    "id": "2507.11325",
-    "title": "HANS-Net: Hyperbolic Convolution and Adaptive Temporal Attention for Accurate and Generalizable Liver and Tumor Segmentation in CT Imaging",
-    "authors": [
-      "Arefin Ittesafun Abian",
-      "Ripon Kumar Debnath",
-      "Md. Abdur Rahman",
-      "Mohaimenul Azam Khan Raiaan",
-      "Md Rafiqul Islam",
-      "Asif Karim",
-      "Reem E. Mohamed",
-      "Sami Azam"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)",
-      "Artificial Intelligence (cs.AI)"
     ]
   },
   {
@@ -6129,7 +6108,8 @@
       "Berk Canberk"
     ],
     "subjectives": [
-      "Networking and Internet Architecture (cs.NI)"
+      "Networking and Internet Architecture (cs.NI)",
+      "Signal Processing (eess.SP)"
     ]
   },
   {
@@ -6941,6 +6921,23 @@
     ]
   },
   {
+    "id": "2507.11152",
+    "title": "Latent Space Consistency for Sparse-View CT Reconstruction",
+    "authors": [
+      "Duoyou Chen",
+      "Yunqing Chen",
+      "Can Zhang",
+      "Zhou Wang",
+      "Cheng Chen",
+      "Ruoxiu Xiao"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
     "id": "2507.11161",
     "title": "How does Labeling Error Impact Contrastive Learning? A Perspective from Data Dimensionality Reduction",
     "authors": [
@@ -6973,10 +6970,8 @@
       "Liang Tian"
     ],
     "subjectives": [
-      "Physics and Society (physics.soc-ph)",
-      "Machine Learning (cs.LG)",
       "Other Quantitative Biology (q-bio.OT)",
-      "Machine Learning (stat.ML)"
+      "Artificial Intelligence (cs.AI)"
     ]
   },
   {
@@ -7049,6 +7044,19 @@
     ]
   },
   {
+    "id": "2507.11293",
+    "title": "3D Magnetic Inverse Routine for Single-Segment Magnetic Field Images",
+    "authors": [
+      "J. Senthilnath",
+      "Chen Hao",
+      "F. C. Wellstood"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
     "id": "2507.11318",
     "title": "Effects of rough boundary and nonzero boundary conditions on the lubrication process with micropolar fluid",
     "authors": [
@@ -7059,6 +7067,25 @@
     "subjectives": [
       "Analysis of PDEs (math.AP)",
       "Numerical Analysis (math.NA)"
+    ]
+  },
+  {
+    "id": "2507.11325",
+    "title": "HANS-Net: Hyperbolic Convolution and Adaptive Temporal Attention for Accurate and Generalizable Liver and Tumor Segmentation in CT Imaging",
+    "authors": [
+      "Arefin Ittesafun Abian",
+      "Ripon Kumar Debnath",
+      "Md. Abdur Rahman",
+      "Mohaimenul Azam Khan Raiaan",
+      "Md Rafiqul Islam",
+      "Asif Karim",
+      "Reem E. Mohamed",
+      "Sami Azam"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
