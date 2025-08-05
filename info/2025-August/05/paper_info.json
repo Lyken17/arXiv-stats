@@ -6,7 +6,8 @@
       "L-F Pau"
     ],
     "subjectives": [
-      "Emerging Technologies (cs.ET)"
+      "Emerging Technologies (cs.ET)",
+      "Quantum Physics (quant-ph)"
     ]
   },
   {
@@ -823,7 +824,8 @@
     ],
     "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Materials Science (cond-mat.mtrl-sci)"
+      "Materials Science (cond-mat.mtrl-sci)",
+      "Image and Video Processing (eess.IV)"
     ]
   },
   {
@@ -2044,18 +2046,6 @@
     ]
   },
   {
-    "id": "2508.01058",
-    "title": "ReCoSeg++:Extended Residual-Guided Cross-Modal Diffusion for Brain Tumor Segmentation",
-    "authors": [
-      "Sara Yavari",
-      "Rahul Nitin Pandya",
-      "Jacob Furst"
-    ],
-    "subjectives": [
-      "Computer Vision and Pattern Recognition (cs.CV)"
-    ]
-  },
-  {
     "id": "2508.01059",
     "title": "Llama-3.1-FoundationAI-SecurityLLM-8B-Instruct Technical Report",
     "authors": [
@@ -2110,24 +2100,6 @@
     ],
     "subjectives": [
       "Cryptography and Security (cs.CR)",
-      "Computer Vision and Pattern Recognition (cs.CV)"
-    ]
-  },
-  {
-    "id": "2508.01064",
-    "title": "Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation",
-    "authors": [
-      "Fenghe Tang",
-      "Bingkun Nian",
-      "Jianrui Ding",
-      "Wenxin Ma",
-      "Quan Quan",
-      "Chengqi Dong",
-      "Jie Yang",
-      "Wei Liu",
-      "S. Kevin Zhou"
-    ],
-    "subjectives": [
       "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
@@ -3006,7 +2978,8 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -3069,7 +3042,9 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Information Retrieval (cs.IR)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -3098,8 +3073,10 @@
     ],
     "subjectives": [
       "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
       "Multimedia (cs.MM)",
-      "Sound (cs.SD)"
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -4977,7 +4954,8 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -5710,7 +5688,8 @@
     "subjectives": [
       "Sound (cs.SD)",
       "Artificial Intelligence (cs.AI)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -5798,7 +5777,8 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -6414,7 +6394,8 @@
       "Gus Xia"
     ],
     "subjectives": [
-      "Sound (cs.SD)"
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -7052,9 +7033,11 @@
       "Daibing Yao"
     ],
     "subjectives": [
-      "Artificial Intelligence (cs.AI)",
       "Multimedia (cs.MM)",
-      "Sound (cs.SD)"
+      "Artificial Intelligence (cs.AI)",
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -7203,7 +7186,8 @@
       "Yong Qin"
     ],
     "subjectives": [
-      "Sound (cs.SD)"
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -7446,7 +7430,7 @@
   },
   {
     "id": "2508.01687",
-    "title": "From SHAP to Rules: Distilling Expert Knowledge from Post-hoc Model Explanations in Time Series Classification",
+    "title": "Explaining Time Series Classifiers with PHAR: Rule Extraction and Fusion from Post-hoc Attributions",
     "authors": [
       "Maciej Mozolewski",
       "Szymon Bobek",
@@ -7473,7 +7457,8 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -8374,7 +8359,8 @@
     "subjectives": [
       "Human-Computer Interaction (cs.HC)",
       "Computer Vision and Pattern Recognition (cs.CV)",
-      "Sound (cs.SD)"
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -9090,7 +9076,8 @@
       "Weiqiang Wang"
     ],
     "subjectives": [
-      "Sound (cs.SD)"
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -9164,7 +9151,9 @@
       "Muhammad Waqar"
     ],
     "subjectives": [
-      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      "Information Theory (cs.IT)",
+      "Networking and Internet Architecture (cs.NI)"
     ]
   },
   {
@@ -9198,7 +9187,8 @@
       "Emerging Technologies (cs.ET)",
       "Human-Computer Interaction (cs.HC)",
       "Machine Learning (cs.LG)",
-      "Sound (cs.SD)"
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -9501,7 +9491,9 @@
       "Bj\u00f6rn W. Schuller"
     ],
     "subjectives": [
-      "Sound (cs.SD)"
+      "Sound (cs.SD)",
+      "Computation and Language (cs.CL)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -11493,7 +11485,8 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -12591,7 +12584,8 @@
       "Jo\u00e3o Sedoc"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Information Retrieval (cs.IR)"
     ]
   },
   {
@@ -13118,7 +13112,8 @@
     "subjectives": [
       "Sound (cs.SD)",
       "Human-Computer Interaction (cs.HC)",
-      "Machine Learning (cs.LG)"
+      "Machine Learning (cs.LG)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -13416,7 +13411,8 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
-      "Artificial Intelligence (cs.AI)"
+      "Artificial Intelligence (cs.AI)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -13792,7 +13788,8 @@
       "Bj\u00f6rn W. Schuller"
     ],
     "subjectives": [
-      "Sound (cs.SD)"
+      "Sound (cs.SD)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -14314,7 +14311,8 @@
       "Simon Ostermann"
     ],
     "subjectives": [
-      "Computation and Language (cs.CL)"
+      "Computation and Language (cs.CL)",
+      "Artificial Intelligence (cs.AI)"
     ]
   },
   {
@@ -14486,7 +14484,8 @@
     ],
     "subjectives": [
       "Sound (cs.SD)",
-      "Computer Vision and Pattern Recognition (cs.CV)"
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      "Audio and Speech Processing (eess.AS)"
     ]
   },
   {
@@ -15725,6 +15724,38 @@
     "subjectives": [
       "Quantum Physics (quant-ph)",
       "Cryptography and Security (cs.CR)"
+    ]
+  },
+  {
+    "id": "2508.01058",
+    "title": "ReCoSeg++:Extended Residual-Guided Cross-Modal Diffusion for Brain Tumor Segmentation",
+    "authors": [
+      "Sara Yavari",
+      "Rahul Nitin Pandya",
+      "Jacob Furst"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ]
+  },
+  {
+    "id": "2508.01064",
+    "title": "Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation",
+    "authors": [
+      "Fenghe Tang",
+      "Bingkun Nian",
+      "Jianrui Ding",
+      "Wenxin Ma",
+      "Quan Quan",
+      "Chengqi Dong",
+      "Jie Yang",
+      "Wei Liu",
+      "S. Kevin Zhou"
+    ],
+    "subjectives": [
+      "Image and Video Processing (eess.IV)",
+      "Computer Vision and Pattern Recognition (cs.CV)"
     ]
   },
   {
